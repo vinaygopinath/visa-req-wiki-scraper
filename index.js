@@ -29,6 +29,10 @@ readFile('./input/countries.json', 'utf8')
             }
           }
           console.log('Total: %d\n****', total);
+          scrapeResponse[VISA_REQUIREMENT.NOT_REQUIRED].push({
+            name: country.name,
+            note: 'home'
+          });
           return writeToFile(country.name, scrapeResponse);
         })
         .then(function() {
