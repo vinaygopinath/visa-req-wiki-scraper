@@ -7,7 +7,7 @@ module.exports = function(country) {
   if (!country) {
     return Promise.reject(new TypeError('Undefined country'));
   }
-  console.log('Scraping Wiki page - Visa requirements for ' + country + ' citizens');
+  console.log('\n\n*****\nScraping Wiki page - Visa requirements for ' + country + ' citizens');
   return new Promise(function(resolve, reject) {
     const wikiUrl = 'http://en.wikipedia.org/wiki/Visa_requirements_for_' + WikiUtils.capitalize(country) + '_citizens';
     // return Promise.resolve(

@@ -2,6 +2,7 @@ const scrapeCountryData = require('./tasks/scrape-country-data');
 const writeToFile = require('./tasks/write-to-file');
 const Promise = require('bluebird');
 const readFile = Promise.promisify(require('fs').readFile);
+const VISA_REQUIREMENT = require('./utils/wiki').VISA_REQUIREMENT;
 
 readFile('./input/countries.json', 'utf8')
   .then(function(countriesStr) {
@@ -16,14 +17,18 @@ readFile('./input/countries.json', 'utf8')
       // console.log('Processing ' + country.name);
       return scrapeCountryData(country.demonym)
         .then(function(scrapeResponse) {
-          console.log('\n*****\n' + country.name + ' stats:');
-          console.log('Visa not required: %d', scrapeResponse['not-required'].length);
-          console.log('Visa required: %d', scrapeResponse['required'].length);
-          console.log('Visa on arrival: %d', scrapeResponse['on-arrival'].length);
-          console.log('Visa status unknown: %d', scrapeResponse['unknown'].length);
-          console.log('Total countries: %d\n*****\n', scrapeResponse['not-required'].length
-            + scrapeResponse['required'].length + scrapeResponse['on-arrival'].length
-            + scrapeResponse['unknown'].length);
+          console.log('\n%s stats:\n****', country.name);
+          let total = 0;
+          for (let visaReq in VISA_REQUIREMENT) {
+            console.log('%s: %d', VISA_REQUIREMENT[visaReq], scrapeResponse[VISA_REQUIREMENT[visaReq]].length);
+            total += scrapeResponse[VISA_REQUIREMENT[visaReq]].length;
+            if (VISA_REQUIREMENT[visaReq] === VISA_REQUIREMENT.UNKNOWN) {
+              scrapeResponse[VISA_REQUIREMENT[visaReq]].forEach(country => {
+                console.log('Unknown: %s -> %s', country.name, country.visa);
+              });
+            }
+          }
+          console.log('Total: %d\n****', total);
           return writeToFile(country.name, scrapeResponse);
         })
         .then(function() {
