@@ -11,11 +11,15 @@ const removeBrackets = function(input) {
   return input.replace(/\[.*?\]/g, '');
 };
 
-const VISA_NOT_REQUIRED = ['visa not required'];
-const EVISA = ['evisa', 'etourist visa', 'electronic travel', 'evisitor', 'online visitor', 'electronic entry visa'];
-const VISA_ON_ARRIVAL = ['visa on arrival', 'visitor\'s permit on arrival', 'entry permit on arrival', 'tourist card on arrival'];
-const VISA_REQUIRED = ['visa required', 'tourist card required'];
-const VISA_REFUSED = ['visa refused', 'admission refused', 'invalid passport'];
+const VISA_NOT_REQUIRED = ['visa not required', 'freedom of movement', 'notrequired', 'freedom of movement', 'reciprocity fee', 'visa is not required'];
+const EVISA = ['evisa', 'etourist visa', 'electronic travel', 'evisitor', 'online visitor', 'electronic entry visa', 'electronic visa', 'electronic visa waiver', 'electronic visitor e600 visa', 'electronic authorization', 'e600Visa'];
+const VISA_ON_ARRIVAL = ['visa on arrival', 'visitor\'s permit on arrival', 'permit on arrival', 'tourist card on arrival', 'visa is granted on arrival'];
+const VISA_REFUSED = ['visa refused', 'admission refused', 'invalid passport', 'travel banned'];
+const VISA_REQUIRED = ['visa required', 'tourist card required', 'visa de facto required', 'with home return permit only', 'admission partially refused / partially allowed', 'entry clearance required', 'special authorization required', 'visa is required', 'special provisions', 'visa for italy required'];
+
+//Uncommon terms to be checked when all other matches fail
+//Checking these terms after others reduces the likelihood of false positives
+const RARE_EVISA = ['eta'];
 
 module.exports = {
   VISA_REQUIREMENT,
@@ -44,6 +48,9 @@ module.exports = {
     }
     if (VISA_REQUIRED.some(visaReqStr => reqText.includes(visaReqStr))) {
       return VISA_REQUIREMENT.REQUIRED;
+    }
+    if (RARE_EVISA.some(evisaStr => reqText.includes(evisaStr))) {
+      return VISA_REQUIREMENT.EVISA;
     }
     return VISA_REQUIREMENT.UNKNOWN;
   }
