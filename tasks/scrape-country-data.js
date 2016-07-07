@@ -1,6 +1,7 @@
 const Promise = require('bluebird');
 const Nightmare = require('nightmare');
 const WikiUtils = require('../utils/wiki');
+const VISA_REQUIREMENT = WikiUtils.VISA_REQUIREMENT;
 
 module.exports = function(country) {
   if (!country) {
@@ -57,10 +58,12 @@ module.exports = function(country) {
         if (!countries || !countries.length) {
           return reject(new Error('Unable to fetch Wikipedia table rows for ' + country));
         }
-        const visaReqCountries = [],
-          visaNotReqCountries = [],
-          visaOnArrivalCountries = [],
-          visaUnknownCountries = [];
+
+        const res = {};
+        for (let visaReq in VISA_REQUIREMENT) {
+          res[VISA_REQUIREMENT[visaReq]] = [];
+        }
+
         for (let rawCountry of countries) {
           const countryJSON = {
             name: rawCountry.name
@@ -68,26 +71,12 @@ module.exports = function(country) {
           if (rawCountry.note) {
             countryJSON.note = WikiUtils.removeBrackets(rawCountry.note);
           }
-          switch (WikiUtils.getVisaRequirement(rawCountry.visa)) {
-            case WikiUtils.VISA_REQUIREMENT.REQUIRED: //eslint-disable-line indent
-              visaReqCountries.push(countryJSON); //eslint-disable-line indent
-              break; //eslint-disable-line indent
-            case WikiUtils.VISA_REQUIREMENT.NOT_REQUIRED: //eslint-disable-line indent
-              visaNotReqCountries.push(countryJSON); //eslint-disable-line indent
-              break; //eslint-disable-line indent
-            case WikiUtils.VISA_REQUIREMENT.ON_ARRIVAL: //eslint-disable-line indent
-              visaOnArrivalCountries.push(countryJSON); //eslint-disable-line indent
-              break; //eslint-disable-line indent
-            default: //eslint-disable-line indent
-              countryJSON.visa = WikiUtils.removeBrackets(rawCountry.visa); //eslint-disable-line indent
-              visaUnknownCountries.push(countryJSON); //eslint-disable-line indent
+          let visaRequirement = WikiUtils.getVisaRequirement(rawCountry.visa);
+          if (visaRequirement === VISA_REQUIREMENT.UNKNOWN) {
+            countryJSON.visa = rawCountry.visa;
           }
-          resolve({
-            'required': visaReqCountries,
-            'not-required': visaNotReqCountries,
-            'on-arrival': visaOnArrivalCountries,
-            'unknown': visaUnknownCountries
-          });
+          res[visaRequirement].push(countryJSON);
+          resolve(res);
         }
       }, function(err) {
         console.log('Something went wrong = ', err);

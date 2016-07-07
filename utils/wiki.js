@@ -1,13 +1,21 @@
 const VISA_REQUIREMENT = {
   REQUIRED: 'required',
   NOT_REQUIRED: 'not-required',
+  EVISA: 'evisa',
   ON_ARRIVAL: 'on-arrival',
+  REFUSED: 'refused',
   UNKNOWN: 'unknown'
 };
 
 const removeBrackets = function(input) {
   return input.replace(/\[.*?\]/g, '');
 };
+
+const VISA_NOT_REQUIRED = ['visa not required'];
+const EVISA = ['evisa', 'etourist visa', 'electronic travel', 'evisitor', 'online visitor', 'electronic entry visa'];
+const VISA_ON_ARRIVAL = ['visa on arrival', 'visitor\'s permit on arrival', 'entry permit on arrival', 'tourist card on arrival'];
+const VISA_REQUIRED = ['visa required', 'tourist card required'];
+const VISA_REFUSED = ['visa refused', 'admission refused', 'invalid passport'];
 
 module.exports = {
   VISA_REQUIREMENT,
@@ -20,17 +28,23 @@ module.exports = {
       throw new Error('Visa requirement text is missing');
     }
     //Remove square brackets, trim whitespace and convert to lowercase
-    let reqText = removeBrackets(rawWikiText).trim().toLowerCase();
-    switch (reqText) {
-      case 'visa required': //eslint-disable-line indent
-        return VISA_REQUIREMENT.REQUIRED; //eslint-disable-line indent
-      case 'visa not required': //eslint-disable-line indent
-        return VISA_REQUIREMENT.NOT_REQUIRED; //eslint-disable-line indent
-      case 'visa on arrival': //eslint-disable-line indent
-        return VISA_REQUIREMENT.ON_ARRIVAL; //eslint-disable-line indent
-      //TODO Add additional cases/visa requirement types
-      default: //eslint-disable-line indent
-        return VISA_REQUIREMENT.UNKNOWN; //eslint-disable-line indent
+    let reqText = removeBrackets(rawWikiText).trim().toLowerCase().replace(/-/g, '');
+
+    if (VISA_REFUSED.some(visaRefusedStr => reqText.includes(visaRefusedStr))) {
+      return VISA_REQUIREMENT.REFUSED;
     }
+    if (VISA_NOT_REQUIRED.some(visaNotReqStr => reqText.includes(visaNotReqStr))) {
+      return VISA_REQUIREMENT.NOT_REQUIRED;
+    }
+    if (VISA_ON_ARRIVAL.some(visaOnArrStr => reqText.includes(visaOnArrStr))) {
+      return VISA_REQUIREMENT.ON_ARRIVAL;
+    }
+    if (EVISA.some(evisaStr => reqText.includes(evisaStr))) {
+      return VISA_REQUIREMENT.EVISA;
+    }
+    if (VISA_REQUIRED.some(visaReqStr => reqText.includes(visaReqStr))) {
+      return VISA_REQUIREMENT.REQUIRED;
+    }
+    return VISA_REQUIREMENT.UNKNOWN;
   }
 };
