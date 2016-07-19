@@ -1,0 +1,654 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Belarus"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Colombia"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France",
+      "note": "Visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
+    },
+    {
+      "name": "Gabon"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Laos"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lebanon"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Rwanda",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Serbia"
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days visa on arrival, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkey"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United States",
+      "note": "Visa not required for Guam and Northern Mariana Islands."
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam"
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Antigua and Barbuda",
+      "note": "1 month"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "3 months"
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Botswana",
+      "note": "3 months"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "30 days"
+    },
+    {
+      "name": "Dominica",
+      "note": "6 months"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "The Gambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Grenada",
+      "note": "3 months"
+    },
+    {
+      "name": "Guatemala",
+      "note": "90 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "90 days"
+    },
+    {
+      "name": "Honduras",
+      "note": "90 days"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Republic of Ireland"
+    },
+    {
+      "name": "Israel",
+      "note": "90 days"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Kiribati",
+      "note": "30 days"
+    },
+    {
+      "name": "South Korea",
+      "note": "30 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Malaysia",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Panama",
+      "note": "180 days"
+    },
+    {
+      "name": "Peru",
+      "note": "180 days"
+    },
+    {
+      "name": "Russia",
+      "note": "14 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Singapore"
+    },
+    {
+      "name": "Tanzania",
+      "note": "3 months"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "United Kingdom",
+      "note": "6 months"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "90 days"
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "3 months"
+    },
+    {
+      "name": "Nauru",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Georgia (country)",
+      "note": "up to 90 days"
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Armenia",
+      "note": "120 days"
+    },
+    {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Cambodia"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "30 days"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "Conditional."
+    },
+    {
+      "name": "Jordan",
+      "note": "3 months"
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "Sri Lanka"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tonga",
+      "note": "31 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda",
+      "note": "3 months"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

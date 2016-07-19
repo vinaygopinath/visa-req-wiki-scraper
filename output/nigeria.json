@@ -1,0 +1,627 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Armenia"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Belarus"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bolivia"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burundi"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Colombia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Ecuador"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guyana"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Indonesia"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland"
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Laos"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lebanon"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Malaysia"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Nepal"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Panama"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Serbia"
+    },
+    {
+      "name": "Singapore"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "Somalia",
+      "note": "Visa on arrival for 30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sri Lanka"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkey"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam"
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Barbados",
+      "note": "6 months"
+    },
+    {
+      "name": "Benin",
+      "note": "90 days"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Cameroon",
+      "note": "90 days"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Chad",
+      "note": "3 months"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Dominica",
+      "note": "6 months"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guinea-Bissau"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "3 months"
+    },
+    {
+      "name": "Senegal",
+      "note": "90 days"
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Togo"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "Nigeria",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Georgia (country)"
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bangladesh",
+      "note": "30 days"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mauritius",
+      "note": "2 weeks"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "30 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Rwanda",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "3 month"
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    }
+  ],
+  "refused": [
+    {
+      "name": "Bahrain"
+    }
+  ],
+  "unknown": []
+}

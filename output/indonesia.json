@@ -1,0 +1,668 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Australia",
+      "note": "Transit visa is not required."
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belarus",
+      "note": "Visas are issued on arrival at the Minsk International Airport\nif the support documents were submitted not later than 3 business days before expected date of arrival."
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bolivia"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "China",
+      "note": "Reciprocal visa-waiver is currently under consideration."
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cuba",
+      "note": "30 days"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "Iraq",
+      "note": "As of July 2014, due to safety concerns, Indonesian government advises its citizens not to visit Iraq."
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa is issued free of charge."
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea",
+      "note": "Reciprocal visa-waiver is currently under negotiation."
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lebanon",
+      "note": "In addition to a visa, an approval should be obtained from the Immigration department of the General Directorate for General Secutiy (La Surete Generale)."
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya",
+      "note": "As of March 2015, due to safety concerns, Indonesian government advises its citizens not to visit Libya."
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Mauritius"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Mozambique",
+      "note": "Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Pakistan",
+      "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply."
+    },
+    {
+      "name": "Panama"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Russia",
+      "note": "Reciprocal visa-waiver is currently under negotiation."
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Serbia"
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "Electronic visa available to passengers boarding Emirates or Etihad flight(s)"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Yemen",
+      "note": "As of April 2016, due to safety concerns, Indonesian government advises its citizens not to visit Yemen."
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Brunei",
+      "note": "14 days"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
+    },
+    {
+      "name": "Chile",
+      "note": "90 days"
+    },
+    {
+      "name": "Colombia",
+      "note": "180 days"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Fiji",
+      "note": "120 days"
+    },
+    {
+      "name": "The Gambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Guyana",
+      "note": "30 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "90 days"
+    },
+    {
+      "name": "Japan",
+      "note": "15 days ; only if passport is endorsed with a Visa Waiver Registration Certificate. The certificate can only be issued for biometric passport (electronic passport) holders."
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Malaysia",
+      "note": "30 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Morocco",
+      "note": "90 days"
+    },
+    {
+      "name": "Myanmar",
+      "note": "14 days"
+    },
+    {
+      "name": "Peru",
+      "note": "183 days"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "30 days"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Thailand",
+      "note": "30 days"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days"
+    },
+    {
+      "name": "Indonesia",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda",
+      "note": "30 days"
+    },
+    {
+      "name": "Bahrain",
+      "note": "14 days"
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "May obtain online  and must arrive at Port Bouet Airport"
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Georgia (country)"
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "90 days"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
+    },
+    {
+      "name": "Rwanda",
+      "note": "30 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "30 days"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "15 days"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "30 days"
+    },
+    {
+      "name": "Zambia",
+      "note": "30 days"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Armenia",
+      "note": "120 days"
+    },
+    {
+      "name": "Burundi",
+      "note": "90 days"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jordan",
+      "note": "90 days"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "note": "1 month. Available at Manas International Airport."
+    },
+    {
+      "name": "Madagascar",
+      "note": "30 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Marshall Islands",
+      "note": "90 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Oman",
+      "note": "30 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Papua New Guinea",
+      "note": "Free visa on arrival for 60 days. Extension is possible with a fee"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "3 Months"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days"
+    },
+    {
+      "name": "Suriname",
+      "note": "90 days"
+    },
+    {
+      "name": "Tajikistan",
+      "note": "45 days at Dushanbe International Airport. Visa also available online. E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "30 days"
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "90 days"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

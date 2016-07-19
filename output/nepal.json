@@ -1,0 +1,637 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Armenia"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belarus"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Colombia"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Ecuador"
+    },
+    {
+      "name": "Egypt",
+      "note": "Conditional visa on arrival can be obtained"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Fiji"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland"
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea",
+      "note": "Visa not required for a stay of max. 30 days provided holding visa for Australia, Canada, Japan, New Zealand or U.S.A. and in transit to/from those countries Although Visa Not required to Visit Jeju Island for the period of 30 Days."
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lebanon"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia"
+    },
+    {
+      "name": "Malaysia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico",
+      "note": "Visa not required for any valid USA visa (e.g. H, L, F, J, B1/B2 etc.) holders to enter Mexico with tourist, transit & business purposes. Legal Permanent Residents of USA, Canada, Japan, United Kingdom & Schengen States do not require visa to enter Mexico with tourist, transit & business purposes."
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Nicaragua"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Panama"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Rwanda",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Serbia",
+      "note": "Visa free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States."
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "Somalia",
+      "note": "Visa on arrival for 30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkey"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Prearranged visa obtained online through travel agencies available at Hanoi, Ho Chi Minh City, Phu Quoc or Da Nang airports.\nPhú Quốc Visa exemption for up to 30 days."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "The Gambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "India",
+      "note": "Nepalese citizens may live and work freely in India under the 1950 Indo-Nepal Treaty of Peace and Friendship."
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Pakistan",
+      "note": "1 month"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "30 days"
+    },
+    {
+      "name": "Senegal",
+      "note": "90 days"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "Visa required and eVisa can be applied online. Visa not required for Nepalese citizen up to 90 days who are holders of valid visa or residence permit issued by USA, UK, Japan, Canada, Australia, New Zealand, Israel, South Korea, Schengen and GCC countries."
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days; must hold return or onward ticket"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Tanzania",
+      "note": "3 months"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

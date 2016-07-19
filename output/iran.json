@@ -1,0 +1,638 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra",
+      "note": "Multiple Schengen Visa is required to enter Andorra."
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "Citizens of Iran can obtain a 15-day visa on arrival only for the Nakhchivan Autonomous Republic."
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Bangladesh"
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belarus"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi"
+    },
+    {
+      "name": "Cambodia"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Colombia"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Fiji"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Indonesia"
+    },
+    {
+      "name": "Iraq",
+      "note": "Visa on arrival at Erbil (EBL) and Sulaymaniyah (ISU) for a max stay of 15 days is available."
+    },
+    {
+      "name": "Republic of Ireland"
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mauritius"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Panama"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Rwanda",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Serbia",
+      "note": "Visa free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states and the United States."
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Singapore",
+      "note": "May obtain online."
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States",
+      "note": "Visa required even for dual citizens of countries under the Visa Waiver Program."
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days for nationals of all countries arriving at Phu Quoc (PQC)"
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "45 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Malaysia",
+      "note": "14 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "90 days"
+    },
+    {
+      "name": "Venezuela",
+      "note": "15 days"
+    },
+    {
+      "name": "Iran",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Zambia"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Armenia",
+      "note": "120 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "30 days; only at Cochabamba, La Paz and Santa Cruz airports"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Guyana",
+      "note": "90 days (a letter of invitation from sponsor or host required)"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "90 Days (25 - 100 US$)"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "Tajikistan",
+      "note": "45 days at Dushanbe International Airport. Visa also available online. E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Tanzania",
+      "note": "3 months"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "3 months"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

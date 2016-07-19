@@ -1,0 +1,708 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi"
+    },
+    {
+      "name": "Cameroon",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "China",
+      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shanghai, Shenyang and Xi'an."
+    },
+    {
+      "name": "Colombia"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Fiji"
+    },
+    {
+      "name": "Ghana",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Indonesia"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa is issued free of charge.\nVisa waiver for UK 'C' visa holders until October 2016.\nEntry permitted only if first point of entry to the Common Travel Area is in the UK."
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Libya",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Malaysia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Mongolia",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Rwanda",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Sierra Leone",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Turkmenistan",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Pre-arranged visa obtained online through travel agencies available at Hanoi, Ho Chi Minh City or Da Nang airports."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Albania",
+      "note": "90 days; ID card valid"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Argentina",
+      "note": "90 days"
+    },
+    {
+      "name": "Armenia",
+      "note": "120 days"
+    },
+    {
+      "name": "Austria",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Belarus",
+      "note": "30 days, provided that there is a private invitation or tourist document"
+    },
+    {
+      "name": "Belgium",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "90 days within 180 days; ID card valid"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Chile",
+      "note": "90 days"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "90 days"
+    },
+    {
+      "name": "Croatia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Cuba",
+      "note": "90 days"
+    },
+    {
+      "name": "Cyprus",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Denmark",
+      "note": "90 days within 180 days (DK)"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Estonia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Finland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "France",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Germany",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Greece",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "90 days"
+    },
+    {
+      "name": "Hungary",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Iceland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Israel",
+      "note": "3 months"
+    },
+    {
+      "name": "Italy",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "South Korea",
+      "note": "30 days"
+    },
+    {
+      "name": "Latvia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Lithuania",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "60 days; ID card valid"
+    },
+    {
+      "name": "Malta",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Netherlands",
+      "note": "90 days within 180 days (European Netherlands)"
+    },
+    {
+      "name": "Norway",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Panama",
+      "note": "180 days"
+    },
+    {
+      "name": "Peru",
+      "note": "up to 183 days"
+    },
+    {
+      "name": "Poland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Portugal",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Romania",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Russia",
+      "note": "30 days"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Serbia",
+      "note": "90 days within 180 days; ID card valid"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Slovakia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Slovenia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Spain",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Swaziland",
+      "note": "30 days"
+    },
+    {
+      "name": "Sweden",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Switzerland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "note": "30 days"
+    },
+    {
+      "name": "Tunisia",
+      "note": "3 months"
+    },
+    {
+      "name": "Turkey",
+      "note": "3 months"
+    },
+    {
+      "name": "Ukraine",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Montenegro",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bangladesh",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days. Visa is also obtainable online."
+    },
+    {
+      "name": "Cape Verde",
+      "note": "Not available at all entry points."
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti",
+      "note": "Not available at all entry points."
+    },
+    {
+      "name": "Grenada",
+      "note": "3 months"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jamaica",
+      "note": "30 days"
+    },
+    {
+      "name": "Jordan",
+      "note": "Conditions apply. Not available at all entry points."
+    },
+    {
+      "name": "Kyrgyzstan",
+      "note": "1 month. Available at Manas International Airport."
+    },
+    {
+      "name": "Laos",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mauritius",
+      "note": "60 days"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Qatar",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda",
+      "note": "Determined at the port of entry."
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

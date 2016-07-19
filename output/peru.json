@@ -1,0 +1,727 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania",
+      "note": "Except for passengers with a valid multiple entry visa issued by the USA, the UK, or a Schengen Member State."
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "Belarus",
+      "note": "Visas are issued on arrival at the Minsk International Airport.\nAll visa support documents must be submitted to the Consular Division at Minsk (MSQ) in advance, at least 3 working days (for short-term visas) or 5 working days (for long-term visas) prior to arrival."
+    },
+    {
+      "name": "Belize",
+      "note": "Except for holders of a valid multiple entry visa issued by the USA. Fee: USD 50.-."
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan",
+      "note": "Visas are obtainable on arrival for a max. stay of 15 days if application is sent by a tour operator to the Department of Tourism, at least 2 1/2 months in advance, and visa clearance is obtained."
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "Except for passengers with a valid multiple entry visa, issued by Bulgaria, Croatia, Cyprus, Ireland, Monaco, Romania, the UK, or a Schengen Member State, and travelling from the country of issue. They are visa exempt for a max. stay of 7 days."
+    },
+    {
+      "name": "Burkina Faso",
+      "note": "Holders of Peruvian passports can obtain a visa on arrival for a max. stay of 1 month, if holding a valid visa issued by a Schengen Member State. Single entry fee: XOF 47,000.-. Multiple entry fee: XOF 61,000.-."
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Cuba",
+      "note": "Tourist Cards grant a max. stay of 30 days to nationals of Peru."
+    },
+    {
+      "name": "El Salvador",
+      "note": "Except for passengers with a valid visa issued by Canada, the USA, or a Schengen Member State."
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "The Gambia",
+      "note": "Except for passengers travelling as tourists on a charter flight."
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": ""
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Serbia",
+      "note": "Except for passengers with a valid visa issued by Switzerland, the USA or an EEA Member State for a max. stay of 90 days within 180 days. Extension possible."
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Pre-arranged visa obtained online through travel agencies available at Hanoi, Ho Chi Minh City, Phu Quoc or Da Nang airports.\nPhú Quốc without a visa for up to 30 days."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Andorra",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "note": "The initial duration of stay for nationals of Peru is determined by the Immigration Officer on arrival. Extension possible."
+    },
+    {
+      "name": "Argentina",
+      "note": "90 days"
+    },
+    {
+      "name": "Austria",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "3 months"
+    },
+    {
+      "name": "Barbados",
+      "note": "28 days"
+    },
+    {
+      "name": "Belgium",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Botswana",
+      "note": "90 days"
+    },
+    {
+      "name": "Brazil",
+      "note": "90 days"
+    },
+    {
+      "name": "Brunei",
+      "note": "14 days"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Chile",
+      "note": "90 days"
+    },
+    {
+      "name": "Colombia",
+      "note": "180 days"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "90 days"
+    },
+    {
+      "name": "Croatia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Cyprus",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Denmark",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Ecuador",
+      "note": "180 days"
+    },
+    {
+      "name": "Estonia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "Finland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "France",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Germany",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Greece",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Guatemala",
+      "note": "90 days"
+    },
+    {
+      "name": "Guyana",
+      "note": "90 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Honduras",
+      "note": "30 days"
+    },
+    {
+      "name": "Hungary",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Iceland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Israel",
+      "note": "3 months"
+    },
+    {
+      "name": "Italy",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Jamaica",
+      "note": "30 days"
+    },
+    {
+      "name": "South Korea",
+      "note": "90 days"
+    },
+    {
+      "name": "Latvia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Lithuania",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Malaysia",
+      "note": "3 months"
+    },
+    {
+      "name": "Malta",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Mexico",
+      "note": "180 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Monaco",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Montenegro",
+      "note": "30 days"
+    },
+    {
+      "name": "Morocco",
+      "note": "3 months"
+    },
+    {
+      "name": "Netherlands",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Norway",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Panama",
+      "note": "90 days"
+    },
+    {
+      "name": "Paraguay",
+      "note": "90 days"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Poland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Portugal",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Romania",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Russia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "3 months"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month. Extension of stay possible."
+    },
+    {
+      "name": "San Marino",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Slovakia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Slovenia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "South Africa",
+      "note": "30 days"
+    },
+    {
+      "name": "Spain",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Sweden",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Switzerland",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Thailand",
+      "note": "90 days within 180 days. Extension possible."
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "note": "90 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Uruguay",
+      "note": "3 months"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "Vatican City",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Venezuela",
+      "note": "90 days. Extension of stay possible for additional 90 days."
+    },
+    {
+      "name": "Peru",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Gabon",
+      "note": "eVisa holders must arrive at Libreville International Airport."
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "90 days"
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days. Fees vary and must be paid in USD. Extension of stay possible for additional 150 days. May apply online."
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Armenia",
+      "note": "120 days. Obtainable on arrival at Zvartnots International Airport. Fee: AMD 15,000.-, payable in local currency only. Extension possible."
+    },
+    {
+      "name": "Bahrain",
+      "note": "2 weeks. Fee: BHD 25.-. Extension of stay possible for additional 2 weeks. Visa is also obtainable online."
+    },
+    {
+      "name": "Bangladesh",
+      "note": "30 days. Fee: Varies per country. Extension possible."
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months. Obtainable on arrival at Bujumbura airport (BJM)."
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days. Fee: USD 30.- for tourists; USD 35.- when traveling on business. Obtainable on arrival at Airport or main points of Border Crossing"
+    },
+    {
+      "name": "Cape Verde",
+      "note": "Fee: EUR 25.-."
+    },
+    {
+      "name": "Comoros",
+      "note": "Fee: EUR 30.-, or USD 50.-."
+    },
+    {
+      "name": "Djibouti",
+      "note": "Fee: Stays of max. 1 month: DJF 15,000.-, EUR 75.- or USD 90.-. Stays of more than 1 month: DJF 20,000.-, EUR 100.- or USD 120.-."
+    },
+    {
+      "name": "Egypt",
+      "note": "30 days. Fee: Single entry: USD 25.-. Multiple entry USD 35.-. Extension of stay possible."
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days. Fee: XOF 55,000.- or EUR 85.-."
+    },
+    {
+      "name": "Iran",
+      "note": "30 days. Fee: Between EUR 30.- and EUR 80.-. Extension of stay possible."
+    },
+    {
+      "name": "Jordan",
+      "note": "Visa on arrival fees: JOD 40.- for stay of max. 2 months and single entry; JOD 60.- valid for 3 months and two entries; JOD 120.- valid for 6 months and multiple entries."
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months. Fee: USD 50.-, also payable in EUR or GBP (cash only). Extension of stay possible for additional 3 months. May apply online."
+    },
+    {
+      "name": "Laos",
+      "note": "30 days "
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months. Free of charge at Beirut International Airport, if there is no Israeli visa or stamp, holding a telephone number and address in Lebanon."
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days. Fee: Max. 30 days: MGA 80,000.-. Max. 60 days: MGA 100,000.-. Max. 90 days: MGA 140,000.- (or equivalent in EUR or USD)."
+    },
+    {
+      "name": "Malawi",
+      "note": "30 days. They can apply to extend their stay for additional 60 days."
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days. Extensions of stay possible up to a max. of 90 days, for a fee: MVR 750.-."
+    },
+    {
+      "name": "Marshall Islands",
+      "note": "90 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mauritius",
+      "note": "60 days"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days via Beira (BEW), Nampula (APL), Maputo (MPM), Pemba (POL), Tete (TET) and Vilankulo (VNX) airports. Extension of further 30 days possible. Fee: USD 66.-."
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days. Fee: Between USD 25.- and USD 100.- or equivalent in convertible currency."
+    },
+    {
+      "name": "Nicaragua",
+      "note": "30 days. Fee: USD 50.-."
+    },
+    {
+      "name": "Palau",
+      "note": "30 days. Free of charge. Extension possible for a fee: USD 50.-."
+    },
+    {
+      "name": "Papua New Guinea",
+      "note": "60 days via Port Moresby (POM) and Rabaul (RAB) airports. Fee: Varies from free of charge to PGK 500.-."
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks. Fee: USD 50.-."
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days. Extension of stay possible."
+    },
+    {
+      "name": "Seychelles",
+      "note": "3 months. Free of charge. Extensions possible for further periods of 3 months, up to a max. stay of 12 months. Fee: SCR 5,000.- per extension."
+    },
+    {
+      "name": "Solomon Islands",
+      "note": "3 months"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days. Provided an invitation letter issued by the sponsor has been submitted to the Airport Immigration Department at least 2 days before arrival. Fee: USD 50.-. Extension of stay possible for additional 30 days."
+    },
+    {
+      "name": "Suriname",
+      "note": "90 days. Obtainable on arrival at Paramaribo International Airport (PBM). Fee: USD 35.- for a single entry."
+    },
+    {
+      "name": "Tanzania",
+      "note": "Fee: Between USD 50.- and USD 100.- (cash only). The fee can only be paid with notes of USD 50.- or USD 100.-."
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days. Fee: USD 30.- (payable in USD only)."
+    },
+    {
+      "name": "Togo",
+      "note": "7 days. Extension of stay possible for additional 90 days. Fee: Vary between XOF 10,000.- and XOF 90,000.- depending on duration of stay."
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda",
+      "note": "Fee: USD 100.-."
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days within 1 year. Fee: USD 50.- (single entry) and USD 80.- (multiple entry)."
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

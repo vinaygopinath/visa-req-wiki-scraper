@@ -1,0 +1,661 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil",
+      "note": "Agreement between Brazilian and Belarusian governments is achieved to abolish visas, but it still needs to be ratified by both parliaments"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China",
+      "note": "Visa not required for 30 days for travelling as part of an accredited tour group."
+    },
+    {
+      "name": "Colombia"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Fiji"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana",
+      "note": "Visa on arrival for holders of a letter of invitation from sponsor or host."
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa waiver for UK 'C' visa holders until October 2016. Entry permitted only if first point of entry to the Common Travel Area is in the UK."
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "Cruise ship passengers visiting for one day are exempted from obtaining visas."
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Singapore",
+      "note": "May obtain online."
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "Somalia",
+      "note": "Visa on arrival valid for 30 days for holders of an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Albania",
+      "note": "90 days. Temporary visa exemption from 15 May to 1 November 2016."
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "note": "1 month"
+    },
+    {
+      "name": "Armenia"
+    },
+    {
+      "name": "Azerbaijan"
+    },
+    {
+      "name": "Barbados",
+      "note": "28 days"
+    },
+    {
+      "name": "Cuba",
+      "note": "30 days"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "360 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Israel",
+      "note": "90 days within 180 days for tourism purposes starting from 26 November 2015."
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "90 days"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "Must hold a voucher or travel through an agency."
+    },
+    {
+      "name": "Malaysia",
+      "note": "30 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Mongolia",
+      "note": "90 days"
+    },
+    {
+      "name": "Montenegro",
+      "note": "30 days, must hold a voucher, confirmation of hotel or private accommodation or notarized invitation letter."
+    },
+    {
+      "name": "Namibia",
+      "note": "3 months"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Panama",
+      "note": "180 days"
+    },
+    {
+      "name": "Peru",
+      "note": "183 days"
+    },
+    {
+      "name": "Russia",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "Serbia",
+      "note": "30 days"
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Tunisia",
+      "note": "90 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "30 days, for tourist visits of up to 90 days within 180 days starting from the first entry date"
+    },
+    {
+      "name": "Ukraine",
+      "note": "90 days within a 180-day period"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "Venezuela",
+      "note": "90 days"
+    },
+    {
+      "name": "Vietnam",
+      "note": "15 days — effective 1 July 2015"
+    },
+    {
+      "name": "Belarus",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months; visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days"
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "Cruise ship passengers can enter and stay for up to 24 hours without a visa."
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bangladesh",
+      "note": "30 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Grenada",
+      "note": "3 months"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Jordan"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    },
+    {
+      "name": "Madagascar",
+      "note": "30 days free of charge"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mauritius",
+      "note": "60 days"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Qatar",
+      "note": "Must hold a credit card or at least USD 1,000, a return ticket and a hotel reservation or staying with someone residing in Qatar."
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "3 months"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

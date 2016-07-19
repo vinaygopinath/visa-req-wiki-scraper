@@ -1,0 +1,710 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China",
+      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shanghai, Shenyang and Xi'an."
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa waiver for UK 'C' visa holders until October 2016. Entry permitted only if first point of entry to the Common Travel Area is in the UK."
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Mozambique",
+      "note": "Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Albania",
+      "note": "90 days"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "note": "30 days"
+    },
+    {
+      "name": "Austria",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "3 months"
+    },
+    {
+      "name": "Bahrain",
+      "note": "Freedom of movement."
+    },
+    {
+      "name": "Belarus",
+      "note": "30 days"
+    },
+    {
+      "name": "Belgium",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "90 days"
+    },
+    {
+      "name": "Botswana",
+      "note": "90 days"
+    },
+    {
+      "name": "Brunei",
+      "note": "30 days"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Colombia",
+      "note": "180 days"
+    },
+    {
+      "name": "Croatia",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Cyprus",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Denmark",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "Tourist card required."
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Egypt",
+      "note": "90 days"
+    },
+    {
+      "name": "El Salvador",
+      "note": "90 days"
+    },
+    {
+      "name": "Estonia",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "Finland",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "France",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "The Gambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "360 days"
+    },
+    {
+      "name": "Germany",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Greece",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guatemala",
+      "note": "90 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Hungary",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Iceland",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days. Select ports of entry."
+    },
+    {
+      "name": "Italy",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Jordan",
+      "note": "3 months"
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "15 days as part of the no-visa pilot program in period 15 July 2014 - 31 December 2017"
+    },
+    {
+      "name": "South Korea",
+      "note": "30 days"
+    },
+    {
+      "name": "Kuwait",
+      "note": "Freedom of movement."
+    },
+    {
+      "name": "Kyrgyzstan",
+      "note": "60 days"
+    },
+    {
+      "name": "Latvia",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Lebanon",
+      "note": "6 months"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Lithuania",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "90 days"
+    },
+    {
+      "name": "Malaysia",
+      "note": "3 months"
+    },
+    {
+      "name": "Malta",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Montenegro",
+      "note": "90 days"
+    },
+    {
+      "name": "Morocco",
+      "note": "3 months"
+    },
+    {
+      "name": "Netherlands",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "New Zealand",
+      "note": "90 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Norway",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Oman",
+      "note": "Freedom of movement."
+    },
+    {
+      "name": "Panama",
+      "note": "180 days"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Poland",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Portugal",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Qatar",
+      "note": "Freedom of movement."
+    },
+    {
+      "name": "Romania",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "3 months"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Saudi Arabia",
+      "note": "Freedom of movement."
+    },
+    {
+      "name": "Serbia",
+      "note": "90 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "90 days"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Slovakia",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Slovenia",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Spain",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Swaziland",
+      "note": "30 days"
+    },
+    {
+      "name": "Sweden",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Switzerland",
+      "note": "90 days within 180 days inside Schengen Area"
+    },
+    {
+      "name": "Thailand",
+      "note": "1 month"
+    },
+    {
+      "name": "Tunisia",
+      "note": "90 days"
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Ivory Coast",
+      "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Rwanda",
+      "note": "90 days"
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "3 months"
+    },
+    {
+      "name": "United Kingdom",
+      "note": "6 months"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Armenia",
+      "note": "180 days"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "30 days; obtainable at any international airport."
+    },
+    {
+      "name": "Bangladesh",
+      "note": "30 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Marshall Islands",
+      "note": "90 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Senegal",
+      "note": "3 months"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Tajikistan",
+      "note": "45 days at Dushanbe International Airport. Visa also available online. E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "Ukraine",
+      "note": "15 days"
+    },
+    {
+      "name": "Yemen",
+      "note": "3 months"
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days; also eligible for a universal visa allowing access to Zimbabwe."
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "90 days; also eligible for a universal visa allowing access to Zambia."
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

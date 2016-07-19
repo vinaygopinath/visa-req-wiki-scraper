@@ -1,0 +1,686 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania",
+      "note": "Not required if holding a multiple entry C Schengen visa"
+    },
+    {
+      "name": "Andorra",
+      "note": "The Andorran government imposes no visa requirements on its visitors and only requires a passport for entrance. However, since the country is only accessible via the Schengen countries Spain or France, entrance is not possible without entering the Schengen area first and the Schengen visa rules can therefore be regarded to apply de facto. Because Andorra is not part of the Schengen area, a multiple entry visa is required to reenter the Schengen area when leaving Andorra"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Armenia"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "Holders of a pre-arranged approval may obtain visa on arrival."
+    },
+    {
+      "name": "The Bahamas"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Belarus",
+      "note": "Holders of a pre-arranged approval may obtain visa on arrival."
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan",
+      "note": "Holders of an application for a tourist visa can obtain a visa on arrival"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "Not required if holding a multiple entry C Schengen visa"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "Not required if holding a multiple entry C Schengen visa (5 days entry)"
+    },
+    {
+      "name": "Cameroon",
+      "note": "Holders of a pre-arranged approval issued by \"Le Delegue General de la Surete\" can obtain a visa on arrival."
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Colombia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "except for Passengers with a multiple-entry business or tourist visa issued by Canada, Iceland, Liechtenstein, Norway, Switzerland or a EU Member State"
+    },
+    {
+      "name": "Croatia",
+      "note": "Not required if holding a multiple entry C Schengen visa"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "except for Passengers with a valid visa issued by Bulgaria, Canada, Croatia, Cyprus, Ireland (Rep.), Romania, USA, United Kingdom or a Schengen Member State"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador",
+      "note": "exempt as well as holders of a valid visa issued by Canada, the United States or a Schengen member state"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea",
+      "note": "Holders of a confirmation of a pre-arranged visa can obtain a visa on arrival"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia",
+      "note": "Conditional VoA can be obtained."
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana",
+      "note": "Holders of normal passports can obtain a pre-arranged visa on arrival"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guatemala",
+      "note": "exempt as well as holders of a valid visa issued by Canada, the United States or a Schengen member state"
+    },
+    {
+      "name": "Guyana",
+      "note": "Conditional VoA can be obtained"
+    },
+    {
+      "name": "Honduras",
+      "note": "exempt as well as holders of a valid visa issued by Canada, the United States or a Schengen member state"
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "India"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa is issued free of charge."
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "Visitors arriving from a country without Kazakh representation and holding an invitation letter, can obtain a single entry visa on arrival for a max. stay of 1 month"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lebanon",
+      "note": "Conditional VoA can be obtained."
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia",
+      "note": "Passengers with a pre-arranged visa can obtain a visa on arrival"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "Not required if holding a multiple entry C Schengen visa"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro",
+      "note": "Not required if holding a multiple entry C Schengen visa"
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Panama",
+      "note": "Visa required, except for Holders of a visa issued by Andorra, Australia, Canada, Iceland, Monaco, Liechtenstein, Norway, San Marino, Switzerland, USA or an EU Member State"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania",
+      "note": "- Visa is not required for a maximum stay of 90 days for holders of a valid double/multiple entry C visa issued by a Schengen Member State.\n- Visa is not required for a maximum stay of 90 days for holders of a valid \"D\" visa issued by a Schengen Member State.\n"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "San Marino",
+      "note": "Same rules as for Italy. No border control but accessible only via Italy."
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Sierra Leone",
+      "note": "Passengers with a pre-arranged visa can obtain a visa on arrival"
+    },
+    {
+      "name": "Singapore"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands",
+      "note": "can obtain a visa on arrival if they have a pre-arranged visa approval"
+    },
+    {
+      "name": "Somalia",
+      "note": "Visa on arrival for 30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan",
+      "note": "Holders of an \"Entry Permit\" issued by the Sudanese Ministry of interior can obtain a visa on arrival, for a max. stay of 60 days. Extension possible."
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname",
+      "note": "Holders of a pre-arranged approval may obtain visa on arrival."
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Thailand",
+      "note": "Visa is issued free of charge."
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "note": "Holders of a copy of a pre-arranged approval from immigration can obtain a Waiver of the Visa on arrival. Fee: TTD 400."
+    },
+    {
+      "name": "Turkmenistan",
+      "note": "Conditional VoA can be obtained"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan",
+      "note": "Holders of a Visa Confirmation (stamp), issued by the Ministry of Foreign Affairs of Uzbekistan, can obtain a vis on arrival at Tashkent"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Holders of an approval letter issued and stamped by the Vietnamese Immigration Department can obtain a visa on arrival for a maximum stay of 1 or 3 months at airports in Hanoi, Ho Chi Minh City or Da Nang, Phú Quốc without a visa for up to 30 days."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Algeria",
+      "note": "90 days"
+    },
+    {
+      "name": "Barbados",
+      "note": "6 months"
+    },
+    {
+      "name": "Belize",
+      "note": "30 days"
+    },
+    {
+      "name": "Brazil",
+      "note": "90 days"
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "3 months"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "Gabon"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Japan",
+      "note": "90 days"
+    },
+    {
+      "name": "Kiribati",
+      "note": "30 days"
+    },
+    {
+      "name": "South Korea",
+      "note": "30 days"
+    },
+    {
+      "name": "Libya",
+      "note": "90 days"
+    },
+    {
+      "name": "Malaysia",
+      "note": "90 days"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Mauritania"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Morocco",
+      "note": "90 days"
+    },
+    {
+      "name": "Niger",
+      "note": "3 months"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "Senegal",
+      "note": "90 days"
+    },
+    {
+      "name": "Serbia",
+      "note": "90 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "90 days"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "Tunisia",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "up to 90 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "With a printed approval visitors are issued a visa on arrival by an Immigration Officer for a fee of USD 100. The maximum length of stay is 30 days."
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bangladesh",
+      "note": "30 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months"
+    },
+    {
+      "name": "Cambodia"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros",
+      "note": "90 days"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jordan",
+      "note": "3 months"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Rwanda",
+      "note": "3 months"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Tajikistan",
+      "note": "45 days. Visa also available online. E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Tanzania",
+      "note": "3 months"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    }
+  ],
+  "refused": [],
+  "unknown": [
+    {
+      "name": "Australia",
+      "note": "May apply online.",
+      "visa": "e600Visa[11]"
+    }
+  ]
+}

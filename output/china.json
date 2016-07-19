@@ -1,0 +1,697 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania",
+      "note": "Holders of valid multiple entry visa issued by the USA/United Kingdom/Schengen States are exempt"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra",
+      "note": "Although no visa is required, must transit through France or Spain to reach Andorra, both of which require visa."
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Armenia",
+      "note": "Must apply for visa at Armenian diplomatic post abroad but exempt from invitation requirement. Visa free for 30 days for Diplomatic passports and passports for public affairs (this sort of Chinese passport is \"principally issued to staff in the governmental offices at all levels and to employees of state-owned enterprises or institutions\")"
+    },
+    {
+      "name": "Australia",
+      "note": "Selected Chinese citizens are eligible for 10-year visas."
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Barbados",
+      "note": "Visa exempt for cruise passengers arriving and departing on the same vessel and passengers who are in transit from the airport and cruise terminal (or vice versa)"
+    },
+    {
+      "name": "Belarus",
+      "note": "Visa free when traveling as part of a tourist group that has been organized through a Tourist Agency of Belarus.\nSince August 22, 2015 the visa is not required for up to 3 days for PRC citizens flying from China if in possession of a valid Schengen/EU visa."
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize",
+      "note": "Cruise passengers do not require a visa."
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Bolivia",
+      "note": "Visa free for passports for public affairs."
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "Visa free for passports for public affairs. Visa free for a maximum stay of 15 days for valid visa holders and residents of the European Union member states."
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada",
+      "note": "No transit visa required if transiting Toronto Pearson Terminal 1 or Vancouver International Airports to or from the U.S. on same travel day (no overnight stay) while holding valid U.S. visa and travelling on selected airlines. Visa not required for permanent residents of the USA. eTA is still required by permanent residents of USA if traveling by air."
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile",
+      "note": "Visa free for holders of valid visa for Canada or the US, valid for a minimum of 6 months from the arrival date."
+    },
+    {
+      "name": "Colombia",
+      "note": "Visa free for holders of valid visa for Schengen area or the US, valid for a minimum of 180 days from the arrival date. ."
+    },
+    {
+      "name": "Republic of the Congo",
+      "note": "Visa free for passports for public affairs."
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "Visa free for holders of valid visa for Canada, Schengen area or the US, and for holders of a Residence Permit issued by United Kingdom."
+    },
+    {
+      "name": "Croatia",
+      "note": "Visa exempt for holders of a visa issued by a Schengen Member State and a travel health insurance. Passenger must travel as a tourist in an organised group and arrive from a Schengen Member State."
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "Holders of a visa issued by Canada, U.S.A. or any European Union member state will be issued a Tourist Card for a stay of max. 30 days. max 90 days for UK resident."
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana",
+      "note": "Visa free for 3 months, for passports for public affairs."
+    },
+    {
+      "name": "Honduras",
+      "note": "Visa free for holders of a visa valid for at least 6 months issued by Canada, the USA, or a Schengen Member State, and for residents of the UK, Japan, Singapore, Australia and New Zealand."
+    },
+    {
+      "name": "Hungary",
+      "note": "Hungary was a hotspot for illegal Chinese immigrants between 1990 and 1992, because after the collapse of the communist bloc, it was the only major European country that granted visa free entry for Chinese citizens. Hungary abolished it in 1992 after the massive number of illegal immigrants (50,000 at its highest)."
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa waiver for UK 'C' visa holders until October 2016 or for holders of British visas issued under BIVS. Entry permitted only if first point of entry to the Common Travel Area is in the UK."
+    },
+    {
+      "name": "Israel"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Japan",
+      "note": "Passengers of approved cruiseships do not require a visa as of April 2015."
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea",
+      "note": "Chinese tourists may visit Tongnim County without a visa for 2 days. They may also visit Sinuiju for a day trip without a visa."
+    },
+    {
+      "name": "South Korea",
+      "note": "Visa free for visits to Jeju Island for up to 30 days. Individual \"transit tourists\" bound for or arriving from one of the following countries and holding a valid visa or re-entry permit for that country: EEA member state, Switzerland, USA, Japan, Canada, Australia, or New Zealand. Must show a confirmed flight ticket for onward departure from Korea within 30 days. If traveling by air to Jeju Island via Seoul, Busan, Cheongju, Muan and Yangyang, Chinese citizens traveling as part of a tourist group by authorized travel agent may stay in mainland South Korea for up to 15 days."
+    },
+    {
+      "name": "Kuwait",
+      "note": "Visa free for 30 days, for normal passports endorsed \"For Public Affairs\"."
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "Visa free for a maximum stay of 90 days for holders of normal passports endorsed \"business\"."
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico",
+      "note": "Visa free for holders of valid visas issued by U.S, UK, Canada, Japan, United Kingdom or a Schengen member state. Also visa free for all visiting \"through maritime ports as passengers in tourism cruises\""
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia",
+      "note": "Visa free for 30 days, for normal passports endorsed \"For Public Affairs\"."
+    },
+    {
+      "name": "Montenegro",
+      "note": "Visa free for a maximum stay of 30 days for valid visa holders and residents of the European Union member states and the United States."
+    },
+    {
+      "name": "Mozambique",
+      "note": "Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand",
+      "note": "Visa free if having a current Australian permanent residence visa or a current Australian resident return visa"
+    },
+    {
+      "name": "Nicaragua"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan",
+      "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply. Visa on arrival when travelling as part of a group through a designated tour operator."
+    },
+    {
+      "name": "Panama",
+      "note": "Visa exempted for a max. stay of 30 days for holders of a valid visa for Andorra, Australia, Canada, Iceland, Monaco, Liechtenstein, Norway, San Marino, Switzerland, USA or an EU Member State, 30 days for UK permanent residents."
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Philippines",
+      "note": "Visa-free 7 days if a tourist and holding a valid visa for Schengen countries, Australia, Canada, Japan or the USA."
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Russia",
+      "note": "Visa free for a maximum stay of 15 days for visitors travelling as part of a tour group (5 to 50 persons), accompanied by a representative of a tour operator accredited in both Russia and China. Visa free for 30 days for diplomatic and service passports since April 26, 2014."
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "Cruise ship passengers visiting for one day are visa exempt"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Serbia",
+      "note": "Visa free for a maximum stay of 90 days for holders of passport for public affairs. Visa free for a maximum stay of 90 days for valid visa holders and residents of the European Union member states and the United States."
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tonga",
+      "note": "Visa free for passports for public affairs. Visa-free agreements signed on 9 June 2016 and is pending ratification."
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Tunisia",
+      "note": "Visa not required for tourists travelling as part of an organized group with a tourist agency."
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine",
+      "note": "Temporary visa exemption up to 15 days available at Boryspil International Airport from 20 June to 30 September 2016."
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "Visa free for normal passports for public affairs. A 96-hour transit visa can be obtained on arrival when holding onward tickets to a third country."
+    },
+    {
+      "name": "United Kingdom",
+      "note": "Visa not required if holding a valid Irish visa. Entry permitted only if first point of entry to the Common Travel Area is in Ireland."
+    },
+    {
+      "name": "United States",
+      "note": "Chinese citizens who do receive a visa are normally issued \"120-month multiple-entry combination B1/B2 visas.\""
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela",
+      "note": "Visa free for 30 days, for diplomatic, service passports and passports for public affairs. (since January 8, 2014)"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Visa free for 30 days, for normal passports for public affairs. Pre-arranged 3, or 6 month visa obtained online through travel agencies are available at Ho Chi Minh, Hanoi, Phu Quoc, or Danang airports."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Antigua and Barbuda",
+      "note": "30 days, since November 18, 2014"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "3 months"
+    },
+    {
+      "name": "Benin",
+      "note": "90 days (traveling on duty)."
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "Grenada",
+      "note": "30 days"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Jamaica",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Morocco",
+      "note": "90 days"
+    },
+    {
+      "name": "San Marino",
+      "note": "90 days. Although no visa is required, travelers must transit through Italy to reach San Marino, which requires at least a single entry Schengen visa."
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Swaziland",
+      "note": "90 days"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "China",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Ivory Coast",
+      "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "up to 30 days"
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Malaysia",
+      "note": "Between March 1, 2016 to December 31, 2016, Chinese citizens do not require a visa for Malaysia for a stay of up to 15 days, online registration prior to arrival required"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+    },
+    {
+      "name": "Rwanda",
+      "note": "90 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "30 days"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "30 days. Holders of a visa issued by the United States or a Schengen area member state do not require a visa for stays up to 15 days."
+    },
+    {
+      "name": "Singapore",
+      "note": "Visa free for 30 days for holders of passport for public affairs."
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "30 days, visa fee US $60."
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "Approved tour groups may obtain visa on arrival."
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Azerbaijan",
+      "note": "30 days; available at airports"
+    },
+    {
+      "name": "Bahrain",
+      "note": "14 days"
+    },
+    {
+      "name": "Bangladesh",
+      "note": "30 days"
+    },
+    {
+      "name": "Brunei",
+      "note": "14 days"
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days on arrival, or e-visa online"
+    },
+    {
+      "name": "Cape Verde",
+      "note": "30 days"
+    },
+    {
+      "name": "Comoros",
+      "note": "45 days"
+    },
+    {
+      "name": "Djibouti",
+      "note": "1 month"
+    },
+    {
+      "name": "Ethiopia",
+      "note": "6 months"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jordan",
+      "note": "30 days"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    },
+    {
+      "name": "Madagascar",
+      "note": "30 days free of charge"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Nepal"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted to the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "Suriname",
+      "note": "90 days; available at Johan Adolf Pengel International Airport."
+    },
+    {
+      "name": "Tajikistan",
+      "note": "45 days; Visa free for passports for public affairs. Visa also available online. E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "Thailand",
+      "note": "15 days"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

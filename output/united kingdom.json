@@ -1,0 +1,755 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "Visa. eVisa can be obtained through approved travel agencies"
+    },
+    {
+      "name": "Belarus",
+      "note": "Visa are also issued on arrival at the Minsk International Airport\nif the support documents were submitted by inviting organization/person not later than 3 business days before expected date of arrival."
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan",
+      "note": "Visa via approved tour operators only"
+    },
+    {
+      "name": "Cameroon",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "China",
+      "note": "72-hours visa free visit when in transit at Beijing, Guangzhou, Guilin, Shanghai, Chengdu, Chongqing, Dalian, Shenyang and Xi'an."
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Ghana",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Iran"
+    },
+    {
+      "name": "Iraq",
+      "note": "Visa on arrival for 15 days at Erbil and Sulaymaniyah airports."
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Liberia",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Libya",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Mozambique",
+      "note": "Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Pakistan",
+      "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply. Visa on arrival when travelling as part of a group through a designated tour operator."
+    },
+    {
+      "name": "Russia",
+      "note": "Visa on arrival (72 hours) for Kaliningrad Oblast (70 €) with appointment at least 72 hours in advance"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Sierra Leone",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Turkmenistan",
+      "note": "Pre-approved visa can be picked up on arrival."
+    },
+    {
+      "name": "Uzbekistan",
+      "note": "Pre-approved visa can be picked up on arrival. Simplified procedure for British citizens."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Albania",
+      "note": "90 days"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Argentina",
+      "note": "90 days"
+    },
+    {
+      "name": "Armenia",
+      "note": "stay up to 90 days within 180 period days"
+    },
+    {
+      "name": "Austria",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "21 days - extendable up to eight months"
+    },
+    {
+      "name": "Barbados",
+      "note": "up to 6 months"
+    },
+    {
+      "name": "Belgium",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Belize",
+      "note": "30 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "30 days - extendable up to 90 days Note: vaccination against yellow fever might be required upon arrival in some location."
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "90 days"
+    },
+    {
+      "name": "Botswana",
+      "note": "up to 90 days"
+    },
+    {
+      "name": "Brazil",
+      "note": "up to 90 days - extendable for further 90 days"
+    },
+    {
+      "name": "Brunei",
+      "note": "up to 90 days"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Canada",
+      "note": "6 months; eTA required if arriving by air from March 15, 2016."
+    },
+    {
+      "name": "Chile",
+      "note": "90 days - extendable."
+    },
+    {
+      "name": "Colombia",
+      "note": "up to 90 days - extendable up to 180-days stay within a one-year period"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "up to 3 months"
+    },
+    {
+      "name": "Croatia",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Cyprus",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Denmark",
+      "note": "Freedom of movement (DK)"
+    },
+    {
+      "name": "Dominica",
+      "note": "6 months"
+    },
+    {
+      "name": "Ecuador",
+      "note": "up to 90 days - extendable."
+    },
+    {
+      "name": "El Salvador",
+      "note": "3 months"
+    },
+    {
+      "name": "Estonia",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "Finland",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "France",
+      "note": "Freedom of movement (in Regions of France)"
+    },
+    {
+      "name": "The Gambia",
+      "note": "90 days"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "360 days"
+    },
+    {
+      "name": "Germany",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Greece",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Grenada",
+      "note": "6 months"
+    },
+    {
+      "name": "Guatemala",
+      "note": "90 days"
+    },
+    {
+      "name": "Guyana",
+      "note": "3 months"
+    },
+    {
+      "name": "Haiti",
+      "note": "90 days"
+    },
+    {
+      "name": "Honduras",
+      "note": "3 months"
+    },
+    {
+      "name": "Hungary",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Iceland",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Freedom of movement, Common Travel Area"
+    },
+    {
+      "name": "Israel",
+      "note": "3 months"
+    },
+    {
+      "name": "Italy",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Jamaica",
+      "note": "30 days"
+    },
+    {
+      "name": "Japan",
+      "note": "90 days, extendable once"
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "15 days, until 31 December 2017"
+    },
+    {
+      "name": "Kiribati",
+      "note": "30 days"
+    },
+    {
+      "name": "South Korea",
+      "note": "90 days"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "note": "60 days"
+    },
+    {
+      "name": "Latvia",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Lesotho",
+      "note": "90 days"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Lithuania",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "90 days"
+    },
+    {
+      "name": "Malaysia",
+      "note": "3 months"
+    },
+    {
+      "name": "Malta",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Mexico",
+      "note": "180 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Montenegro",
+      "note": "90 days"
+    },
+    {
+      "name": "Morocco",
+      "note": "90 days"
+    },
+    {
+      "name": "Namibia",
+      "note": "3 months"
+    },
+    {
+      "name": "Netherlands",
+      "note": "Freedom of movement (European Netherlands)"
+    },
+    {
+      "name": "New Zealand",
+      "note": "6 months"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Norway",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Panama",
+      "note": "180 days"
+    },
+    {
+      "name": "Paraguay",
+      "note": "90 days"
+    },
+    {
+      "name": "Peru",
+      "note": "183 days"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Poland",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Portugal",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Romania",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "3 months"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "15 days"
+    },
+    {
+      "name": "Senegal",
+      "note": "90 days"
+    },
+    {
+      "name": "Serbia",
+      "note": "90 days"
+    },
+    {
+      "name": "Singapore",
+      "note": "90 days"
+    },
+    {
+      "name": "Slovakia",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Slovenia",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "South Africa",
+      "note": "90 days"
+    },
+    {
+      "name": "Spain",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Swaziland",
+      "note": "30 days"
+    },
+    {
+      "name": "Sweden",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Switzerland",
+      "note": "Freedom of movement"
+    },
+    {
+      "name": "Thailand",
+      "note": "30 days"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "note": "90 days"
+    },
+    {
+      "name": "Tunisia",
+      "note": "3 months"
+    },
+    {
+      "name": "Ukraine",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "United States",
+      "note": "90 days on arrival from overseas; ESTA (valid for 2 years when issued) required if arriving by air or cruise ship."
+    },
+    {
+      "name": "Uruguay",
+      "note": "90 days"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela",
+      "note": "90 days"
+    },
+    {
+      "name": "Vietnam",
+      "note": "15 days; effective from 1 July 2015 – 30 June 2017."
+    },
+    {
+      "name": "United Kingdom",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Australia",
+      "note": "90 days on each visit in 12-month period if granted."
+    },
+    {
+      "name": "Myanmar",
+      "note": "eVisa for 28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports Regular visa for up to three months"
+    },
+    {
+      "name": "Gabon",
+      "note": "Must arrive via Libreville International Airport."
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days (British citizens are allowed 2 further extensions in country 1st extension 60 days normally given without additional requirements 2nd extension 90 days with interview) These are single entry extensions."
+    },
+    {
+      "name": "Turkey",
+      "note": "3 months"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bahrain",
+      "note": "up to 3 months visa-on-arrival or eVisa for 14 days (extendable for another 14 days)"
+    },
+    {
+      "name": "Bangladesh",
+      "note": "30 days Visa-on-arrival only arriving to Dhaka Int Airport"
+    },
+    {
+      "name": "Burkina Faso",
+      "note": "1 month"
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months"
+    },
+    {
+      "name": "Cambodia",
+      "note": "eVisa 30 days - extendable for another 30 days."
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "30 days (USD $10 Tourist Card must be purchased upon arrival)"
+    },
+    {
+      "name": "Egypt",
+      "note": "30 days"
+    },
+    {
+      "name": "Ethiopia",
+      "note": "Visa-on-arrival only at the Addis Ababa Bole Int. Airport."
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Jordan",
+      "note": "Conditions apply"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    },
+    {
+      "name": "Madagascar",
+      "note": "30 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Marshall Islands",
+      "note": "90 days. Free of charge."
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Nepal",
+      "note": "up to 90 days Visa-on-arrival - extendable"
+    },
+    {
+      "name": "Oman",
+      "note": "3 months"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Papua New Guinea",
+      "note": "60 days. Free of charge."
+    },
+    {
+      "name": "Qatar",
+      "note": "1 month"
+    },
+    {
+      "name": "Rwanda",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days. Free of charge."
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month. Free of charge."
+    },
+    {
+      "name": "Solomon Islands",
+      "note": "3 months. Free of charge."
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "Suriname",
+      "note": "90 days"
+    },
+    {
+      "name": "Tajikistan",
+      "note": "45 days at Dushanbe International Airport. Visa also available online. E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tonga",
+      "note": "31 days. Free of charge."
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month. Free of charge."
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "30 days. Free of charge."
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days; also eligible for a universal visa allowing access to Zimbabwe."
+    },
+    {
+      "name": "Zimbabwe",
+      "note": "3 months; also eligible for a universal visa allowing access to Zambia."
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

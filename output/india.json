@@ -1,0 +1,713 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania",
+      "note": "Visa required, except for A max stay of 90 days for holders of a valid multiple entry visa issued by the USA, UK or a valid multiple entry C visa issued by a Schengen Member"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra",
+      "note": "Andorra has no visa regime, but is only accessible through France and Spain. Multiple Entry Schengen Visa required."
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina",
+      "note": "Visa is free of cost at Argentinian consulate for tourists"
+    },
+    {
+      "name": "Armenia",
+      "note": "eVisa not available but invitation not required"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Austria",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "Azerbaijan has simplified its Visa process.55 authorized travel agents are authorized too issue evisas for Tourists, but it is mandatory to issue hotel booking with them, and some may insist on any other tour as well"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "Visa not required if holding permanent resident card of the US or Canada"
+    },
+    {
+      "name": "Bangladesh",
+      "note": "Visa is free of cost at Bangladeshi consulate"
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belarus"
+    },
+    {
+      "name": "Belgium",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Belize",
+      "note": "No visa required for holders of multiple entry US Visa or Green Card. Indian nationals are required to pay a repatriation fee of BZD1,200 (USD600)."
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "Visa required, except for A max. stay of 7 days for:\nholders of a valid visa issued by EU or a Schengen Member State\n"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "Visa required, except for Passengers with a C visa issued by Croatia, Cyprus, Romania or a Schengen Member State"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada",
+      "note": "Visa not required if holding a US permanent resident card; After Mar 15 2016, travelers with a US permanent resident card arriving by air will require an Electronic Travel Authorization (ETA). Land and sea arrivals will not be affected."
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Colombia",
+      "note": "Visa required, except for Nationals of India holding a valid \"C\" or \"D\" visa issued by a Schengen Member State or holding a valid visa issued by the USA (except for C1 transit visas)."
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "Visa required, except for A max. stay of 30 days for:\nholders of a valid visa issued by Canada, Japan, USA, EU or a Schengen Member State\n"
+    },
+    {
+      "name": "Croatia",
+      "note": "Aliens who are holders of:\nuniform visa (C) for two or multiple entries, valid for all Schengen Area Member States; visa with limited territorial validity (LTV visa), for two or multiple entries, issued to the holder of a travel document that is not recognised by one or more, but not all of the Schengen Area Member States, and which is valid for the territory of the Member States recognising the travel document; long-stay visa (D) for stays exceeding three months, issued by one of the Schengen Area Member State;\n"
+    },
+    {
+      "name": "Cuba",
+      "note": "The visitors can obtain a Tourist Card (Tarjeta deTurista), which is valid for 30 days and can be extended for another 30 days after arrival. Visitors who booked a package through an airline/travel agency usually receive the card on the plane before landing. The visitors can also buy a Tourist Card upon arrival at the José Martí International Airport in Havana. Non-tourist visitors need visa in advance for a stay of any duration."
+    },
+    {
+      "name": "Cyprus",
+      "note": "Visa required, except for Passengers with a double or multiple entry C visa issued by Bulgaria, Croatia, Romania or a Schengen Member State"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Denmark",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Djibouti"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "Visa required, except for A max. stay of 90 days for holders of a valid visa issued by Canada, USA or any EU Member State"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Estonia",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Finland",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "France",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Germany",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Greece",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Guatemala",
+      "note": "Visa not required for holders of a valid visa issued by Canada, the USA or a Schengen Member State."
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Honduras",
+      "note": "Visa required, except for Holders of a valid visa issued by Canada, the USA or a Schengen Member State"
+    },
+    {
+      "name": "Hungary",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Iceland",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Iran",
+      "note": "Tourist Visas can be arranged by Tour operators who specialize in the region or Letter of Invitation from Recognized travel agent in Iran\nNormally passports submitted at Iranian Consulate are scanned for terrorist links which takes 2 days and if cleared the process and necessary documentation would be advised and process would commence\n"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland",
+      "note": "Visa waiver for UK 'C' visa holders until October 2016. Entry permitted only if first point of entry to the Common Travel Area is in the UK."
+    },
+    {
+      "name": "Israel",
+      "note": "Can be arranged from Tour operators or from Consulate.\nRecommended to request for a Paper Visa rather than a stamp in the passport\n"
+    },
+    {
+      "name": "Italy",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kazakhstan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea",
+      "note": "Visa not required for a stay of max. 30 days provided holding visa for Australia, Canada, Japan, New Zealand or U.S.A. and in transit to/from those countries."
+    },
+    {
+      "name": "Kuwait"
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Latvia",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Lebanon",
+      "note": "In addition to a visa, an approval should be obtained from the Immigration department of the General Directorate for General Security (La Surete Generale)."
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Lithuania",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "Any foreign national possessing a valid multi entry Schengen visa type C (valid for the entire territory of the Schengen area) or permanent resident card from Schengen zone countries may enter and stay in the Republic of Macedonia up to 15 days without having to possess a Macedonian visa. The Schengen visa needs to be valid at least 5 days longer than the stay in the Republic of Macedonia permitted on the grounds of holding a Schengen visa., Visa required for holders of temporary residence permits from Schengen area countries."
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Mexico",
+      "note": "Visa not required for any valid USA visa (e.g. H, L, F, J, B1/B2 etc.) holders to enter Mexico with tourist, transit & business purposes. Legal Permanent Residents of USA, Canada, Japan, United Kingdom & Schengen States do not require visa to enter Mexico with tourist, transit & business purposes."
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro",
+      "note": "Visa free for a maximum stay of 30 days for valid visa holders and residents of the European Union member states and the United States."
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Mozambique",
+      "note": "Visa on arrival is no longer available to citizens of countries that host an embassy of Mozambique."
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "New Zealand",
+      "note": "Indian citizens who are also permanent Australian residents may travel and work in New Zealand"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "Stay of 90 days (Fee: USD 20) applicable to holders of a valid visa issued by Canada, the USA or a Schengen Member State"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Norway",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Oman",
+      "note": "Indians holding GCC Visa of certain categories (managers, sales executives etc.) are granted a visit Visa on Arrival if they are coming directly from a GCC Country"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Panama",
+      "note": "Visa requirement waived for holders of a valid visa issued by USA, UK, Canada, Australia or any EU member state, which has been used at least once to enter those countries."
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Philippines",
+      "note": "Holders of either a valid US, Japanese, Australian, Canadian, Schengen, Singapore or UK visa or permanent resident permit may be granted visa-free entry for an initial stay not exceeding fourteen (14) days"
+    },
+    {
+      "name": "Poland",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Portugal",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Qatar",
+      "note": "Single Entry eVisas can be arranged by Tour operators/agents for approx INR 7000"
+    },
+    {
+      "name": "Romania",
+      "note": "Visa required, except for A max. stay of 90 days for holders of a double or multiple entry C visa issued by a Schengen Member State valid for the period of intended stay."
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Serbia",
+      "note": "Visa free for a maximum stay of 90 days for valid visa holders and residents of the European Union member states and the United States."
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Singapore",
+      "note": "May obtain online."
+    },
+    {
+      "name": "Slovakia",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Slovenia",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Switzerland",
+      "note": "Schengen Visa required"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Tunisia",
+      "note": "Not required for tours organised by a travel agency."
+    },
+    {
+      "name": "Turkey",
+      "note": "Visa on arrival is phased out and e-visa needs to be applied at evisa.gov.tr. Valid Schengen visa / USA / UK /Australia / Canada or residence permit is required."
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "Tourist visa can be obtained online through Emirates and Etihad airlines or authorized agents-DMCs"
+    },
+    {
+      "name": "United Kingdom",
+      "note": "Visa not required if holding a biometric Irish visa endorsed with \"BC BIVS\" and with a valid Irish entry stamp."
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Visa may be obtained on arrival if prior Online approval has been obtained through a travel agency."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Dominica",
+      "note": "6 months"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "El Salvador",
+      "note": "90 days"
+    },
+    {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
+      "name": "Grenada",
+      "note": "3 months"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days. Select ports of entry."
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Maldives",
+      "note": "90 days"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "Indian citizens may live and work freely in Nepal under the terms of the 1950 Indo-Nepal Treaty of Peace and Friendship."
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "3 months"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "Senegal",
+      "note": "90 days"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "note": "90 days"
+    },
+    {
+      "name": "Vanuatu",
+      "note": "30 days"
+    },
+    {
+      "name": "India",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda",
+      "note": "Also visa on arrival if holding a valid visa or permanent resident card for the US or Canada.\nCruise ship visitors do not require a visa provided that they arrive in Antigua and Barbuda in the morning and depart the same evening.\nIn transit passengers traveling within the same day, do not need a visa for entry into Antigua and Barbuda, provided that they have proof of their onward journey.\n"
+    },
+    {
+      "name": "Bahrain",
+      "note": "14 days.Multiple  Visa costs BD 29 (₹5300)."
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "Multiple Visa upto 90 days. Visa not required for holders of valid visa or residence permit issued by USA, UK, Japan, Canada, Australia, New Zealand, Israel, South Korea, Schengen and GCC countries."
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Malaysia",
+      "note": "30 days"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports.\nVisa on arrival at Airports also available at USD 20/\n"
+    },
+    {
+      "name": "Rwanda",
+      "note": "East African Tourist Visa will allow travel between Kenya, Rwanda and Tanzania\n\nVisa Fees: 100 USD per visa\nValidity of Visa: 90 days\nSingle of Multiple Entry: Multiple entry to all three countries\n\n"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "Holders of a visa issued by the United States or a Schengen area member state do not require a visa for stays up to 15 days."
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Tajikistan",
+      "note": "E-visa holders can enter through all border points."
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Bolivia",
+      "note": "90 days, visa on arrival only at La Paz,Santa Cruz airport. Land entry requires prior Visa or Invitation which is free of cost."
+    },
+    {
+      "name": "Burundi",
+      "note": "3 months"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days. 35 USD to be paid in USD"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Guyana",
+      "note": "30 days provided holding a letter of invitation from sponsor or host; and contact details of sponsor, host or hotel; and two passport photos."
+    },
+    {
+      "name": "Jordan",
+      "note": "2 weeks Single Entry Visa would cost JD 40 (Approx INR 3900), must holder confirmed return ticket and hotel booking as well as proof of money enough to cover the entire tour"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Madagascar",
+      "note": "30 days free of charge"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Marshall Islands",
+      "note": "90 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "1 month"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+    },
+    {
+      "name": "Suriname",
+      "note": "90 days; available at Johan Adolf Pengel International Airport."
+    },
+    {
+      "name": "Tanzania",
+      "note": "The East Africa Tourist Visa will allow travel between Kenya, Rwanda and Uganda with the same multiple entry visa"
+    },
+    {
+      "name": "Thailand",
+      "note": "15 days. Visa fee of 1000 Thai Baht needs to be paid in Thai currency. Visa on Arrival has to be obtained at First point of Entry/Landing not the Final Destination."
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda",
+      "note": "The East Africa Tourist Visa will allow travel between Kenya, Rwanda and Uganda with the same multiple entry visa.\n\nVisa Fees: 100 USD per visa\nValidity of Visa: 90 days\nSingle of Multiple Entry: Multiple entry to all three countries\n\n"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

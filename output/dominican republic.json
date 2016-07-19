@@ -1,0 +1,688 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Albania",
+      "note": "Schengen visa covers entry."
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Andorra",
+      "note": "Schengen visa covers entry."
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Austria"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "Visa on arrival is available providing an official invitation letter."
+    },
+    {
+      "name": "The Bahamas",
+      "note": "Bahamas tourist visa is not required for US or Canada Resident card holder for a stay up to 30 days."
+    },
+    {
+      "name": "Barbados"
+    },
+    {
+      "name": "Belarus",
+      "note": "Visas are issued on arrival at the Minsk International Airport\nif the support documents were submitted not later than 3 business days before expected date of arrival."
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Belize",
+      "note": "Visa not required for Holders of a valid multiple entry visa or Permanent Residents card holder issued by the USA."
+    },
+    {
+      "name": "Benin"
+    },
+    {
+      "name": "Bhutan",
+      "note": "e-visa is available"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "Visa not required for holders of a valid Schengen visa."
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi",
+      "note": "Visa on arrival at Bujumbura Airport for max. of 1 month."
+    },
+    {
+      "name": "Cameroon",
+      "note": "Pre-approved visa on arrival is available."
+    },
+    {
+      "name": "Canada",
+      "note": "Visa not required for US permanent resident card Holders."
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "Chile"
+    },
+    {
+      "name": "China",
+      "note": "Pre-arranged visa on arrival is available"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica",
+      "note": "Visa waiver for passengers with multiple-entry valid visa issued by Canada, USA, Japan or Schengen Member State, maximum for 30 days."
+    },
+    {
+      "name": "Ivory Coast",
+      "note": "Pre-arranged visa is available on arrival providing an invitation letter."
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Cuba",
+      "note": "No visa required, tourist card for maximum 30 days on arrival/prior to arrival"
+    },
+    {
+      "name": "Cyprus"
+    },
+    {
+      "name": "Czech Republic"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Dominica",
+      "note": "Visa is not required for holders of a valid US, UK, Canada or a Schengen member State visa."
+    },
+    {
+      "name": "El Salvador",
+      "note": "Visa not required for Holders of a valid visa issued by Canada, the USA or a Schengen Member State."
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea",
+      "note": "Pre-arranged visa on arrival is available."
+    },
+    {
+      "name": "Estonia"
+    },
+    {
+      "name": "Ethiopia",
+      "note": "Visa on arrival is available for those traveling as tourists or providing an invitation letter."
+    },
+    {
+      "name": "Fiji"
+    },
+    {
+      "name": "Finland"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana",
+      "note": "Pre-arranged visa on arrival is available."
+    },
+    {
+      "name": "Greece"
+    },
+    {
+      "name": "Guatemala",
+      "note": "Visa waiver for passengers wit a valid visa issued by Canada, USA, or a Schengen Member State for maximum of 90 days."
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Haiti",
+      "note": "Visa not required for max. stay of 3 Months for Holders of a valid visa issued by Canada, the USA or a Schengen Member State."
+    },
+    {
+      "name": "Honduras",
+      "note": "Visa waiver for passengers with a visa valid for at least 6 months on arrival, issued by Canada, USA or a Schengen Member State."
+    },
+    {
+      "name": "Hungary"
+    },
+    {
+      "name": "Iceland"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland"
+    },
+    {
+      "name": "Italy"
+    },
+    {
+      "name": "Jamaica",
+      "note": "Visa waiver for passengers with a valid visa issued by Canada, USA, UK, or a Schengen Member State for maximum of 30 days."
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "Visa on arrival is available providing an invitation letter."
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "Kuwait",
+      "note": "Visa on arrival for those traveling as tourists."
+    },
+    {
+      "name": "Kyrgyzstan"
+    },
+    {
+      "name": "Latvia"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Liberia",
+      "note": "Pre-arranged visa on arrival is available."
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Liechtenstein"
+    },
+    {
+      "name": "Lithuania"
+    },
+    {
+      "name": "Luxembourg"
+    },
+    {
+      "name": "Republic of Macedonia",
+      "note": "No visa required for holders of a multiple entry Schengen visa."
+    },
+    {
+      "name": "Malawi",
+      "note": "Visa on arrival is available for 30 days."
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Malta"
+    },
+    {
+      "name": "Marshall Islands"
+    },
+    {
+      "name": "Mexico",
+      "note": "No visa required for those holding a valid US visa."
+    },
+    {
+      "name": "Moldova"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Mongolia",
+      "note": "Pre-arranged visa on arrival is available."
+    },
+    {
+      "name": "Montenegro",
+      "note": "Visa waiver for passengers with a valid visa issued by Canada, USA, UK or a Schengen Member State for 30 days."
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Myanmar"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria",
+      "note": "Pre-arranged visa on arrival is available."
+    },
+    {
+      "name": "Norway"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Panama",
+      "note": "No visa required for holders of a valid US, Canada, Japan or Schengen Member State visa."
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar",
+      "note": "E-visa is available."
+    },
+    {
+      "name": "Romania"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Rwanda",
+      "note": "E-visa is available."
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saint Lucia"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "note": "Visa is obtained online."
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Serbia",
+      "note": "Visa not required for holders of Schengen, US or UK visa or residence permits (max stay 90 days) "
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Slovakia"
+    },
+    {
+      "name": "Slovenia"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Sweden"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Syria",
+      "note": "Pre-arranged visa on arrival is available."
+    },
+    {
+      "name": "Tajikistan"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Tunisia",
+      "note": "Visa not required for passengers traveling on an organized tour."
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "Ukraine",
+      "note": "Visa on arrival is available for maximum of 90 days providing an official invitation letter. Only at Kyiv and Odessa airports."
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "E-visas can be obtained. A 96-hour transit visa can be obtained on arrival at Dubai (DXB)."
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Uzbekistan"
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam",
+      "note": "Pre-arranged visa obtained online through travel agencies available at Hanoi, Ho Chi Minh City or Da Nang airports.\nPhú Quốc without a visa for up to 30 days."
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "not-required": [
+    {
+      "name": "Botswana",
+      "note": "90 days per year"
+    },
+    {
+      "name": "Colombia",
+      "note": "up to 180 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "1 year"
+    },
+    {
+      "name": "Grenada"
+    },
+    {
+      "name": "Guyana",
+      "note": "30 days"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Israel",
+      "note": "3 months"
+    },
+    {
+      "name": "Japan",
+      "note": "90 days"
+    },
+    {
+      "name": "South Korea",
+      "note": "90 days"
+    },
+    {
+      "name": "Malaysia",
+      "note": "1 month"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Philippines",
+      "note": "30 days"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "note": "90 days"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Antigua and Barbuda",
+      "note": "Visa waiver for passengers with valid visa issued by Canada, USA, UK or Schengen Member State. Visa fee: USD-100, for max. of 30 days."
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "India",
+      "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "Turkey",
+      "note": "e-Visa on arrival at e-Visa kiosks available as well. 30 days"
+    },
+    {
+      "name": "Zambia"
+    }
+  ],
+  "on-arrival": [
+    {
+      "name": "Armenia",
+      "note": "120 days. Obtainable on arrival at Zvartnots International Airport or prior to travel online."
+    },
+    {
+      "name": "Bangladesh",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days. Visa is also obtainable online."
+    },
+    {
+      "name": "Cape Verde",
+      "note": "Not available at all entry points."
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Djibouti",
+      "note": "Not available at all entry points."
+    },
+    {
+      "name": "Egypt",
+      "note": "15 days"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jordan",
+      "note": "Conditions apply. Not available at all entry points."
+    },
+    {
+      "name": "Laos",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Mauritania",
+      "note": "Available at Nouakchott–Oumtounsy International Airport."
+    },
+    {
+      "name": "Mauritius",
+      "note": "60 days"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days, conditions apply"
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Seychelles",
+      "note": "3 months"
+    },
+    {
+      "name": "Solomon Islands",
+      "note": "3 months"
+    },
+    {
+      "name": "Somalia",
+      "note": "30 days, must hold an invitation letter issued at least 2 days before arrival."
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days. Not available at all entry points."
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda",
+      "note": "Determined at the port of entry."
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}
