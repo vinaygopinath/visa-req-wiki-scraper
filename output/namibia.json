@@ -28,9 +28,6 @@
       "name": "Bahrain"
     },
     {
-      "name": "Bangladesh"
-    },
-    {
       "name": "Belarus"
     },
     {
@@ -331,10 +328,6 @@
       "name": "Solomon Islands"
     },
     {
-      "name": "Somalia",
-      "note": "Visa on arrival for 30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
-    },
-    {
       "name": "South Sudan"
     },
     {
@@ -490,6 +483,10 @@
       "note": "1 month"
     },
     {
+      "name": "Senegal",
+      "note": "90 days"
+    },
+    {
       "name": "Singapore",
       "note": "30 days"
     },
@@ -556,6 +553,9 @@
   ],
   "on-arrival": [
     {
+      "name": "Bangladesh"
+    },
+    {
       "name": "Bolivia",
       "note": "90 days"
     },
@@ -618,11 +618,12 @@
       "note": "60 days"
     },
     {
-      "name": "Senegal"
+      "name": "Seychelles",
+      "note": "3 months"
     },
     {
-      "name": "Seychelles",
-      "note": "1 month"
+      "name": "Somalia",
+      "note": "30 days. Provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
     },
     {
       "name": "East Timor",
@@ -637,7 +638,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

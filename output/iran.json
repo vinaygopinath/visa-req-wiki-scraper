@@ -20,15 +20,11 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
       "name": "Azerbaijan",
-      "note": "Citizens of Iran can obtain a 15-day visa on arrival only for the Nakhchivan Autonomous Republic."
+      "note": "Citizens of Iran can obtain a 15-day visa on arrival only for the Nakhchivan Autonomous Republic. May apply online."
     },
     {
       "name": "The Bahamas"
@@ -79,9 +75,6 @@
       "name": "Burundi"
     },
     {
-      "name": "Cambodia"
-    },
-    {
       "name": "Cameroon"
     },
     {
@@ -97,7 +90,8 @@
       "name": "Chile"
     },
     {
-      "name": "China"
+      "name": "China",
+      "note": "Nationals of Iran must hold a visa issued in their home country. If visa is issued in a third country, a residence visa or working permit is also required."
     },
     {
       "name": "Colombia"
@@ -133,7 +127,8 @@
       "name": "Dominican Republic"
     },
     {
-      "name": "Egypt"
+      "name": "Egypt",
+      "note": "Entry visas must be endorsed by Security Approval from Security of State."
     },
     {
       "name": "El Salvador"
@@ -215,7 +210,8 @@
       "name": "Japan"
     },
     {
-      "name": "Jordan"
+      "name": "Jordan",
+      "note": "Holders of normal passports issued to nationals of Iran must hold security approval, obtained prior to arrival."
     },
     {
       "name": "Kazakhstan"
@@ -243,9 +239,6 @@
     },
     {
       "name": "Liberia"
-    },
-    {
-      "name": "Libya"
     },
     {
       "name": "Liechtenstein"
@@ -353,13 +346,6 @@
       "name": "Russia"
     },
     {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
-    },
-    {
-      "name": "Saint Kitts and Nevis"
-    },
-    {
       "name": "Saint Lucia"
     },
     {
@@ -367,10 +353,6 @@
     },
     {
       "name": "San Marino"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Saudi Arabia"
@@ -423,7 +405,8 @@
       "name": "Switzerland"
     },
     {
-      "name": "Syria"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 90 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
     },
     {
       "name": "Thailand"
@@ -475,6 +458,10 @@
   ],
   "not-required": [
     {
+      "name": "Armenia",
+      "note": "90 days within 180 days"
+    },
+    {
       "name": "Dominica",
       "note": "21 days"
     },
@@ -520,12 +507,25 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Gabon",
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "São Tomé and Príncipe"
     },
     {
       "name": "Sri Lanka",
@@ -537,12 +537,12 @@
   ],
   "on-arrival": [
     {
-      "name": "Armenia",
-      "note": "120 days"
-    },
-    {
       "name": "Bolivia",
       "note": "30 days; only at Cochabamba, La Paz and Santa Cruz airports"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
     },
     {
       "name": "Cape Verde"
@@ -587,7 +587,7 @@
     },
     {
       "name": "Nepal",
-      "note": "90 Days (25 - 100 US$)"
+      "note": "90 Days"
     },
     {
       "name": "Palau",
@@ -599,7 +599,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -626,13 +626,18 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zimbabwe",
       "note": "3 months"
     }
   ],
-  "refused": [],
+  "refused": [
+    {
+      "name": "Libya"
+    }
+  ],
   "unknown": []
 }

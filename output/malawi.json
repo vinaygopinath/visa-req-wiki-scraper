@@ -577,7 +577,8 @@
       "name": "Djibouti"
     },
     {
-      "name": "Ghana"
+      "name": "Ghana",
+      "note": "30 days"
     },
     {
       "name": "Guinea-Bissau",
@@ -628,7 +629,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 month"
+      "note": "3 months"
     },
     {
       "name": "Tanzania"

@@ -36,10 +36,6 @@
       "note": "Except for passengers with a valid multiple entry visa, issued by Bulgaria, Croatia, Cyprus, Ireland, Monaco, Romania, the UK, or a Schengen Member State, and travelling from the country of issue. They are visa exempt for a max. stay of 7 days."
     },
     {
-      "name": "Burkina Faso",
-      "note": "Holders of Peruvian passports can obtain a visa on arrival for a max. stay of 1 month, if holding a valid visa issued by a Schengen Member State. Single entry fee: XOF 47,000.-. Multiple entry fee: XOF 61,000.-."
-    },
-    {
       "name": "Cameroon"
     },
     {
@@ -161,7 +157,8 @@
       "name": "Qatar"
     },
     {
-      "name": "Rwanda"
+      "name": "Rwanda",
+      "note": "May obtain online."
     },
     {
       "name": "Saudi Arabia"
@@ -437,7 +434,7 @@
     },
     {
       "name": "Panama",
-      "note": "90 days"
+      "note": "180 days"
     },
     {
       "name": "Paraguay",
@@ -582,6 +579,10 @@
       "note": "30 days. Fee: Varies per country. Extension possible."
     },
     {
+      "name": "Burkina Faso",
+      "note": "1 month, if holding a valid visa issued by a Schengen Member State. Single entry fee: XOF 47,000.-. Multiple entry fee: XOF 61,000.-."
+    },
+    {
       "name": "Burundi",
       "note": "3 months. Obtainable on arrival at Bujumbura airport (BJM)."
     },
@@ -715,7 +716,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Fee: USD 100.-."
+      "note": "Fee: USD 100.-. May apply online."
     },
     {
       "name": "Zambia",

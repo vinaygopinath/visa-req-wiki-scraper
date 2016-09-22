@@ -20,6 +20,9 @@
       "name": "Bhutan"
     },
     {
+      "name": "Brazil"
+    },
+    {
       "name": "Burkina Faso"
     },
     {
@@ -173,10 +176,6 @@
     {
       "name": "Botswana",
       "note": "90 days per year"
-    },
-    {
-      "name": "Brazil",
-      "note": "Temporary visa waiver, for a stay up to 90 days, is in place in 2016 between June 1 and September 18."
     },
     {
       "name": "Brunei",
@@ -573,6 +572,10 @@
       "note": "3 months; also visa on arrival until 1 September 2015"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports. Also visa on arrival for 28 days, if arriving from Siem Reap, Guangzhou or Phnom Penh on MAI."
     },
@@ -637,10 +640,6 @@
       "note": "Conditions apply. Not available at all entry points."
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Lebanon",
       "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
     },
@@ -689,7 +688,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -724,7 +723,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "United Arab Emirates",

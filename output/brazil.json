@@ -75,10 +75,6 @@
       "name": "Japan"
     },
     {
-      "name": "Kazakhstan",
-      "note": "Visa-free agreement signed, not yet ratified."
-    },
-    {
       "name": "Kiribati"
     },
     {
@@ -336,6 +332,10 @@
       "note": "90 days (business), 6 months (tourist)"
     },
     {
+      "name": "Kazakhstan",
+      "note": "30 days per year"
+    },
+    {
       "name": "South Korea",
       "note": "90 days"
     },
@@ -445,7 +445,7 @@
     },
     {
       "name": "Russia",
-      "note": "90 days for tourism purposes"
+      "note": "90 days within 180 days for tourism purposes"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -574,7 +574,7 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -720,7 +720,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

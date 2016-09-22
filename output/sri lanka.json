@@ -4,7 +4,8 @@
       "name": "Afghanistan"
     },
     {
-      "name": "Albania"
+      "name": "Albania",
+      "note": "Visa free for a maximum stay of 90 days within 180 days for valid Or previously used visa issued by a Schengen area country, United States, or the United Kingdom"
     },
     {
       "name": "Algeria"
@@ -28,7 +29,8 @@
       "name": "Azerbaijan"
     },
     {
-      "name": "Bahrain"
+      "name": "Bahrain",
+      "note": "Visa on arrival for a maximum stay of 14 days who holds a valid residency permit Gulf Cooperation Council countries, who have already stayed for more than six months in their country of residence"
     },
     {
       "name": "Bangladesh"
@@ -55,7 +57,8 @@
       "name": "Botswana"
     },
     {
-      "name": "Brazil"
+      "name": "Brazil",
+      "note": "Visa Free for Diplomatic & Official Passport holders"
     },
     {
       "name": "Brunei"
@@ -150,6 +153,10 @@
       "note": "Visa not required for 90 days but an entry clearance from the Gambian Immigration prior to travel must be obtained"
     },
     {
+      "name": "Georgia (country)",
+      "note": "eVisa available for holders of a valid Schengen visa or a valid visa from any of the OECD member countries; or a valid residence permit of a Schengen or OECD country."
+    },
+    {
       "name": "Germany"
     },
     {
@@ -169,10 +176,6 @@
     },
     {
       "name": "Honduras"
-    },
-    {
-      "name": "Hong Kong",
-      "note": "14 days Visa Free for Diplomatic & Official Passport holders"
     },
     {
       "name": "Hungary"
@@ -412,7 +415,8 @@
       "name": "Tanzania"
     },
     {
-      "name": "Thailand"
+      "name": "Thailand",
+      "note": "Visa-Free for Diplomatic & Official passport holders"
     },
     {
       "name": "Tonga"
@@ -535,10 +539,6 @@
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
     {
-      "name": "Georgia (country)",
-      "note": "In February 2015 Georgia launched an E-Visa portal allowing citizens of countries that are required to obtain a visa to do so online without a visit to the Georgian diplomatic mission or consulate"
-    },
-    {
       "name": "India",
       "note": "30 days, must arrive through designated airports"
     },
@@ -623,7 +623,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "East Timor",
@@ -639,7 +639,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     }
   ],
   "refused": [],

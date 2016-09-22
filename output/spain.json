@@ -232,7 +232,7 @@
     },
     {
       "name": "Denmark",
-      "note": "\nFreedom of movement (DK); ID card valid\n"
+      "note": "Freedom of movement (DK); ID card valid"
     },
     {
       "name": "Dominica",
@@ -416,7 +416,7 @@
     },
     {
       "name": "Netherlands",
-      "note": "\nFreedom of movement (European Netherlands); ID card valid\n"
+      "note": "Freedom of movement (European Netherlands); ID card valid"
     },
     {
       "name": "New Zealand",
@@ -560,7 +560,7 @@
     },
     {
       "name": "United Kingdom",
-      "note": "\nFreedom of movement (in Constituent countries); ID card valid\n"
+      "note": "Freedom of movement (in Constituent countries); ID card valid"
     },
     {
       "name": "United States",
@@ -607,6 +607,10 @@
     {
       "name": "Kenya",
       "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -677,10 +681,6 @@
       "note": "Conditions apply. Not available at all entry points."
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days. Not available at all entry points."
     },
@@ -744,7 +744,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

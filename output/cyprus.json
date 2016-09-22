@@ -62,9 +62,6 @@
       "name": "Ethiopia"
     },
     {
-      "name": "Gabon"
-    },
-    {
       "name": "Ghana"
     },
     {
@@ -116,10 +113,6 @@
     },
     {
       "name": "Russia"
-    },
-    {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Saudi Arabia"
@@ -285,7 +278,7 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "90 days within 180 days; ID card valid"
+      "note": "1 year; ID card valid"
     },
     {
       "name": "Germany",
@@ -600,8 +593,20 @@
       "note": "90 days on each visit in 12-month period if granted."
     },
     {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days, eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+    },
+    {
+      "name": "Rwanda",
+      "note": "Visa is obtained online."
     },
     {
       "name": "Sri Lanka",
@@ -653,10 +658,6 @@
     {
       "name": "Jordan",
       "note": "Conditions apply"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Kyrgyzstan",

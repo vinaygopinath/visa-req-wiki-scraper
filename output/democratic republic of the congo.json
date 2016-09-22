@@ -158,9 +158,6 @@
       "name": "Germany"
     },
     {
-      "name": "Ghana"
-    },
-    {
       "name": "Greece"
     },
     {
@@ -549,6 +546,10 @@
       "name": "Djibouti"
     },
     {
+      "name": "Ghana",
+      "note": "30 days"
+    },
+    {
       "name": "Guinea-Bissau",
       "note": "90 days"
     },
@@ -595,7 +596,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -617,7 +618,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

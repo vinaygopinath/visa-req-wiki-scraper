@@ -147,6 +147,10 @@
       "name": "The Gambia"
     },
     {
+      "name": "Georgia (country)",
+      "note": "eVisa available for holders of a valid Schengen visa or a valid visa from any of the OECD member countries; or a valid residence permit of a Schengen or OECD country."
+    },
+    {
       "name": "Germany"
     },
     {
@@ -508,9 +512,6 @@
       "note": "14 days"
     },
     {
-      "name": "Georgia (country)"
-    },
-    {
       "name": "India",
       "note": "30 days, eTV holders must arrive via 16 designated airports."
     },
@@ -615,7 +616,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 month"
+      "note": "3 months"
     },
     {
       "name": "Tanzania"
@@ -633,7 +634,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

@@ -323,7 +323,8 @@
       "name": "Romania"
     },
     {
-      "name": "Russia"
+      "name": "Russia",
+      "note": "Visa-free agreement signed but not ratified yet."
     },
     {
       "name": "Rwanda"
@@ -525,6 +526,10 @@
       "note": "30 days, eTV holders must arrive via 16 designated airports."
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Saint Kitts and Nevis"
     },
     {
@@ -565,10 +570,6 @@
       "note": "3 months"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Madagascar",
       "note": "90 days"
     },
@@ -606,7 +607,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 month"
+      "note": "3 months"
     },
     {
       "name": "Tanzania",
@@ -625,7 +626,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia"

@@ -19,10 +19,6 @@
       "name": "Armenia"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -60,6 +56,9 @@
     },
     {
       "name": "Burundi"
+    },
+    {
+      "name": "Cambodia"
     },
     {
       "name": "Cameroon"
@@ -276,18 +275,10 @@
       "name": "Russia"
     },
     {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
-    },
-    {
       "name": "Saint Lucia"
     },
     {
       "name": "San Marino"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Senegal"
@@ -404,7 +395,7 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "90 days within 180 days"
+      "note": "1 year"
     },
     {
       "name": "Guatemala",
@@ -512,16 +503,26 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Gabon",
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon International Airport."
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "São Tomé and Príncipe"
     },
     {
       "name": "Sri Lanka",
@@ -547,10 +548,6 @@
     },
     {
       "name": "Brunei",
-      "note": "30 days"
-    },
-    {
-      "name": "Cambodia",
       "note": "30 days"
     },
     {
@@ -611,7 +608,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -630,7 +627,7 @@
     },
     {
       "name": "Thailand",
-      "note": "15 days (A special permission from the Saudi government required, otherwise punished upon return. )"
+      "note": "15 days (A special permission from the Saudi government required, otherwise punished upon return.)"
     },
     {
       "name": "East Timor",
@@ -645,7 +642,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Yemen",

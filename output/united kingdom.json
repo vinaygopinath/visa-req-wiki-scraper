@@ -36,7 +36,7 @@
     },
     {
       "name": "China",
-      "note": "72-hours visa free visit when in transit at Beijing, Guangzhou, Guilin, Shanghai, Chengdu, Chongqing, Dalian, Shenyang and Xi'an."
+      "note": "72-hours visa free visit when in transit at Beijing, Guangzhou, Guilin, Shanghai, Chengdu, Chongqing, Dalian, Shenyang and Xi'an. Visiting visas issued to British citizens are generally valid for 2 years"
     },
     {
       "name": "Republic of the Congo"
@@ -66,7 +66,7 @@
     },
     {
       "name": "Iraq",
-      "note": "Visa on arrival for 15 days at Erbil and Sulaymaniyah airports."
+      "note": "Visa on arrival for 30 days at Erbil and Sulaymaniyah airports."
     },
     {
       "name": "North Korea"
@@ -152,7 +152,7 @@
     },
     {
       "name": "Armenia",
-      "note": "stay up to 90 days within 180 period days"
+      "note": "Stay up to 90 days within 180 period days"
     },
     {
       "name": "Austria",
@@ -164,7 +164,7 @@
     },
     {
       "name": "Barbados",
-      "note": "up to 6 months"
+      "note": "Up to 6 months"
     },
     {
       "name": "Belgium",
@@ -176,7 +176,7 @@
     },
     {
       "name": "Bolivia",
-      "note": "30 days - extendable up to 90 days Note: vaccination against yellow fever might be required upon arrival in some location."
+      "note": "30 days - extendable up to 90 days. Note: vaccination against yellow fever might be required upon arrival in some location."
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -184,7 +184,7 @@
     },
     {
       "name": "Botswana",
-      "note": "up to 90 days"
+      "note": "Up to 90 days"
     },
     {
       "name": "Brazil",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Brunei",
-      "note": "up to 90 days"
+      "note": "Up to 90 days"
     },
     {
       "name": "Bulgaria",
@@ -208,11 +208,11 @@
     },
     {
       "name": "Colombia",
-      "note": "up to 90 days - extendable up to 180-days stay within a one-year period"
+      "note": "Up to 90 days - extendable up to 180-days stay within a one-year period"
     },
     {
       "name": "Costa Rica",
-      "note": "up to 3 months"
+      "note": "Up to 3 months"
     },
     {
       "name": "Croatia",
@@ -236,7 +236,7 @@
     },
     {
       "name": "Ecuador",
-      "note": "up to 90 days - extendable."
+      "note": "Up to 90 days - extendable."
     },
     {
       "name": "El Salvador",
@@ -575,7 +575,11 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Sri Lanka",
@@ -589,7 +593,7 @@
   "on-arrival": [
     {
       "name": "Bahrain",
-      "note": "up to 3 months visa-on-arrival or eVisa for 14 days (extendable for another 14 days)"
+      "note": "Up to 3 months visa-on-arrival or eVisa for 14 days (extendable for another 14 days)"
     },
     {
       "name": "Bangladesh",
@@ -637,10 +641,6 @@
       "note": "Conditions apply"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days"
     },
@@ -669,7 +669,7 @@
     },
     {
       "name": "Nepal",
-      "note": "up to 90 days Visa-on-arrival - extendable"
+      "note": "Up to 90 days Visa-on-arrival - extendable"
     },
     {
       "name": "Oman",
@@ -697,7 +697,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month. Free of charge."
+      "note": "3 months. Free of charge."
     },
     {
       "name": "Solomon Islands",
@@ -735,7 +735,8 @@
       "note": "1 month. Free of charge."
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "United Arab Emirates",

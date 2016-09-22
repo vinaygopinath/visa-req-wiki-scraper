@@ -236,7 +236,8 @@
       "name": "Myanmar"
     },
     {
-      "name": "Nauru"
+      "name": "Nauru",
+      "note": "Criminal record and medical fitness certificates are not required for citizens of Lesotho."
     },
     {
       "name": "Netherlands"
@@ -586,7 +587,7 @@
     },
     {
       "name": "Ghana",
-      "note": "1 month"
+      "note": "30 days"
     },
     {
       "name": "Guinea-Bissau",
@@ -636,7 +637,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",

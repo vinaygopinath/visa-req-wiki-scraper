@@ -350,7 +350,8 @@
       "name": "Switzerland"
     },
     {
-      "name": "Syria"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
     },
     {
       "name": "Thailand"
@@ -439,6 +440,10 @@
     {
       "name": "Indonesia",
       "note": "30 days"
+    },
+    {
+      "name": "Iran",
+      "note": "90 days within 180 days"
     },
     {
       "name": "Kazakhstan",
@@ -558,10 +563,6 @@
       "note": "90 days"
     },
     {
-      "name": "Iran",
-      "note": "15 days\nVisa-free agreement signed but not ratified yet."
-    },
-    {
       "name": "Jamaica"
     },
     {
@@ -635,7 +636,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [

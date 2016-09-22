@@ -123,6 +123,9 @@
       "name": "Jordan"
     },
     {
+      "name": "Kiribati"
+    },
+    {
       "name": "North Korea"
     },
     {
@@ -144,6 +147,9 @@
       "name": "Mali"
     },
     {
+      "name": "Marshall Islands"
+    },
+    {
       "name": "Mexico"
     },
     {
@@ -156,6 +162,9 @@
       "name": "Myanmar"
     },
     {
+      "name": "Nauru"
+    },
+    {
       "name": "New Zealand"
     },
     {
@@ -166,6 +175,9 @@
     },
     {
       "name": "Pakistan"
+    },
+    {
+      "name": "Papua New Guinea"
     },
     {
       "name": "Paraguay"
@@ -202,6 +214,9 @@
       "note": "May obtain online."
     },
     {
+      "name": "Solomon Islands"
+    },
+    {
       "name": "South Africa"
     },
     {
@@ -217,10 +232,14 @@
       "name": "Swaziland"
     },
     {
-      "name": "Syria"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
     },
     {
       "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
     },
     {
       "name": "Trinidad and Tobago"
@@ -239,6 +258,9 @@
     },
     {
       "name": "Uruguay"
+    },
+    {
+      "name": "Vanuatu"
     },
     {
       "name": "Venezuela"
@@ -371,6 +393,10 @@
       "note": "90 days in any 180-day period in the Schengen Area as a whole"
     },
     {
+      "name": "Fiji",
+      "note": "4 months"
+    },
+    {
       "name": "Kazakhstan",
       "note": "90 days"
     },
@@ -404,6 +430,10 @@
     {
       "name": "Malta",
       "note": "90 days in any 180-day period in the Schengen Area as a whole"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
     },
     {
       "name": "Monaco"
@@ -506,6 +536,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Gabon",
       "note": "eVisa holders must arrive via Libreville International Airport."
     },
@@ -515,7 +549,7 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015\nCan also be entered on an East Africa Tourist Visa issued by Rwanda or Uganda."
+      "note": "3 months\nCan also be entered on an East Africa Tourist Visa issued by Rwanda or Uganda."
     },
     {
       "name": "Sri Lanka",
@@ -602,12 +636,20 @@
       "name": "Oman"
     },
     {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
       "name": "Saint Lucia",
       "note": "6 weeks"
     },
     {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -625,8 +667,12 @@
       "note": "7 days"
     },
     {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
       "name": "Uganda",
-      "note": "90 days\nCan also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda."
+      "note": "3 months. May apply online.\nCan also be entered on an East Africa Tourist Visa issued by Kenya or Rwanda."
     },
     {
       "name": "Zambia",

@@ -22,10 +22,6 @@
       "name": "Armenia"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -164,13 +160,11 @@
       "name": "France"
     },
     {
-      "name": "Gabon"
-    },
-    {
       "name": "The Gambia"
     },
     {
-      "name": "Georgia (country)"
+      "name": "Georgia (country)",
+      "note": "eVisa available for holders of a valid Schengen visa or a valid visa from any of the OECD member countries; or a valid residence permit of a Schengen or OECD country."
     },
     {
       "name": "Germany"
@@ -255,7 +249,7 @@
     },
     {
       "name": "Lebanon",
-      "note": "Holders of visas issued by the embassy of Lebanon in Baghdad after February 20 2007 should obtain an approval from the Immigration department of the General Directorate for General Secutiy (La Surete Generale) in addition to their visa. "
+      "note": "Holders of visas issued by the embassy of Lebanon in Baghdad after February 20, 2007 should obtain an approval from the Immigration department of the General Directorate for General Secutiy (La Surete Generale) in addition to their visa."
     },
     {
       "name": "Lesotho"
@@ -379,13 +373,6 @@
       "name": "Russia"
     },
     {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
-    },
-    {
-      "name": "Saint Kitts and Nevis"
-    },
-    {
       "name": "Saint Lucia"
     },
     {
@@ -393,10 +380,6 @@
     },
     {
       "name": "San Marino"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Saudi Arabia"
@@ -505,12 +488,6 @@
     },
     {
       "name": "Vietnam"
-    },
-    {
-      "name": "Zambia"
-    },
-    {
-      "name": "Zimbabwe"
     }
   ],
   "not-required": [
@@ -544,8 +521,31 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Gabon",
+      "note": "Electronic visa holders must arrive via Libreville International Airport."
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days; must hold return or onward ticket"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
     }
   ],
   "on-arrival": [
@@ -611,7 +611,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Yemen",

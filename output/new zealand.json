@@ -548,6 +548,10 @@
       "note": "3 months; also visa on arrival until 1 September 2015"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -616,10 +620,6 @@
       "note": "Conditions apply. Not available at all entry points."
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days. Not available at all entry points."
     },
@@ -684,7 +684,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -723,7 +723,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Ukraine",

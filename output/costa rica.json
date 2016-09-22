@@ -129,9 +129,6 @@
       "name": "Morocco"
     },
     {
-      "name": "Myanmar"
-    },
-    {
       "name": "Namibia"
     },
     {
@@ -577,6 +574,9 @@
       "note": "3 months"
     },
     {
+      "name": "Myanmar"
+    },
+    {
       "name": "São Tomé and Príncipe",
       "note": "Visa is obtained online."
     },
@@ -666,7 +666,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -696,7 +696,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

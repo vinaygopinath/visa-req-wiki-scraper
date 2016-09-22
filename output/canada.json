@@ -23,6 +23,9 @@
       "name": "Bhutan"
     },
     {
+      "name": "Brazil"
+    },
+    {
       "name": "Cameroon"
     },
     {
@@ -174,10 +177,6 @@
     {
       "name": "Botswana",
       "note": "90 days"
-    },
-    {
-      "name": "Brazil",
-      "note": "Temporary visa waiver, for a stay up to 90 days, is in place in 2016 between June 1 and September 18."
     },
     {
       "name": "Brunei",
@@ -437,7 +436,7 @@
     },
     {
       "name": "Saint Kitts and Nevis",
-      "note": "3 months"
+      "note": "6 months"
     },
     {
       "name": "Saint Lucia",
@@ -514,7 +513,8 @@
       "note": "6 months"
     },
     {
-      "name": "United States"
+      "name": "United States",
+      "note": "NEXUS card valid"
     },
     {
       "name": "Uruguay",
@@ -556,6 +556,10 @@
     {
       "name": "Kenya",
       "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -624,10 +628,6 @@
       "note": "Conditions apply"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days, conditions apply"
     },
@@ -687,7 +687,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -725,7 +725,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "United Arab Emirates",

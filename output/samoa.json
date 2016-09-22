@@ -547,11 +547,10 @@
   "evisa": [
     {
       "name": "Australia",
-      "note": "Transit visa is not required."
+      "note": "May apply online. Transit visa is not required."
     },
     {
-      "name": "Georgia (country)",
-      "note": "up to 90 days"
+      "name": "Georgia (country)"
     },
     {
       "name": "India",
@@ -649,7 +648,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands"
@@ -678,7 +677,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     }
   ],
   "refused": [],

@@ -124,6 +124,9 @@
       "name": "New Zealand"
     },
     {
+      "name": "Nicaragua"
+    },
+    {
       "name": "Niger"
     },
     {
@@ -139,7 +142,8 @@
       "name": "Qatar"
     },
     {
-      "name": "Rwanda"
+      "name": "Rwanda",
+      "note": "May obtain online."
     },
     {
       "name": "São Tomé and Príncipe",
@@ -185,10 +189,12 @@
       "name": "Ukraine"
     },
     {
-      "name": "United Arab Emirates"
+      "name": "United Arab Emirates",
+      "note": "A 96-hour transit visa can be obtained on arrival at Dubai (DXB), provided transit time is at least 8 hours; and holding onward ticket to a third country; and holding a passport valid for at least 6 months from date of arrival. Visa fee of 170 AED. Visas are only issued as a part of a transit package together with hotel accommodation and airport transfer"
     },
     {
-      "name": "United Kingdom"
+      "name": "United Kingdom",
+      "note": "Negotiations to abolish visa requirements are currently in progress"
     },
     {
       "name": "United States"
@@ -431,10 +437,6 @@
       "note": "90 days within 180 days in the Schengen area (European Netherlands)"
     },
     {
-      "name": "Nicaragua",
-      "note": "90 days"
-    },
-    {
       "name": "Norway",
       "note": "90 days within 180 days in the Schengen area"
     },
@@ -562,7 +564,8 @@
       "note": "30 days"
     },
     {
-      "name": "Zimbabwe"
+      "name": "Zimbabwe",
+      "note": "Negotiations to abolish visa requirements are currently in progress"
     }
   ],
   "on-arrival": [
@@ -700,7 +703,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

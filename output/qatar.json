@@ -16,10 +16,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online. Transit visa is not required."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -263,18 +259,10 @@
       "name": "Russia"
     },
     {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
-    },
-    {
       "name": "Saint Lucia"
     },
     {
       "name": "San Marino"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Senegal"
@@ -345,12 +333,6 @@
     },
     {
       "name": "Vietnam"
-    },
-    {
-      "name": "Zambia"
-    },
-    {
-      "name": "Zimbabwe"
     }
   ],
   "not-required": [
@@ -532,6 +514,10 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Gabon",
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
@@ -544,7 +530,13 @@
       "note": "28 days"
     },
     {
+      "name": "Rwanda"
+    },
+    {
       "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "São Tomé and Príncipe"
     },
     {
       "name": "Sri Lanka",
@@ -553,6 +545,9 @@
     {
       "name": "United Kingdom",
       "note": "6 months"
+    },
+    {
+      "name": "Zambia"
     }
   ],
   "on-arrival": [
@@ -634,7 +629,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Tajikistan",
@@ -657,7 +652,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Yemen",
@@ -665,5 +661,10 @@
     }
   ],
   "refused": [],
-  "unknown": []
+  "unknown": [
+    {
+      "name": "Zimbabwe",
+      "visa": "Template:Urs2[205]"
+    }
+  ]
 }

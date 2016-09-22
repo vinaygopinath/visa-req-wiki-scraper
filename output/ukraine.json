@@ -28,7 +28,7 @@
     },
     {
       "name": "Belize",
-      "note": "visa on arrival for those holding a valid US visa"
+      "note": "visa on arrival for those holding a valid US visa or Schengen visa"
     },
     {
       "name": "Benin"
@@ -132,8 +132,7 @@
       "name": "Guinea"
     },
     {
-      "name": "Guyana",
-      "note": "-e-visa is available"
+      "name": "Guyana"
     },
     {
       "name": "Hungary"
@@ -294,8 +293,11 @@
       "name": "Switzerland"
     },
     {
-      "name": "Trinidad and Tobago",
-      "note": "-e-visa is available"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
+    },
+    {
+      "name": "Trinidad and Tobago"
     },
     {
       "name": "Tunisia",
@@ -357,7 +359,7 @@
     },
     {
       "name": "Belarus",
-      "note": "The internal passport is accepted for border crossing. 90 days within a 180-day period"
+      "note": "The internal passport (booklets only) is accepted for border crossing. 90 days within a 180-day period"
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -658,7 +660,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -689,7 +691,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",
@@ -701,11 +704,5 @@
     }
   ],
   "refused": [],
-  "unknown": [
-    {
-      "name": "Syria",
-      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance.",
-      "visa": "Disputed"
-    }
-  ]
+  "unknown": []
 }

@@ -527,6 +527,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Rwanda"
     },
     {
@@ -568,10 +572,6 @@
     {
       "name": "Iran",
       "note": "30 days"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months for a fee of KWD3.- if arriving by plane"
     },
     {
       "name": "Madagascar",
@@ -636,7 +636,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

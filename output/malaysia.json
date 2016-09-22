@@ -30,6 +30,9 @@
       "name": "Canada"
     },
     {
+      "name": "Cape Verde"
+    },
+    {
       "name": "Central African Republic"
     },
     {
@@ -64,7 +67,7 @@
       "name": "Guinea"
     },
     {
-      "name": "Guyana"
+      "name": "Guinea-Bissau"
     },
     {
       "name": "Iraq"
@@ -125,7 +128,8 @@
       "name": "South Sudan"
     },
     {
-      "name": "Syria"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
     },
     {
       "name": "Turkmenistan"
@@ -240,6 +244,10 @@
       "note": "90 days"
     },
     {
+      "name": "Egypt",
+      "note": "15 days"
+    },
+    {
       "name": "El Salvador",
       "note": "90 days"
     },
@@ -283,8 +291,8 @@
       "note": "90 days"
     },
     {
-      "name": "Guinea-Bissau",
-      "note": "90 days"
+      "name": "Guyana",
+      "note": "60 days"
     },
     {
       "name": "Haiti",
@@ -311,7 +319,8 @@
       "note": "15 days"
     },
     {
-      "name": "Republic of Ireland"
+      "name": "Republic of Ireland",
+      "note": "3 Months"
     },
     {
       "name": "Italy",
@@ -324,10 +333,6 @@
     {
       "name": "Japan",
       "note": "90 days for holders of biometric passports"
-    },
-    {
-      "name": "Jordan",
-      "note": "30 days"
     },
     {
       "name": "Kazakhstan",
@@ -458,12 +463,8 @@
       "note": "90 days within 180 days in the Schengen area"
     },
     {
-      "name": "Qatar",
-      "note": "1 month"
-    },
-    {
       "name": "Romania",
-      "note": "90 days within 180"
+      "note": "90 days within 180 days in the Schengen area"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -515,6 +516,10 @@
     {
       "name": "Switzerland",
       "note": "90 days within 180 days in the Schengen area"
+    },
+    {
+      "name": "Tanzania",
+      "note": "3 months"
     },
     {
       "name": "Thailand",
@@ -586,6 +591,10 @@
       "note": "30 days"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -619,9 +628,6 @@
       "note": "90 days"
     },
     {
-      "name": "Cape Verde"
-    },
-    {
       "name": "Comoros",
       "note": "45 days"
     },
@@ -632,12 +638,8 @@
       "name": "Dominican Republic"
     },
     {
-      "name": "Egypt",
-      "note": "15 days"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
+      "name": "Jordan",
+      "note": "30 days"
     },
     {
       "name": "Lebanon",
@@ -679,6 +681,10 @@
       "note": "60 days"
     },
     {
+      "name": "Qatar",
+      "note": "1 month"
+    },
+    {
       "name": "Saint Lucia",
       "note": "6 weeks"
     },
@@ -688,7 +694,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -700,10 +706,6 @@
     {
       "name": "Tajikistan",
       "note": "45 days at Dushanbe International Airport. Visa also available online. E-visa holders can enter through all border points."
-    },
-    {
-      "name": "Tanzania",
-      "note": "1 month"
     },
     {
       "name": "East Timor",
@@ -722,7 +724,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "United Arab Emirates",

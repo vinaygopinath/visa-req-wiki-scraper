@@ -85,8 +85,7 @@
       "name": "Chile"
     },
     {
-      "name": "China",
-      "note": " Hong Kong - visa-free 14 days"
+      "name": "China"
     },
     {
       "name": "Colombia",
@@ -166,6 +165,9 @@
     },
     {
       "name": "Honduras"
+    },
+    {
+      "name": "Hong Kong"
     },
     {
       "name": "Hungary"
@@ -607,7 +609,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 month"
+      "note": "3 months"
     },
     {
       "name": "South Sudan"

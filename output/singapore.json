@@ -404,7 +404,7 @@
     },
     {
       "name": "Mongolia",
-      "note": "14 days"
+      "note": "14 days. Soon to be 30 days"
     },
     {
       "name": "Montenegro",
@@ -465,6 +465,10 @@
     {
       "name": "Saint Kitts and Nevis",
       "note": "3 months"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "15 days"
     },
     {
       "name": "Saint Vincent and the Grenadines",
@@ -579,10 +583,6 @@
       "note": "90 days on each visit in 12-month period if granted. May enter using SmartGate on arrival in Australia "
     },
     {
-      "name": "Canada",
-      "note": "6 months for overland or cruise ship arrivals. eTA required for air arrivals."
-    },
-    {
       "name": "Ivory Coast",
       "note": "Must be arriving at Port Bouet Airport and hold an International Certificate of Vaccination. The E Visa can be acquired on http://www.snedai.com/"
     },
@@ -653,7 +653,7 @@
     },
     {
       "name": "Kuwait",
-      "note": "3 months"
+      "note": "3 months. E-Visa is also available online."
     },
     {
       "name": "Lebanon",
@@ -703,16 +703,12 @@
       "note": "1 month"
     },
     {
-      "name": "Saint Lucia",
-      "note": "6 weeks"
-    },
-    {
       "name": "Samoa",
       "note": "60 days"
     },
     {
       "name": "Seychelles",
-      "note": "1 month, issued to all travellers free of charge."
+      "note": "3 months, issued to all travellers free of charge."
     },
     {
       "name": "Solomon Islands",
@@ -752,5 +748,11 @@
     }
   ],
   "refused": [],
-  "unknown": []
+  "unknown": [
+    {
+      "name": "Canada",
+      "note": "6 months; eTA required if arriving by air from September 29, 2016.",
+      "visa": "Visa not requireed[51]"
+    }
+  ]
 }

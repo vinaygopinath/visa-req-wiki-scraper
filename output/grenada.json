@@ -27,7 +27,8 @@
       "name": "Bhutan"
     },
     {
-      "name": "Bosnia and Herzegovina"
+      "name": "Bosnia and Herzegovina",
+      "note": "Visa not required for a max. stay of 7 days for holders of a valid multiple entry visa issued by UK, Ireland or a Schengen Member State"
     },
     {
       "name": "Brunei"
@@ -84,7 +85,8 @@
       "name": "Guinea"
     },
     {
-      "name": "Honduras"
+      "name": "Honduras",
+      "note": "Visa not required for holders of a valid multiple entry visa issued by Canada, USA or a Schengen Member State"
     },
     {
       "name": "Iraq"
@@ -114,7 +116,8 @@
       "name": "Libya"
     },
     {
-      "name": "Republic of Macedonia"
+      "name": "Republic of Macedonia",
+      "note": "Visa not required for a max. stay of 15 days for holders of a valid multiple entry visa issued by Canada, US or UK"
     },
     {
       "name": "Mali"
@@ -123,7 +126,8 @@
       "name": "Marshall Islands"
     },
     {
-      "name": "Mexico"
+      "name": "Mexico",
+      "note": "Visa not required for a max. stay of 180 days for holders of a valid visa issued by Canada, Japan, USA, UK or a Schengen Member State."
     },
     {
       "name": "Moldova"
@@ -218,7 +222,8 @@
       "name": "Ukraine"
     },
     {
-      "name": "United Arab Emirates"
+      "name": "United Arab Emirates",
+      "note": "A 96-hour transit visa can be obtained on arrival at Dubai (DXB), provided transit time is at least 8 hours; and holding onward ticket to a third country; and holding a passport valid for at least 6 months from date of arrival. Visa fee of 170 AED. Visas are only issued as a part of a transit package together with hotel accommodation and airport transfer"
     },
     {
       "name": "United States"
@@ -559,14 +564,14 @@
     },
     {
       "name": "Vanuatu",
-      "note": "90 days"
+      "note": "30 days"
     },
     {
       "name": "Vatican City"
     },
     {
       "name": "Venezuela",
-      "note": "90 days"
+      "note": "90 days, extensions possible"
     },
     {
       "name": "Zambia",

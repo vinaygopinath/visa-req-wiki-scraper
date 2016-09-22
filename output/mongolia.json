@@ -81,7 +81,8 @@
       "name": "Chad"
     },
     {
-      "name": "China"
+      "name": "China",
+      "note": " Hong Kong — Visa not required for 14 days.\n Macao — Visa not required for 90 days."
     },
     {
       "name": "Colombia"
@@ -441,10 +442,6 @@
       "note": "90 days"
     },
     {
-      "name": "Hong Kong",
-      "note": "14 days"
-    },
-    {
       "name": "Indonesia",
       "note": "30 days"
     },
@@ -619,7 +616,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Sri Lanka"
@@ -646,7 +643,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Zambia",

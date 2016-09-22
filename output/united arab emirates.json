@@ -13,10 +13,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online. Transit visa is not required."
-    },
-    {
       "name": "Barbados"
     },
     {
@@ -226,8 +222,7 @@
       "note": "30 days"
     },
     {
-      "name": "Austria",
-      "note": "90 days within 180 days inside Schengen Area"
+      "name": "Austria"
     },
     {
       "name": "The Bahamas",
@@ -496,7 +491,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "90 days"
+      "note": "3 months"
     },
     {
       "name": "Singapore",
@@ -547,6 +542,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
       "name": "Ivory Coast",
       "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
     },
@@ -560,7 +559,7 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Rwanda",
@@ -686,7 +685,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Ukraine",

@@ -22,6 +22,9 @@
       "name": "Bhutan"
     },
     {
+      "name": "Brazil"
+    },
+    {
       "name": "Burundi"
     },
     {
@@ -169,10 +172,6 @@
     {
       "name": "Botswana",
       "note": "90 days per year"
-    },
-    {
-      "name": "Brazil",
-      "note": "90 days"
     },
     {
       "name": "Brunei",
@@ -557,6 +556,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days."
     },
@@ -620,10 +623,6 @@
     {
       "name": "Jordan",
       "note": "30 days; conditions apply"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Laos",
@@ -716,7 +715,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry"
+      "note": "Determined at the port of entry."
     },
     {
       "name": "United Arab Emirates",

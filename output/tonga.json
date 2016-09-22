@@ -16,10 +16,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online. Transit visa is not required."
-    },
-    {
       "name": "Azerbaijan"
     },
     {
@@ -60,10 +56,6 @@
     },
     {
       "name": "Chad"
-    },
-    {
-      "name": "China",
-      "note": "Mutual visa agreement signed on 9 June 2016 and is pending ratification."
     },
     {
       "name": "Colombia"
@@ -313,6 +305,10 @@
       "note": "90 days"
     },
     {
+      "name": "China",
+      "note": "30 days; applied from 19 August 2016."
+    },
+    {
       "name": "Costa Rica",
       "note": "30 days"
     },
@@ -558,6 +554,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
       "name": "Georgia (country)",
       "note": "up to 90 days"
     },
@@ -653,7 +653,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands"

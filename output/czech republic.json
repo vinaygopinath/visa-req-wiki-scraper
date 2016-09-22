@@ -35,7 +35,7 @@
     },
     {
       "name": "China",
-      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shanghai, Shenyang, Xi'an and Guangdong Province."
+      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shenyang, Xi'an and Guangdong Province.\n144-hours visa free visit when in transit at Shanghai, Jiangsu, and Zhejiang.\n"
     },
     {
       "name": "Republic of the Congo"
@@ -492,7 +492,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 months in any 180-days"
+      "note": "90 days in any 180-days"
     },
     {
       "name": "Singapore",
@@ -617,6 +617,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days, eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -677,10 +681,6 @@
     {
       "name": "Jordan",
       "note": "Conditions apply for free visa"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Laos",
@@ -748,7 +748,7 @@
     },
     {
       "name": "Uganda",
-      "note": "90 days"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Zambia",

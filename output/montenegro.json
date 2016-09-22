@@ -10,10 +10,6 @@
       "name": "Angola"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Azerbaijan"
     },
     {
@@ -37,9 +33,6 @@
     },
     {
       "name": "Botswana"
-    },
-    {
-      "name": "Brazil"
     },
     {
       "name": "Brunei"
@@ -324,6 +317,10 @@
       "note": "90 days within 180 days; ID card valid"
     },
     {
+      "name": "Brazil",
+      "note": "90 days"
+    },
+    {
       "name": "Bulgaria",
       "note": "90 days within 180 days"
     },
@@ -380,7 +377,7 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "90 days within 180 days"
+      "note": "1 year"
     },
     {
       "name": "Germany",
@@ -557,6 +554,10 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Gabon",
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
@@ -566,7 +567,7 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Sri Lanka",
@@ -677,7 +678,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -700,7 +701,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     }
   ],
   "refused": [],

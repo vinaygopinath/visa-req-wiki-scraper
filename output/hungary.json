@@ -610,6 +610,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days, eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -670,10 +674,6 @@
     {
       "name": "Jordan",
       "note": "Conditions apply. Not available at all entry points."
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Laos",
@@ -744,7 +744,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

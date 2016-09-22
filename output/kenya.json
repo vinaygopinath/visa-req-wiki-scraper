@@ -345,9 +345,6 @@
       "name": "Tonga"
     },
     {
-      "name": "Trinidad and Tobago"
-    },
-    {
       "name": "Tunisia"
     },
     {
@@ -503,6 +500,9 @@
       "note": "90 days"
     },
     {
+      "name": "Trinidad and Tobago"
+    },
+    {
       "name": "Uganda"
     },
     {
@@ -621,7 +621,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Sierra Leone"

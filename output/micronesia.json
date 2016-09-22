@@ -10,20 +10,10 @@
       "name": "Algeria"
     },
     {
-      "name": "Andorra"
-    },
-    {
       "name": "Angola"
     },
     {
       "name": "Argentina"
-    },
-    {
-      "name": "Australia",
-      "note": "Transit visa is not required."
-    },
-    {
-      "name": "Austria"
     },
     {
       "name": "Azerbaijan"
@@ -41,9 +31,6 @@
       "name": "Belarus"
     },
     {
-      "name": "Belgium"
-    },
-    {
       "name": "Benin"
     },
     {
@@ -53,13 +40,13 @@
       "name": "Bosnia and Herzegovina"
     },
     {
+      "name": "Botswana"
+    },
+    {
       "name": "Brazil"
     },
     {
       "name": "Brunei"
-    },
-    {
-      "name": "Bulgaria"
     },
     {
       "name": "Burkina Faso"
@@ -83,7 +70,8 @@
       "name": "Chile"
     },
     {
-      "name": "China"
+      "name": "China",
+      "note": "Visa-free up to 14 days for Hong Kong\nVisa on arrival up to 30 days for Macau\nVisa required for Taiwan"
     },
     {
       "name": "Republic of the Congo"
@@ -95,19 +83,7 @@
       "name": "Ivory Coast"
     },
     {
-      "name": "Croatia"
-    },
-    {
       "name": "Cuba"
-    },
-    {
-      "name": "Cyprus"
-    },
-    {
-      "name": "Czech Republic"
-    },
-    {
-      "name": "Denmark"
     },
     {
       "name": "El Salvador",
@@ -120,29 +96,13 @@
       "name": "Eritrea"
     },
     {
-      "name": "Estonia"
-    },
-    {
       "name": "Ethiopia"
-    },
-    {
-      "name": "Finland"
-    },
-    {
-      "name": "France",
-      "note": "Visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
     },
     {
       "name": "Gabon"
     },
     {
-      "name": "Germany"
-    },
-    {
       "name": "Ghana"
-    },
-    {
-      "name": "Greece"
     },
     {
       "name": "Grenada"
@@ -160,12 +120,6 @@
       "name": "Honduras"
     },
     {
-      "name": "Hungary"
-    },
-    {
-      "name": "Iceland"
-    },
-    {
       "name": "Indonesia"
     },
     {
@@ -173,9 +127,6 @@
     },
     {
       "name": "Republic of Ireland"
-    },
-    {
-      "name": "Italy"
     },
     {
       "name": "Jamaica"
@@ -196,9 +147,6 @@
       "name": "Kyrgyzstan"
     },
     {
-      "name": "Latvia"
-    },
-    {
       "name": "Lebanon"
     },
     {
@@ -211,15 +159,6 @@
       "name": "Libya"
     },
     {
-      "name": "Liechtenstein"
-    },
-    {
-      "name": "Lithuania"
-    },
-    {
-      "name": "Luxembourg"
-    },
-    {
       "name": "Republic of Macedonia"
     },
     {
@@ -229,13 +168,7 @@
       "name": "Mali"
     },
     {
-      "name": "Malta"
-    },
-    {
       "name": "Moldova"
-    },
-    {
-      "name": "Monaco"
     },
     {
       "name": "Mongolia"
@@ -250,19 +183,14 @@
       "name": "Namibia"
     },
     {
-      "name": "Netherlands"
-    },
-    {
-      "name": "New Zealand"
+      "name": "New Zealand",
+      "note": "Visa required for New Zealand and Tokelau\nVisa-free up to 31 days for Cook Islands and up to 30 days for Niue"
     },
     {
       "name": "Niger"
     },
     {
       "name": "Nigeria"
-    },
-    {
-      "name": "Norway"
     },
     {
       "name": "Oman"
@@ -274,16 +202,7 @@
       "name": "Paraguay"
     },
     {
-      "name": "Poland"
-    },
-    {
-      "name": "Portugal"
-    },
-    {
       "name": "Qatar"
-    },
-    {
-      "name": "Romania"
     },
     {
       "name": "Russia"
@@ -293,9 +212,6 @@
       "note": "Visa is obtained online."
     },
     {
-      "name": "San Marino"
-    },
-    {
       "name": "São Tomé and Príncipe",
       "note": "Visa is obtained online."
     },
@@ -303,16 +219,11 @@
       "name": "Saudi Arabia"
     },
     {
-      "name": "Serbia"
+      "name": "Serbia",
+      "note": "Visa-free for Kosovo up to 90 days in 6 months"
     },
     {
       "name": "Sierra Leone"
-    },
-    {
-      "name": "Slovakia"
-    },
-    {
-      "name": "Slovenia"
     },
     {
       "name": "Somalia",
@@ -325,9 +236,6 @@
       "name": "South Sudan"
     },
     {
-      "name": "Spain"
-    },
-    {
       "name": "Sudan"
     },
     {
@@ -337,12 +245,6 @@
       "name": "Swaziland"
     },
     {
-      "name": "Sweden"
-    },
-    {
-      "name": "Switzerland"
-    },
-    {
       "name": "Syria"
     },
     {
@@ -350,6 +252,9 @@
     },
     {
       "name": "Thailand"
+    },
+    {
+      "name": "Trinidad and Tobago"
     },
     {
       "name": "Tunisia"
@@ -373,9 +278,6 @@
       "name": "Uzbekistan"
     },
     {
-      "name": "Vatican City"
-    },
-    {
       "name": "Venezuela"
     },
     {
@@ -383,19 +285,28 @@
     },
     {
       "name": "Yemen"
-    },
-    {
-      "name": "Zambia"
     }
   ],
   "not-required": [
+    {
+      "name": "Andorra",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Austria",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Belgium",
+      "note": "90 days in a 180-day period"
+    },
     {
       "name": "Belize",
       "note": "90 days"
     },
     {
-      "name": "Botswana",
-      "note": "3 months"
+      "name": "Bulgaria",
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Colombia",
@@ -406,28 +317,76 @@
       "note": "30 days"
     },
     {
+      "name": "Croatia",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Cyprus",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Denmark",
+      "note": "90 days in a 180-day period"
+    },
+    {
       "name": "Dominica",
-      "note": "6 months"
+      "note": "21 days"
     },
     {
       "name": "Ecuador",
       "note": "90 days"
     },
     {
+      "name": "Estonia",
+      "note": "90 days in a 180-day period"
+    },
+    {
       "name": "Fiji",
-      "note": "4 months"
+      "note": "30 days"
+    },
+    {
+      "name": "Finland",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "France",
+      "note": "90 days in a 180-day period for Metropolitan France, New Caledonia, Wallis and Futuna and French Polynesia\nVisa required for other French overseas departments and territories"
     },
     {
       "name": "The Gambia",
       "note": "90 days"
     },
     {
+      "name": "Germany",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Greece",
+      "note": "90 days in a 180-day period"
+    },
+    {
       "name": "Haiti",
       "note": "90 days"
     },
     {
+      "name": "Hungary",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Iceland",
+      "note": "90 days in a 180-day period"
+    },
+    {
       "name": "Israel",
       "note": "90 days"
+    },
+    {
+      "name": "Italy",
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Kiribati",
@@ -438,11 +397,43 @@
       "note": "30 days"
     },
     {
+      "name": "Latvia",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Lithuania",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Malta",
+      "note": "90 days in a 180-day period"
+    },
+    {
       "name": "Marshall Islands"
     },
     {
       "name": "Mexico",
       "note": "180 days"
+    },
+    {
+      "name": "Monaco",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Netherlands",
+      "note": "90 days in a 180-day period for European Netherlands\nVisa required for Dutch territories in the Caribbean"
+    },
+    {
+      "name": "Norway",
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Palau"
@@ -460,7 +451,16 @@
       "note": "30 days"
     },
     {
-      "name": "Saint Kitts and Nevis"
+      "name": "Poland",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Portugal",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Romania",
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Saint Lucia",
@@ -475,22 +475,47 @@
       "note": "60 days"
     },
     {
+      "name": "San Marino",
+      "note": "90 days in a 180-day period"
+    },
+    {
       "name": "Singapore"
     },
     {
-      "name": "Trinidad and Tobago"
+      "name": "Slovakia",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Slovenia",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Spain",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Sweden",
+      "note": "90 days in a 180-day period"
+    },
+    {
+      "name": "Switzerland",
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "United Kingdom",
-      "note": "6 months"
+      "note": "6 months\nVisa-free also for British overseas territories except Cayman Islands, Turks and Caicos Islands and Falkland Islands"
     },
     {
       "name": "United States",
-      "note": "Under the Compact of Free Association visa exemption applies to citizens by birth, former citizens of the Trust Territory of the Pacific Islands who were citizens in 1986, naturalized spouses, children and naturalized citizens who are residents for at least 5 years and does not apply to those who obtained passports through passport sale."
+      "note": "Under the Compact of Free Association visa exemption applies to citizens by birth, former citizens of the Trust Territory of the Pacific Islands who were citizens in 1986, naturalized spouses, children and naturalized citizens who are residents for at least 5 years and does not apply to those who obtained passports through passport sale. This unlimited exemption applies for United States, Puerto Rico, Virgin Islands, Guam and Northern Mariana Islands.\nVisa-free up to 30 days for American Samoa"
     },
     {
       "name": "Vanuatu",
       "note": "90 days"
+    },
+    {
+      "name": "Vatican City",
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Micronesia",
@@ -500,6 +525,10 @@
   "evisa": [
     {
       "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
     },
     {
       "name": "Georgia (country)",
@@ -512,6 +541,12 @@
     {
       "name": "Myanmar",
       "note": "28 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "Zambia"
     }
   ],
   "on-arrival": [
@@ -609,7 +644,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands"
@@ -638,7 +673,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Zimbabwe",

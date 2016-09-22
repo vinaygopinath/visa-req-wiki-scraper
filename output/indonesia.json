@@ -84,8 +84,7 @@
       "name": "Chad"
     },
     {
-      "name": "China",
-      "note": "Reciprocal visa-waiver is currently under consideration."
+      "name": "China"
     },
     {
       "name": "Republic of the Congo"
@@ -297,8 +296,7 @@
       "name": "Romania"
     },
     {
-      "name": "Russia",
-      "note": "Reciprocal visa-waiver is currently under negotiation."
+      "name": "Russia"
     },
     {
       "name": "Saint Lucia"
@@ -626,7 +624,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 Months"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -656,7 +654,8 @@
       "note": "30 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zimbabwe",

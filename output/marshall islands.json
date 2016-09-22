@@ -16,10 +16,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "Transit visa is not required."
-    },
-    {
       "name": "Azerbaijan"
     },
     {
@@ -270,15 +266,12 @@
     },
     {
       "name": "Yemen"
-    },
-    {
-      "name": "Zambia"
     }
   ],
   "not-required": [
     {
       "name": "Andorra",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Antigua and Barbuda",
@@ -286,7 +279,7 @@
     },
     {
       "name": "Austria",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "The Bahamas",
@@ -294,7 +287,7 @@
     },
     {
       "name": "Belgium",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Belize",
@@ -306,7 +299,7 @@
     },
     {
       "name": "Bulgaria",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Colombia",
@@ -318,19 +311,19 @@
     },
     {
       "name": "Croatia",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Cyprus",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Czech Republic",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Denmark",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Dominica",
@@ -346,7 +339,7 @@
     },
     {
       "name": "Estonia",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Fiji",
@@ -354,19 +347,19 @@
     },
     {
       "name": "Finland",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "France",
-      "note": "90 days in a 180 day period. Also visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
+      "note": "90 days in a 180-day period. Also visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
     },
     {
       "name": "Germany",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Greece",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Guatemala",
@@ -382,11 +375,11 @@
     },
     {
       "name": "Hungary",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Iceland",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Indonesia",
@@ -394,7 +387,7 @@
     },
     {
       "name": "Italy",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Kiribati",
@@ -406,19 +399,19 @@
     },
     {
       "name": "Latvia",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Liechtenstein",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Lithuania",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Luxembourg",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Malaysia",
@@ -426,7 +419,7 @@
     },
     {
       "name": "Malta",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Mexico",
@@ -437,11 +430,11 @@
     },
     {
       "name": "Monaco",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Netherlands",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Nicaragua",
@@ -449,7 +442,7 @@
     },
     {
       "name": "Norway",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Palau"
@@ -468,11 +461,11 @@
     },
     {
       "name": "Poland",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Portugal",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Romania"
@@ -494,30 +487,30 @@
     },
     {
       "name": "San Marino",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Singapore"
     },
     {
       "name": "Slovakia",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Slovenia",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Spain",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Sweden",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Switzerland",
-      "note": "90 days in a 180 day period"
+      "note": "90 days in a 180-day period"
     },
     {
       "name": "Trinidad and Tobago"
@@ -541,6 +534,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
       "name": "Georgia (country)",
       "note": "up to 90 days"
     },
@@ -551,6 +548,9 @@
     {
       "name": "Myanmar",
       "note": "28 days"
+    },
+    {
+      "name": "Zambia"
     }
   ],
   "on-arrival": [
@@ -644,7 +644,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands"
@@ -673,7 +673,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Zimbabwe",

@@ -132,9 +132,6 @@
       "name": "Libya"
     },
     {
-      "name": "Malawi"
-    },
-    {
       "name": "Mali"
     },
     {
@@ -184,9 +181,6 @@
     },
     {
       "name": "Qatar"
-    },
-    {
-      "name": "Rwanda"
     },
     {
       "name": "São Tomé and Príncipe",
@@ -573,6 +567,9 @@
       "note": "3 months"
     },
     {
+      "name": "Rwanda"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days"
     },
@@ -622,6 +619,9 @@
     {
       "name": "Madagascar",
       "note": "90 days"
+    },
+    {
+      "name": "Malawi"
     },
     {
       "name": "Maldives",
@@ -686,7 +686,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

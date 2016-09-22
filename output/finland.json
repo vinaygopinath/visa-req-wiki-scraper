@@ -14,7 +14,7 @@
     },
     {
       "name": "Belarus",
-      "note": "Visas are issued on arrival at the Minsk International Airport\nif the support documents were submitted not later than 3 business days before expected date of arrival."
+      "note": "Visas are issued on arrival at the Minsk International Airportbr>if the support documents were submitted not later than 3 business days before expected date of arrival."
     },
     {
       "name": "Benin"
@@ -315,7 +315,7 @@
     },
     {
       "name": "Kazakhstan",
-      "note": "15 days; effective 15 July 2015"
+      "note": "15 days"
     },
     {
       "name": "Kiribati",
@@ -601,7 +601,11 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -661,12 +665,8 @@
       "note": "Conditions apply"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
-      "note": "30 days (32 USD Effective 22. Dec 2013)"
+      "note": "30 days"
     },
     {
       "name": "Lebanon",
@@ -730,7 +730,8 @@
       "note": "7 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

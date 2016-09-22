@@ -519,10 +519,6 @@
       "note": "30 days"
     },
     {
-      "name": "East Timor",
-      "note": "90 days"
-    },
-    {
       "name": "Tonga",
       "note": "90 days in any 180-days"
     },
@@ -596,6 +592,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -649,10 +649,6 @@
     {
       "name": "Jordan",
       "note": "Conditions apply"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Laos",
@@ -716,11 +712,16 @@
       "name": "Tanzania"
     },
     {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
       "name": "Togo",
       "note": "7 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

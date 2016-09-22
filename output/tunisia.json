@@ -92,7 +92,7 @@
     },
     {
       "name": "Costa Rica",
-      "note": "except for Passengers with a multiple-entry business or tourist visa issued by Canada, Iceland, Liechtenstein, Norway, Switzerland or a EU Member State"
+      "note": "except for Passengers with a multiple-entry business or tourist visa issued by Canada, Iceland, Liechtenstein, Norway, Switzerland or an EU Member State"
     },
     {
       "name": "Croatia",
@@ -143,10 +143,6 @@
     },
     {
       "name": "Germany"
-    },
-    {
-      "name": "Ghana",
-      "note": "Holders of normal passports can obtain a pre-arranged visa on arrival"
     },
     {
       "name": "Greece"
@@ -546,6 +542,10 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Georgia (country)",
       "note": "up to 90 days"
     },
@@ -601,6 +601,10 @@
       "name": "Djibouti"
     },
     {
+      "name": "Ghana",
+      "note": "30 days"
+    },
+    {
       "name": "Guinea-Bissau",
       "note": "90 days"
     },
@@ -649,7 +653,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Tajikistan",
@@ -672,15 +676,10 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],
-  "unknown": [
-    {
-      "name": "Australia",
-      "note": "May apply online.",
-      "visa": "e600Visa[11]"
-    }
-  ]
+  "unknown": []
 }

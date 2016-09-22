@@ -37,10 +37,6 @@
       "name": "Botswana"
     },
     {
-      "name": "Brazil",
-      "note": "Visa waiver treaty signed but not yet ratified."
-    },
-    {
       "name": "Brunei"
     },
     {
@@ -332,7 +328,8 @@
       "name": "Switzerland"
     },
     {
-      "name": "Syria"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
     },
     {
       "name": "Tanzania"
@@ -369,6 +366,9 @@
       "name": "Venezuela"
     },
     {
+      "name": "Vietnam"
+    },
+    {
       "name": "Yemen"
     }
   ],
@@ -397,6 +397,10 @@
     },
     {
       "name": "Belarus"
+    },
+    {
+      "name": "Brazil",
+      "note": "30 days"
     },
     {
       "name": "Colombia",
@@ -494,10 +498,6 @@
     },
     {
       "name": "Uzbekistan"
-    },
-    {
-      "name": "Vietnam",
-      "note": "30 days"
     },
     {
       "name": "Kazakhstan",
@@ -647,7 +647,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

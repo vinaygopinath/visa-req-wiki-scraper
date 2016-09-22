@@ -279,7 +279,7 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "90 days within 180 days"
+      "note": "1 year"
     },
     {
       "name": "Germany",
@@ -587,6 +587,10 @@
       "note": "30 days"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days"
     }
@@ -635,10 +639,6 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months"
-    },
-    {
-      "name": "Kuwait",
       "note": "3 months"
     },
     {
@@ -715,7 +715,8 @@
       "note": "7 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

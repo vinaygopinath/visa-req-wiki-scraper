@@ -22,7 +22,8 @@
       "name": "Armenia"
     },
     {
-      "name": "Austria"
+      "name": "Austria",
+      "note": "Visa not required if holding Schengen Visa"
     },
     {
       "name": "Azerbaijan"
@@ -144,6 +145,10 @@
     },
     {
       "name": "France"
+    },
+    {
+      "name": "Georgia (country)",
+      "note": "eVisa available for holders of a valid Schengen visa or a valid visa from any of the OECD member countries; or a valid residence permit of a Schengen or OECD country."
     },
     {
       "name": "Germany"
@@ -302,7 +307,8 @@
       "name": "Norway"
     },
     {
-      "name": "Oman"
+      "name": "Oman",
+      "note": "Bangadeshi holding GCC Visa of certain categories (managers, sales executives etc.) are granted a visit Visa on Arrival if they are coming directly from a GCC Country Bangadeshi holding GCC Visa of certain categories (managers, sales executives etc.) are granted a visit Visa on Arrival if they are coming directly from a GCC Country"
     },
     {
       "name": "Pakistan"
@@ -392,6 +398,9 @@
     },
     {
       "name": "Spain"
+    },
+    {
+      "name": "Sri Lanka"
     },
     {
       "name": "Suriname"
@@ -492,7 +501,7 @@
     },
     {
       "name": "Indonesia",
-      "note": "30 days"
+      "note": "30 days No visa for Diplomatic & Official Passport holders"
     },
     {
       "name": "Jamaica"
@@ -537,19 +546,12 @@
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
     {
-      "name": "Georgia (country)"
-    },
-    {
       "name": "Kenya",
       "note": "3 months"
     },
     {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
-    },
-    {
-      "name": "Sri Lanka",
-      "note": "30 days"
     },
     {
       "name": "Zambia"
@@ -624,7 +626,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [

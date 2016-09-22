@@ -46,7 +46,7 @@
     },
     {
       "name": "China",
-      "note": "Entry to Mainland China cannot be on a HKSAR passport. However, all eligible for a HKSAR passport are also able to apply for a Home Return Permit, allowing the holder to enter and stay in Mainland China until its expiry. Issuance of the Home Return Permit is not automatic for all HKSAR passport holders and is at the sole discretion of the Public Security Bureau of Guangdong Province."
+      "note": "Entry to Mainland China cannot be on a HKSAR passport. However, all eligible for a HKSAR passport are also able to apply for a Home Return Permit, allowing the holder to enter and stay in Mainland China until its expiry. Issuance of the Home Return Permit is not automatic for all HKSAR passport holders and is at the sole discretion of the Bureau of Exit and Entry Administration of the Ministry of Public Security."
     },
     {
       "name": "Republic of the Congo"
@@ -538,7 +538,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Ukraine",
@@ -600,6 +600,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -646,10 +650,6 @@
     {
       "name": "Jordan",
       "note": "Free of charge. Not available at all entry points."
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Laos",

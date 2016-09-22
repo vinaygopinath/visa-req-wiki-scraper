@@ -19,10 +19,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -367,21 +363,10 @@
       "name": "Russia"
     },
     {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
-    },
-    {
-      "name": "Saint Kitts and Nevis"
-    },
-    {
       "name": "Saint Lucia"
     },
     {
       "name": "San Marino"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Saudi Arabia"
@@ -483,12 +468,6 @@
     },
     {
       "name": "Vietnam"
-    },
-    {
-      "name": "Zambia"
-    },
-    {
-      "name": "Zimbabwe"
     }
   ],
   "not-required": [
@@ -529,8 +508,27 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
     }
   ],
   "on-arrival": [
@@ -598,7 +596,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Tajikistan",
@@ -621,7 +619,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

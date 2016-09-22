@@ -574,7 +574,7 @@
   "evisa": [
     {
       "name": "Australia",
-      "note": "90 days on each visit in 12-month period if granted. Romanian Government officially considers that Australia maintains a visa regime towards its citizens. This was dismissed by the European Commission."
+      "note": "90 days on each visit in 12-month period if granted."
     },
     {
       "name": "Ivory Coast",
@@ -654,7 +654,7 @@
     },
     {
       "name": "Kuwait",
-      "note": "3 months"
+      "note": "3 months; Visa is also obtainable online (eVisa)"
     },
     {
       "name": "Kyrgyzstan",
@@ -722,7 +722,8 @@
       "note": "7 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

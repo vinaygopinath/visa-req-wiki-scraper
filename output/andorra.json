@@ -560,6 +560,10 @@
       "note": "30 days"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days"
     }
@@ -604,10 +608,6 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months"
-    },
-    {
-      "name": "Kuwait",
       "note": "3 months"
     },
     {
@@ -675,7 +675,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -705,7 +705,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

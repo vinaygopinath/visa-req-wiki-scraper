@@ -187,10 +187,6 @@
       "name": "Qatar"
     },
     {
-      "name": "Russia",
-      "note": "Visa-free agreement was signed in March 2015 and is yet to be ratified."
-    },
-    {
       "name": "Rwanda"
     },
     {
@@ -491,6 +487,10 @@
       "note": "90 days within 180 days"
     },
     {
+      "name": "Russia",
+      "note": "90 days within 180 days"
+    },
+    {
       "name": "Saint Kitts and Nevis",
       "note": "3 months"
     },
@@ -686,7 +686,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Ukraine",

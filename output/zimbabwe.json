@@ -76,8 +76,7 @@
       "name": "Chile"
     },
     {
-      "name": "China",
-      "note": " Hong Kong visa-free 90 days"
+      "name": "China"
     },
     {
       "name": "Colombia",
@@ -581,7 +580,8 @@
       "name": "Djibouti"
     },
     {
-      "name": "Ghana"
+      "name": "Ghana",
+      "note": "30 days"
     },
     {
       "name": "Guinea-Bissau",
@@ -636,7 +636,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 month"
+      "note": "3 months"
     },
     {
       "name": "East Timor",
@@ -652,5 +652,10 @@
     }
   ],
   "refused": [],
-  "unknown": []
+  "unknown": [
+    {
+      "name": "Hong Kong",
+      "visa": "Visa- free 90 days"
+    }
+  ]
 }

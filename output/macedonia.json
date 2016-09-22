@@ -19,7 +19,8 @@
       "name": "Barbados"
     },
     {
-      "name": "Belize"
+      "name": "Belize",
+      "note": "Visa not required for A max. stay of 90 days for holders of a valid visa issued by a Schengen Member. Holders of a valid multiple entry visa issued by the USA can obtain a visa on arrival"
     },
     {
       "name": "Benin"
@@ -30,10 +31,6 @@
     },
     {
       "name": "Botswana"
-    },
-    {
-      "name": "Brazil",
-      "note": "Visa-free agreement signed, not yet ratified."
     },
     {
       "name": "Brunei"
@@ -86,7 +83,8 @@
       "name": "Ethiopia"
     },
     {
-      "name": "Fiji"
+      "name": "Fiji",
+      "note": "Negotiations to abolish visa requirements are currently in progress"
     },
     {
       "name": "Ghana",
@@ -287,6 +285,10 @@
     },
     {
       "name": "Bosnia and Herzegovina",
+      "note": "90 days within 180 days"
+    },
+    {
+      "name": "Brazil",
       "note": "90 days within 180 days"
     },
     {
@@ -530,10 +532,11 @@
   "evisa": [
     {
       "name": "Antigua and Barbuda",
-      "note": "Permanent residents of the United States and Canada and holders of valid visas of the United States, Canada, Schengen Area and the United Kingdom do not require a visa."
+      "note": "\n\nNegotiations to abolish visa requirements are currently in progress\nPermanent residents of the United States and Canada and holders of valid visas of the United States, Canada, Schengen Area and the United Kingdom do not require a visa.\n\n"
     },
     {
-      "name": "Australia"
+      "name": "Australia",
+      "note": "May apply online."
     },
     {
       "name": "Ivory Coast",
@@ -553,7 +556,7 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Rwanda",
@@ -681,7 +684,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -704,7 +707,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

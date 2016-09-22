@@ -329,10 +329,6 @@
       "note": "30 days. Select ports of entry."
     },
     {
-      "name": "Republic of Ireland",
-      "note": "90 days"
-    },
-    {
       "name": "Israel",
       "note": "3 months"
     },
@@ -569,6 +565,10 @@
       "note": "30 days"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days"
     },
@@ -617,10 +617,6 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months"
-    },
-    {
-      "name": "Kuwait",
       "note": "3 months"
     },
     {
@@ -676,7 +672,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -709,7 +705,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",
@@ -721,5 +718,11 @@
     }
   ],
   "refused": [],
-  "unknown": []
+  "unknown": [
+    {
+      "name": "Republic of Ireland",
+      "note": "90 days",
+      "visa": "Visa not[85]"
+    }
+  ]
 }

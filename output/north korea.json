@@ -491,7 +491,7 @@
     },
     {
       "name": "Singapore",
-      "note": "30 days"
+      "note": "30 days. Visa requirement from 1 October 2016."
     },
     {
       "name": "North Korea",
@@ -623,7 +623,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

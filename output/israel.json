@@ -7,10 +7,6 @@
       "name": "Angola"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Bahrain"
     },
     {
@@ -106,10 +102,6 @@
     },
     {
       "name": "Qatar"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Sierra Leone"
@@ -261,7 +253,7 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "360 days"
+      "note": "1 year"
     },
     {
       "name": "Germany",
@@ -526,6 +518,10 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Gabon",
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
@@ -535,11 +531,14 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+    },
+    {
+      "name": "São Tomé and Príncipe"
     },
     {
       "name": "Sri Lanka",
@@ -633,7 +632,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -664,7 +663,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Zambia",

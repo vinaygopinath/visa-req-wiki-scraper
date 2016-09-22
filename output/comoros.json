@@ -165,9 +165,6 @@
       "name": "Germany"
     },
     {
-      "name": "Ghana"
-    },
-    {
       "name": "Greece"
     },
     {
@@ -546,6 +543,10 @@
     },
     {
       "name": "Djibouti"
+    },
+    {
+      "name": "Ghana",
+      "note": "30 days"
     },
     {
       "name": "Guinea-Bissau",

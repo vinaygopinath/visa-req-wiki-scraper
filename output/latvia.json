@@ -123,7 +123,7 @@
     },
     {
       "name": "Russia",
-      "note": "Visa on arrival (72 hours) for Kaliningrad Oblast (70 €) with appointment at least 72 hours in advance"
+      "note": "Visa on arrival (72 hours) for Kaliningrad Oblast (70 €) with appointment at least 72 hours in advance\n90 days within 6 month for holders of border traffic permit."
     },
     {
       "name": "Rwanda",
@@ -609,7 +609,11 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -664,10 +668,6 @@
     {
       "name": "Jordan",
       "note": "Conditions apply"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Laos",
@@ -735,7 +735,8 @@
       "note": "7 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

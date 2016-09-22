@@ -161,13 +161,11 @@
       "name": "The Gambia"
     },
     {
-      "name": "Georgia (country)"
+      "name": "Georgia (country)",
+      "note": "eVisa available for holders of a valid Schengen visa or a valid visa from any of the OECD member countries; or a valid residence permit of a Schengen or OECD country."
     },
     {
       "name": "Germany"
-    },
-    {
-      "name": "Ghana"
     },
     {
       "name": "Greece"
@@ -561,6 +559,10 @@
       "name": "Djibouti"
     },
     {
+      "name": "Ghana",
+      "note": "30 days"
+    },
+    {
       "name": "Guinea-Bissau",
       "note": "90 days"
     },
@@ -597,7 +599,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "East Timor",
@@ -612,7 +614,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

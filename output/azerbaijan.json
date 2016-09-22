@@ -344,7 +344,8 @@
       "name": "Switzerland"
     },
     {
-      "name": "Syria"
+      "name": "Syria",
+      "note": "According to the IATA database, visa may be obtained on arrival and is valid for 15 days. According to the media, Syria passed a new law that requires all foreign citizens to obtain a visa in advance."
     },
     {
       "name": "Thailand"
@@ -356,7 +357,8 @@
       "name": "Trinidad and Tobago"
     },
     {
-      "name": "Tunisia"
+      "name": "Tunisia",
+      "note": "visa not required if travelling on an organised tour and holding a hotel voucher."
     },
     {
       "name": "Turkmenistan"
@@ -637,7 +639,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zimbabwe",

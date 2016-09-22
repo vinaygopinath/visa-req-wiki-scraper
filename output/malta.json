@@ -106,6 +106,9 @@
       "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply."
     },
     {
+      "name": "Qatar"
+    },
+    {
       "name": "Russia",
       "note": "Visa on arrival (72 hours) for Kaliningrad Oblast (70 €) with appointment at least 72 hours in advance"
     },
@@ -538,7 +541,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Ukraine",
@@ -600,7 +603,11 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -662,10 +669,6 @@
       "note": "Conditions apply"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days"
     },
@@ -702,10 +705,6 @@
     {
       "name": "Papua New Guinea",
       "note": "60 days"
-    },
-    {
-      "name": "Qatar",
-      "note": "1 month"
     },
     {
       "name": "Solomon Islands",

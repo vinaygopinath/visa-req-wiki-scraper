@@ -19,10 +19,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -361,12 +357,6 @@
     {
       "name": "Vietnam",
       "note": "Pre-arranged 1, 3, or 6 month visa obtained online through travel agencies are available at Ho Chi Minh, Hanoi, Phu Quoc, or Danang airports. 30 day visa exemption at Phu Quoc Island."
-    },
-    {
-      "name": "Zambia"
-    },
-    {
-      "name": "Zimbabwe"
     }
   ],
   "not-required": [
@@ -520,6 +510,10 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Cambodia",
       "note": "30 days"
     },
@@ -548,6 +542,12 @@
     {
       "name": "Turkey",
       "note": "3 months"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
     }
   ],
   "on-arrival": [
@@ -632,7 +632,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Tajikistan",
@@ -655,7 +655,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Yemen",

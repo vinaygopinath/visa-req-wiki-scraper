@@ -16,10 +16,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "Transit visa is not required."
-    },
-    {
       "name": "Azerbaijan"
     },
     {
@@ -559,6 +555,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
       "name": "Georgia (country)",
       "note": "up to 90 days"
     },
@@ -657,7 +657,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Sri Lanka"
@@ -676,7 +676,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     }
   ],
   "refused": [],

@@ -532,6 +532,10 @@
       "note": "3 months"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days"
     }
@@ -561,10 +565,6 @@
     {
       "name": "Iran",
       "note": "15 days"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months for a fee of KWD3.- if arriving by plane"
     },
     {
       "name": "Madagascar",
@@ -614,7 +614,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Somalia",
@@ -636,7 +636,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

@@ -19,10 +19,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online. Transit visa is not required."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -506,7 +502,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Vanuatu",
@@ -526,6 +522,10 @@
     }
   ],
   "evisa": [
+    {
+      "name": "Australia",
+      "note": "May apply online."
+    },
     {
       "name": "Georgia (country)",
       "note": "up to 90 days"
@@ -626,7 +626,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands"

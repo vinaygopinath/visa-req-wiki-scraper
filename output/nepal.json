@@ -255,9 +255,6 @@
       "name": "Republic of Macedonia"
     },
     {
-      "name": "Malaysia"
-    },
-    {
       "name": "Mali"
     },
     {
@@ -537,6 +534,10 @@
       "note": "3 months; also visa on arrival until 1 September 2015"
     },
     {
+      "name": "Malaysia",
+      "note": "Visa-free transit for 120 hours, provided arriving at and departing from Kuala Lumpur International Airport (only permitted to leave the transit area when switching terminals)"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -610,7 +611,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Tanzania",
@@ -629,7 +630,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

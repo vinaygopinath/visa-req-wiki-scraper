@@ -497,10 +497,6 @@
       "note": "3 months"
     },
     {
-      "name": "Seychelles",
-      "note": "90 days"
-    },
-    {
       "name": "Singapore",
       "note": "30 days"
     },
@@ -674,6 +670,10 @@
     {
       "name": "Samoa",
       "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "3 months"
     },
     {
       "name": "Somalia",

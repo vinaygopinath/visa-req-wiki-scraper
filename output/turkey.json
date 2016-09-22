@@ -13,10 +13,6 @@
       "name": "Angola"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -365,7 +361,7 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "360 days"
+      "note": "360 days; ID card valid"
     },
     {
       "name": "Guatemala",
@@ -534,6 +530,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
       "name": "Ivory Coast"
     },
     {
@@ -547,6 +547,10 @@
     {
       "name": "Kenya",
       "note": "3 months; also visa on arrival until 1 September 2015"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Mexico",
@@ -597,10 +601,6 @@
       "name": "Djibouti"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Lebanon",
       "note": "3 months extendable for 1 additional month; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
     },
@@ -641,7 +641,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Sudan",
@@ -675,7 +675,7 @@
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months. May apply online."
     },
     {
       "name": "Zambia",

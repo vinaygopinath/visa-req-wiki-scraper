@@ -109,7 +109,7 @@
     },
     {
       "name": "Russia",
-      "note": "Visa on arrival (72 hours) for Kaliningrad Oblast (70 €) with appointment at least 72 hours in advance"
+      "note": "Visa on arrival (72 hours) for Kaliningrad Oblast (70 €) with appointment at least 72 hours in advance\n30 days to Kaliningrad Oblast for holders of border traffic permit. (temporarily suspended)"
     },
     {
       "name": "Saudi Arabia"
@@ -605,6 +605,10 @@
       "note": "3 months; also visa on arrival until 1 September 2015"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days, eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -675,10 +679,6 @@
       "note": "Conditions apply. Not available at all entry points."
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days. Not available at all entry points."
     },
@@ -743,7 +743,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",

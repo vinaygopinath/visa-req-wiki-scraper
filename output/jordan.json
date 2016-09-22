@@ -19,10 +19,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "May apply online."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -89,7 +85,8 @@
       "name": "Chile"
     },
     {
-      "name": "China"
+      "name": "China",
+      "note": " Hong Kong Visa not required for 30 days"
     },
     {
       "name": "Colombia"
@@ -333,10 +330,6 @@
       "name": "Russia"
     },
     {
-      "name": "Rwanda",
-      "note": "Visa is obtained online."
-    },
-    {
       "name": "Saint Lucia"
     },
     {
@@ -344,10 +337,6 @@
     },
     {
       "name": "San Marino"
-    },
-    {
-      "name": "São Tomé and Príncipe",
-      "note": "Visa is obtained online."
     },
     {
       "name": "Saudi Arabia"
@@ -442,12 +431,6 @@
     },
     {
       "name": "Vietnam"
-    },
-    {
-      "name": "Zambia"
-    },
-    {
-      "name": "Zimbabwe"
     }
   ],
   "not-required": [
@@ -466,10 +449,6 @@
     {
       "name": "Haiti",
       "note": "3 months"
-    },
-    {
-      "name": "Hong Kong",
-      "note": "1 month"
     },
     {
       "name": "Indonesia",
@@ -517,16 +496,18 @@
       "name": "Antigua and Barbuda"
     },
     {
-      "name": "Bahrain",
-      "note": "eVisa from October 2014."
+      "name": "Australia",
+      "note": "May apply online."
+    },
+    {
+      "name": "Bahrain"
     },
     {
       "name": "Gabon",
       "note": "Electronic visa holders must arrive via Libreville International Airport."
     },
     {
-      "name": "Georgia (country)",
-      "note": "up to 90 days"
+      "name": "Georgia (country)"
     },
     {
       "name": "India",
@@ -534,11 +515,23 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 January 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Rwanda"
+    },
+    {
+      "name": "São Tomé and Príncipe"
     },
     {
       "name": "Sri Lanka",
       "note": "30 days"
+    },
+    {
+      "name": "Zambia"
+    },
+    {
+      "name": "Zimbabwe"
     }
   ],
   "on-arrival": [
@@ -606,7 +599,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Tajikistan",
@@ -629,7 +622,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Yemen",

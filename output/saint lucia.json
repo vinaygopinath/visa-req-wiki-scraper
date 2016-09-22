@@ -168,9 +168,6 @@
       "name": "Paraguay"
     },
     {
-      "name": "Portugal"
-    },
-    {
       "name": "Qatar"
     },
     {
@@ -479,6 +476,10 @@
       "note": "90 days in any 180-days in Schengen Area"
     },
     {
+      "name": "Portugal",
+      "note": "90 days in any 180-days"
+    },
+    {
       "name": "Romania",
       "note": "90 days in any 180-days"
     },
@@ -705,7 +706,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     }
   ],
   "refused": [],

@@ -65,10 +65,6 @@
       "name": "Chad"
     },
     {
-      "name": "China",
-      "note": " Hong Kong visa-free for 90 days"
-    },
-    {
       "name": "Republic of the Congo"
     },
     {
@@ -160,9 +156,6 @@
       "name": "Japan"
     },
     {
-      "name": "Kazakhstan"
-    },
-    {
       "name": "Kiribati"
     },
     {
@@ -211,7 +204,8 @@
       "name": "Marshall Islands"
     },
     {
-      "name": "Mexico"
+      "name": "Mexico",
+      "note": "Entry available with valid United States Visa"
     },
     {
       "name": "Monaco"
@@ -368,8 +362,12 @@
       "note": "90 days"
     },
     {
+      "name": "China",
+      "note": "30 days;\n Hong Kong visa-free for 90 days"
+    },
+    {
       "name": "Colombia",
-      "note": "up to 180 days"
+      "note": "180 days"
     },
     {
       "name": "Dominica",
@@ -409,6 +407,10 @@
     {
       "name": "Jamaica",
       "note": "90 days"
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "30 days per 180-day period"
     },
     {
       "name": "South Korea",
@@ -452,7 +454,7 @@
     },
     {
       "name": "Russia",
-      "note": "90 days"
+      "note": "90 days within 180 days"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -665,11 +667,11 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Zambia",
-      "note": "up to 90 days"
+      "note": "90 days"
     }
   ],
   "refused": [],

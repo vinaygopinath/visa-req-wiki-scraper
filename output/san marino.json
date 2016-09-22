@@ -566,6 +566,10 @@
       "note": "30 days, eTV holders must arrive via 16 designated airports."
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Sri Lanka",
       "note": "30 days"
     },
@@ -613,10 +617,6 @@
     {
       "name": "Jordan",
       "note": "Conditions apply"
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
     },
     {
       "name": "Kyrgyzstan",
@@ -678,7 +678,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -708,7 +708,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

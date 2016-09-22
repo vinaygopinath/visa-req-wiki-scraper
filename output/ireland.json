@@ -13,19 +13,19 @@
       "name": "Azerbaijan"
     },
     {
-      "name": "Belarus",
-      "note": "Visas are issued on arrival at the Minsk International Airport if the support documents were submitted not later than 3 business days before expected date of arrival."
+      "name": "Belarus"
     },
     {
       "name": "Benin"
     },
     {
-      "name": "Bhutan",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Bhutan"
     },
     {
-      "name": "Cameroon",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Burundi"
+    },
+    {
+      "name": "Cameroon"
     },
     {
       "name": "Central African Republic"
@@ -34,8 +34,7 @@
       "name": "Chad"
     },
     {
-      "name": "China",
-      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shanghai, Shenyang and Xi'an."
+      "name": "China"
     },
     {
       "name": "Republic of the Congo"
@@ -50,33 +49,29 @@
       "name": "Equatorial Guinea"
     },
     {
-      "name": "Eritrea",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Eritrea"
     },
     {
-      "name": "Ghana",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Ghana"
     },
     {
       "name": "Guinea"
     },
     {
-      "name": "Iraq"
+      "name": "Iraq",
+      "note": "15 days (visa on arrival only)"
     },
     {
-      "name": "Kazakhstan",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Kazakhstan"
     },
     {
       "name": "North Korea"
     },
     {
-      "name": "Liberia",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Liberia"
     },
     {
-      "name": "Libya",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Libya"
     },
     {
       "name": "Mali"
@@ -91,12 +86,10 @@
       "name": "Niger"
     },
     {
-      "name": "Nigeria",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Nigeria"
     },
     {
-      "name": "Pakistan",
-      "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply."
+      "name": "Pakistan"
     },
     {
       "name": "Russia"
@@ -105,8 +98,7 @@
       "name": "Saudi Arabia"
     },
     {
-      "name": "Sierra Leone",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Sierra Leone"
     },
     {
       "name": "South Sudan"
@@ -121,16 +113,13 @@
       "name": "Syria"
     },
     {
-      "name": "Turkmenistan",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Turkmenistan"
     },
     {
-      "name": "Uzbekistan",
-      "note": "Pre-approved visa can be picked up on arrival."
+      "name": "Uzbekistan"
     },
     {
-      "name": "Vietnam",
-      "note": "Pre-arranged visa obtained online through travel agencies available at Ho Chi Minh, Hanoi, Phu Quoc, or Danang. 30 day visa exemption at Phu Quoc Island."
+      "name": "Vietnam"
     },
     {
       "name": "Yemen"
@@ -182,15 +171,15 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within 180 days"
+      "note": "90 days"
     },
     {
       "name": "Botswana",
-      "note": "90 days per year"
+      "note": "90 days"
     },
     {
       "name": "Brazil",
-      "note": "90 days, extendable once"
+      "note": "90 days"
     },
     {
       "name": "Brunei",
@@ -202,7 +191,7 @@
     },
     {
       "name": "Canada",
-      "note": "6 months; eTA required if arriving by air from 15 March 2016."
+      "note": "6 months"
     },
     {
       "name": "Chile",
@@ -210,7 +199,7 @@
     },
     {
       "name": "Colombia",
-      "note": "up to 180 days"
+      "note": "180 days"
     },
     {
       "name": "Costa Rica",
@@ -234,11 +223,10 @@
     },
     {
       "name": "Dominica",
-      "note": "3 months"
+      "note": "6 months"
     },
     {
-      "name": "Dominican Republic",
-      "note": "90 days (10 USD Tourist Card valid for 30 days must be purchased upon arrival)"
+      "name": "Dominican Republic"
     },
     {
       "name": "Ecuador",
@@ -310,7 +298,7 @@
     },
     {
       "name": "Indonesia",
-      "note": "30 days. Not available at all entry points."
+      "note": "30 days"
     },
     {
       "name": "Israel",
@@ -326,7 +314,7 @@
     },
     {
       "name": "Japan",
-      "note": "90 days, extendable once"
+      "note": "90 days"
     },
     {
       "name": "Kiribati",
@@ -397,11 +385,11 @@
     },
     {
       "name": "Montenegro",
-      "note": "90 days within 180 days"
+      "note": "90 days"
     },
     {
       "name": "Morocco",
-      "note": "3 months"
+      "note": "90 days"
     },
     {
       "name": "Namibia",
@@ -476,7 +464,7 @@
     },
     {
       "name": "Serbia",
-      "note": "90 days within 180 days"
+      "note": "90 days"
     },
     {
       "name": "Singapore",
@@ -512,7 +500,7 @@
     },
     {
       "name": "Thailand",
-      "note": "30 days by air, 15 days by land"
+      "note": "30 days"
     },
     {
       "name": "Trinidad and Tobago",
@@ -528,7 +516,7 @@
     },
     {
       "name": "Ukraine",
-      "note": "90 days within 180 days"
+      "note": "90 days"
     },
     {
       "name": "United Kingdom",
@@ -536,7 +524,7 @@
     },
     {
       "name": "United States",
-      "note": "90 days on arrival from overseas; ESTA (valid for 2 years when issued) required if arriving by air or cruise ship."
+      "note": "90 days"
     },
     {
       "name": "Uruguay",
@@ -555,7 +543,7 @@
     },
     {
       "name": "Zambia",
-      "note": "90 days as tourists, 30 days for business"
+      "note": "90 days"
     },
     {
       "name": "Ireland",
@@ -565,15 +553,14 @@
   "evisa": [
     {
       "name": "Australia",
-      "note": "90 days on each visit in 12-month period if granted"
+      "note": "90 days"
     },
     {
       "name": "Ivory Coast",
-      "note": "3 months; eVisa holders must arrive via Port Bouet Airport."
+      "note": "3 months"
     },
     {
-      "name": "Gabon",
-      "note": "Electronic visa holders must arrive via Libreville International Airport."
+      "name": "Gabon"
     },
     {
       "name": "India",
@@ -581,11 +568,15 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; also visa on arrival until 1 September 2015"
+      "note": "3 months"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
-      "note": "28 days, eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+      "note": "28 days"
     },
     {
       "name": "Rwanda",
@@ -607,38 +598,32 @@
     },
     {
       "name": "Bangladesh",
-      "note": "30 days. Not available at all entry points."
+      "note": "30 days"
     },
     {
       "name": "Burkina Faso",
       "note": "1 month"
     },
     {
-      "name": "Burundi",
-      "note": "3 months"
-    },
-    {
       "name": "Cambodia",
-      "note": "30 days. Visa is also obtainable online."
+      "note": "30 days"
     },
     {
-      "name": "Cape Verde",
-      "note": "Not available at all entry points."
+      "name": "Cape Verde"
     },
     {
-      "name": "Comoros"
+      "name": "Comoros",
+      "note": "45 days"
     },
     {
-      "name": "Djibouti",
-      "note": "Not available at all entry points."
+      "name": "Djibouti"
     },
     {
       "name": "Egypt",
       "note": "30 days"
     },
     {
-      "name": "Ethiopia",
-      "note": "Not available at all entry points."
+      "name": "Ethiopia"
     },
     {
       "name": "Guinea-Bissau",
@@ -650,23 +635,19 @@
     },
     {
       "name": "Jordan",
-      "note": "Conditions apply. Not available at all entry points."
-    },
-    {
-      "name": "Kuwait",
-      "note": "3 months"
+      "note": "6 months"
     },
     {
       "name": "Laos",
-      "note": "30 days. Not available at all entry points."
+      "note": "30 days"
     },
     {
       "name": "Lebanon",
-      "note": "1 month extendable for 2 additional months; granted free of charge at Beirut International Airport or any other port of entry if there is no Israeli visa or seal, holding a telephone number, an address in Lebanon, and a non refundable return or circle trip ticket."
+      "note": "1 month"
     },
     {
       "name": "Madagascar",
-      "note": "30 days"
+      "note": "90 days"
     },
     {
       "name": "Maldives",
@@ -677,8 +658,7 @@
       "note": "90 days"
     },
     {
-      "name": "Mauritania",
-      "note": "Available at Nouakchott–Oumtounsy International Airport."
+      "name": "Mauritania"
     },
     {
       "name": "Mozambique",
@@ -686,11 +666,11 @@
     },
     {
       "name": "Nepal",
-      "note": "90 days. Not available at all entry points."
+      "note": "90 days"
     },
     {
       "name": "Oman",
-      "note": "30 days"
+      "note": "1 month"
     },
     {
       "name": "Palau",
@@ -702,7 +682,7 @@
     },
     {
       "name": "Qatar",
-      "note": "1 month. Not available at all entry points."
+      "note": "1 month"
     },
     {
       "name": "Samoa",
@@ -710,7 +690,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -718,18 +698,18 @@
     },
     {
       "name": "Somalia",
-      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
+      "note": "30 days"
     },
     {
       "name": "Tajikistan",
-      "note": "45 days at Dushanbe International Airport. Visa also available online. E-visa holders can enter through all border points."
+      "note": "45 days"
     },
     {
       "name": "Tanzania"
     },
     {
       "name": "East Timor",
-      "note": "30 days. Not available at all entry points."
+      "note": "30 days"
     },
     {
       "name": "Togo",
@@ -749,7 +729,7 @@
     },
     {
       "name": "Zimbabwe",
-      "note": "3 months. Strictly tourism purposes only."
+      "note": "3 months"
     }
   ],
   "refused": [],

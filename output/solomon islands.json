@@ -19,10 +19,6 @@
       "name": "Argentina"
     },
     {
-      "name": "Australia",
-      "note": "Transit visa is not required."
-    },
-    {
       "name": "Austria"
     },
     {
@@ -222,7 +218,8 @@
       "name": "Netherlands"
     },
     {
-      "name": "New Zealand"
+      "name": "New Zealand",
+      "note": "Transit visa is not required."
     },
     {
       "name": "Niger"
@@ -527,6 +524,10 @@
   ],
   "evisa": [
     {
+      "name": "Australia",
+      "note": "May apply online. Transit visa is not required."
+    },
+    {
       "name": "Georgia (country)",
       "note": "up to 90 days"
     },
@@ -628,7 +629,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Sri Lanka"

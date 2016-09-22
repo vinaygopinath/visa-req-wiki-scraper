@@ -11,14 +11,14 @@
       "name": "Algeria"
     },
     {
-      "name": "Andorra",
-      "note": "Although no visa is required, must transit through France or Spain to reach Andorra, both of which require visa."
+      "name": "Andorra"
     },
     {
       "name": "Angola"
     },
     {
-      "name": "Argentina"
+      "name": "Argentina",
+      "note": "E-Visa if holding a valid US or Schengen visa. Multiple entry and 90 days per stay."
     },
     {
       "name": "Armenia",
@@ -37,7 +37,7 @@
     },
     {
       "name": "Belarus",
-      "note": "Visa free when traveling as part of a tourist group that has been organized through a Tourist Agency of Belarus.\nSince August 22, 2015 the visa is not required for up to 3 days for PRC citizens flying from China if in possession of a valid Schengen/EU visa."
+      "note": "Visa free when traveling as part of an accredited tourist group. Group leaders must hold the original of the invitation letter issued by an accredited travel agency and a list of visitors verified by Chinese national (CNTA), provincial, municipal authority responsible for tourism.\nSince August 25, 2015 the visa is not required for up to 3 days for PRC citizens flying from China if in possession of a valid Schengen/EU visa."
     },
     {
       "name": "Belgium"
@@ -55,7 +55,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "Visa free for passports for public affairs. Visa free for a maximum stay of 15 days for valid visa holders and residents of the European Union member states."
+      "note": "Visa free for passports for public affairs. Visa free for a maximum stay of 7 days for valid visa holders and residents of the European Union member states."
     },
     {
       "name": "Botswana"
@@ -64,7 +64,8 @@
       "name": "Brazil"
     },
     {
-      "name": "Bulgaria"
+      "name": "Bulgaria",
+      "note": "Visa free for if holding a valid Schengen visa (single or multiple entry."
     },
     {
       "name": "Burkina Faso"
@@ -74,7 +75,7 @@
     },
     {
       "name": "Canada",
-      "note": "No transit visa required if transiting Toronto Pearson Terminal 1 or Vancouver International Airports to or from the U.S. on same travel day (no overnight stay) while holding valid U.S. visa and travelling on selected airlines. Visa not required for permanent residents of the USA. eTA is still required by permanent residents of USA if traveling by air."
+      "note": "No transit visa required if transiting Toronto Pearson Terminal 1 or Vancouver International Airports to or from the USA on same travel day (no overnight stay) while holding valid USA visa and travelling on selected airlines. Visa not required for permanent residents of the USA. eTA is still required by permanent residents of USA if traveling by air."
     },
     {
       "name": "Central African Republic"
@@ -116,10 +117,7 @@
     },
     {
       "name": "Dominican Republic",
-      "note": "Holders of a visa issued by Canada, U.S.A. or any European Union member state will be issued a Tourist Card for a stay of max. 30 days. max 90 days for UK resident."
-    },
-    {
-      "name": "Egypt"
+      "note": "Holders of a visa issued by Canada, USA or any European Union member state will be issued a Tourist Card for a stay of max. 30 days. max 90 days for UK resident."
     },
     {
       "name": "El Salvador"
@@ -177,7 +175,7 @@
     },
     {
       "name": "Republic of Ireland",
-      "note": "Visa waiver for UK 'C' visa holders until October 2016 or for holders of British visas issued under BIVS. Entry permitted only if first point of entry to the Common Travel Area is in the UK."
+      "note": "Visa waiver for UK 'C' visa holders until October 2016 or for holders of British visas endorsed with BIVS. Entry permitted only if first point of entry to the Common Travel Area is in the UK."
     },
     {
       "name": "Israel"
@@ -187,7 +185,7 @@
     },
     {
       "name": "Japan",
-      "note": "Passengers of approved cruiseships do not require a visa as of April 2015."
+      "note": "Passengers of approved cruiseships do not require a visa from April 2015."
     },
     {
       "name": "Kazakhstan"
@@ -205,7 +203,7 @@
     },
     {
       "name": "Kuwait",
-      "note": "Visa free for 30 days, for normal passports endorsed \"For Public Affairs\"."
+      "note": "Visa free for 30 days for passports for public affairs."
     },
     {
       "name": "Kyrgyzstan"
@@ -233,7 +231,7 @@
     },
     {
       "name": "Republic of Macedonia",
-      "note": "Visa free for a maximum stay of 90 days for holders of normal passports endorsed \"business\"."
+      "note": "Visa exempted for 15 days if holding a double or multiple Schengen C visa or a visa issued by USA, Canada or United Kingdom. The visa must be valid for at least 5 days beyond the period of intended stay in Macedonia. Visa free for a maximum stay of 90 days for holders of passports for public affairs."
     },
     {
       "name": "Mali"
@@ -246,7 +244,7 @@
     },
     {
       "name": "Mexico",
-      "note": "Visa free for holders of valid visas issued by U.S, UK, Canada, Japan, United Kingdom or a Schengen member state. Also visa free for all visiting \"through maritime ports as passengers in tourism cruises\""
+      "note": "Visa free for holders of valid visas issued by USA, Canada, UK, Japan, United Kingdom or a Schengen member state. Also visa free for all visiting \"through maritime ports as passengers in tourism cruises\""
     },
     {
       "name": "Moldova"
@@ -255,8 +253,7 @@
       "name": "Monaco"
     },
     {
-      "name": "Mongolia",
-      "note": "Visa free for 30 days, for normal passports endorsed \"For Public Affairs\"."
+      "name": "Mongolia"
     },
     {
       "name": "Montenegro",
@@ -309,7 +306,8 @@
       "name": "Paraguay"
     },
     {
-      "name": "Peru"
+      "name": "Peru",
+      "note": "Visa free if holding valid US/Canada/UK/Australia/Schengen visa (at least 6 months before expiry) or permanent residency in US/CA/UK/EU/AU countries. Up to 180 days per stay for tourism and business."
     },
     {
       "name": "Philippines",
@@ -325,7 +323,8 @@
       "name": "Qatar"
     },
     {
-      "name": "Romania"
+      "name": "Romania",
+      "note": "Visa free if holding valid Schengen multiple entry visa. The journey has to be completed before the expiration of Schengen visa."
     },
     {
       "name": "Russia",
@@ -382,10 +381,6 @@
       "name": "Syria"
     },
     {
-      "name": "Tonga",
-      "note": "Visa free for passports for public affairs. Visa-free agreements signed on 9 June 2016 and is pending ratification."
-    },
-    {
       "name": "Trinidad and Tobago"
     },
     {
@@ -396,16 +391,12 @@
       "name": "Turkmenistan"
     },
     {
-      "name": "Ukraine",
-      "note": "Temporary visa exemption up to 15 days available at Boryspil International Airport from 20 June to 30 September 2016."
-    },
-    {
       "name": "United Arab Emirates",
-      "note": "Visa free for normal passports for public affairs. A 96-hour transit visa can be obtained on arrival when holding onward tickets to a third country."
+      "note": "Visa free for passports for public affairs. A 96-hour transit visa can be obtained on arrival when holding onward tickets to a third country. In September 2016 the UAE Government adopted a decision to grant visa on arrival access to citizens of China."
     },
     {
       "name": "United Kingdom",
-      "note": "Visa not required if holding a valid Irish visa. Entry permitted only if first point of entry to the Common Travel Area is in Ireland."
+      "note": "Visa not required if holding a valid Irish visa endorsed with BIVS. Entry permitted only if first point of entry to the Common Travel Area is in Ireland."
     },
     {
       "name": "United States",
@@ -426,7 +417,7 @@
     },
     {
       "name": "Vietnam",
-      "note": "Visa free for 30 days, for normal passports for public affairs. Pre-arranged 3, or 6 month visa obtained online through travel agencies are available at Ho Chi Minh, Hanoi, Phu Quoc, or Danang airports."
+      "note": "Visa free for 30 days, for passports for public affairs. Visa on arrival can be arranged online through travel agencies and are available at Ho Chi Minh City, Hanoi and Da Nang airports."
     },
     {
       "name": "Yemen"
@@ -494,11 +485,15 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Swaziland",
       "note": "90 days"
+    },
+    {
+      "name": "Tonga",
+      "note": "30 days "
     },
     {
       "name": "Vanuatu",
@@ -536,7 +531,7 @@
     },
     {
       "name": "Myanmar",
-      "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
+      "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports. Visa on arrival is available for any countries foreigners if departing from Guangzhou by Myanmar Airways."
     },
     {
       "name": "Rwanda",
@@ -608,6 +603,10 @@
       "note": "1 month"
     },
     {
+      "name": "Egypt",
+      "note": "According to Egyptian diplomatic missions in China, Chinese citizens can apply for visa on arrival since July 19, 2016 and can stay for up 30 days."
+    },
+    {
       "name": "Ethiopia",
       "note": "6 months"
     },
@@ -633,7 +632,7 @@
     },
     {
       "name": "Madagascar",
-      "note": "30 days free of charge"
+      "note": "30 days, free of charge"
     },
     {
       "name": "Malawi"
@@ -689,7 +688,12 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
+    },
+    {
+      "name": "Ukraine",
+      "note": "15 days, available at Boryspil International Airport from 20 June to 30 September 2016."
     }
   ],
   "refused": [],

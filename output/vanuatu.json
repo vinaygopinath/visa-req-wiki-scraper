@@ -180,7 +180,8 @@
       "name": "Qatar"
     },
     {
-      "name": "Russia"
+      "name": "Russia",
+      "note": "Visa nor required from 21 October 2016."
     },
     {
       "name": "Rwanda",
@@ -552,7 +553,7 @@
   "evisa": [
     {
       "name": "Australia",
-      "note": "Transit visa is not required."
+      "note": "May apply online. Transit visa is not required."
     },
     {
       "name": "Georgia (country)",
@@ -653,7 +654,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands"

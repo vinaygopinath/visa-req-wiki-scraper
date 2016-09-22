@@ -317,6 +317,9 @@
       "name": "Saudi Arabia"
     },
     {
+      "name": "Senegal"
+    },
+    {
       "name": "Serbia",
       "note": "Visa free for a maximum stay of 90 days for valid visa holders or residents of the European Union member states, Switzerland and the United States."
     },
@@ -365,7 +368,7 @@
     },
     {
       "name": "Turkey",
-      "note": "30 day eVisas can be obtained online for USD20 provided that a return ticket, hotel reservation and at least USD50 for each day's stay is shown. Must travel for the purposes of tourism or business and hold a valid visa OR valid residence permit from one of the Schengen countries, USA, UK or Ireland (E-visas are not accepted)."
+      "note": "30-day eVisas can be obtained online for USD20 provided that a return ticket, hotel reservation and at least USD50 for each day's stay is shown. Must travel for the purposes of tourism or business and hold a valid visa OR valid residence permit from one of the Schengen countries, USA, UK or Ireland (E-visas are not accepted)."
     },
     {
       "name": "Turkmenistan"
@@ -485,10 +488,6 @@
     {
       "name": "Saint Vincent and the Grenadines",
       "note": "1 month"
-    },
-    {
-      "name": "Senegal",
-      "note": "90 days"
     },
     {
       "name": "Singapore",
@@ -654,7 +653,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

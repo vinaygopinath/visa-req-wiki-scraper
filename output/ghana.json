@@ -336,6 +336,9 @@
       "name": "Spain"
     },
     {
+      "name": "Sri Lanka"
+    },
+    {
       "name": "Sudan"
     },
     {
@@ -456,7 +459,7 @@
     },
     {
       "name": "Indonesia",
-      "note": "30 days. Select ports of entry."
+      "note": "30 days"
     },
     {
       "name": "Jamaica"
@@ -551,10 +554,6 @@
     {
       "name": "Myanmar",
       "note": "28 days"
-    },
-    {
-      "name": "Sri Lanka",
-      "note": "30 days; must hold return or onward ticket"
     }
   ],
   "on-arrival": [
@@ -613,7 +612,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "East Timor",
@@ -624,7 +623,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

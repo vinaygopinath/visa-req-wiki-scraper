@@ -607,6 +607,10 @@
       "note": "3 months; also visa on arrival until 1 September 2015"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days, eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -661,12 +665,8 @@
       "note": "Conditions apply ID Card valid when entering at Aqaba airport, conditions apply"
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
-      "note": "30 days (32 USD Effective 22. Dec 2013)"
+      "note": "30 days"
     },
     {
       "name": "Lebanon",
@@ -730,7 +730,8 @@
       "note": "7 days"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     },
     {
       "name": "Zambia",

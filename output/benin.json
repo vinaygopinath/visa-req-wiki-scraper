@@ -319,10 +319,6 @@
       "name": "Serbia"
     },
     {
-      "name": "Seychelles",
-      "note": "Visa can be obtained on www.ics.gov.sc"
-    },
-    {
       "name": "Slovakia"
     },
     {
@@ -500,6 +496,10 @@
       "note": "90 days"
     },
     {
+      "name": "Seychelles",
+      "note": "3 monthsMay apply online."
+    },
+    {
       "name": "Sierra Leone"
     },
     {
@@ -635,7 +635,8 @@
       "note": "1 month. Free of charge."
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "May apply online."
     }
   ],
   "refused": [],

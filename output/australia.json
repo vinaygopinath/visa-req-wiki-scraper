@@ -23,6 +23,9 @@
       "name": "Bhutan"
     },
     {
+      "name": "Brazil"
+    },
+    {
       "name": "Cameroon"
     },
     {
@@ -33,7 +36,7 @@
     },
     {
       "name": "China",
-      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shanghai, Shenyang, Xi'an, Nanjing and Wuhan."
+      "note": "72-hours visa free visit when in transit at Beijing, Chengdu, Chongqing, Dalian, Guangzhou, Guilin, Shenyang, Xi'an, Nanjing and Wuhan.\n144-hours (6 days) visa free transit in Shanghai, Jiangsu and Zhejiang."
     },
     {
       "name": "Republic of the Congo"
@@ -87,9 +90,6 @@
     {
       "name": "Pakistan",
       "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply."
-    },
-    {
-      "name": "Papua New Guinea"
     },
     {
       "name": "Russia"
@@ -175,10 +175,6 @@
       "note": "90 days per year"
     },
     {
-      "name": "Brazil",
-      "note": "Temporary visa waiver, for a stay up to 90 days, is in place in 2016 between June 1 and September 18."
-    },
-    {
       "name": "Bulgaria",
       "note": "90 days within 180 days"
     },
@@ -212,7 +208,7 @@
     },
     {
       "name": "Denmark",
-      "note": "90 days within 180 days in the Schengen area"
+      "note": "90 days within 180 days regardless of previous time spent in other Schengen countries"
     },
     {
       "name": "Dominica",
@@ -256,7 +252,7 @@
     },
     {
       "name": "Germany",
-      "note": "90 days within 180 days in the Schengen area"
+      "note": "90 days within 180 days regardless of previous time spent in Schengen countries"
     },
     {
       "name": "Greece",
@@ -540,6 +536,10 @@
       "note": "3 months; also visa on arrival until 1 September 2015"
     },
     {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports."
     },
@@ -616,10 +616,6 @@
       "note": "Conditions apply. Not available at all entry points."
     },
     {
-      "name": "Kuwait",
-      "note": "3 months"
-    },
-    {
       "name": "Laos",
       "note": "30 days. Not available at all entry points."
     },
@@ -663,6 +659,10 @@
       "note": "30 days"
     },
     {
+      "name": "Papua New Guinea",
+      "note": "30 days, available at Gurney Airport (Alotau), Mount Hagen Airport, Port Moresby Airport and Tokua Airport(Rabaul)."
+    },
+    {
       "name": "Paraguay",
       "note": "90 days, only available at Silvio Pettirossi International Airport in Luque. Reciprocity fee applies."
     },
@@ -680,7 +680,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "1 month"
+      "note": "3 months"
     },
     {
       "name": "Solomon Islands",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Uganda",
-      "note": "Determined at the port of entry."
+      "note": "Determined at the port of entry. May apply online."
     },
     {
       "name": "Ukraine",
