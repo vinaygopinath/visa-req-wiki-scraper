@@ -184,7 +184,7 @@
     },
     {
       "name": "New Zealand",
-      "note": "Visa required for New Zealand and Tokelau\nVisa-free up to 31 days for Cook Islands and up to 30 days for Niue"
+      "note": " Tokelau - entry permit required\n Cook Islands - visa-free up to 31 days\n Niue - visa-free up to 30 days"
     },
     {
       "name": "Niger"
@@ -289,16 +289,15 @@
   ],
   "not-required": [
     {
-      "name": "Andorra",
-      "note": "90 days in a 180-day period"
+      "name": "Andorra"
     },
     {
       "name": "Austria",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Belgium",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Belize",
@@ -306,7 +305,7 @@
     },
     {
       "name": "Bulgaria",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Colombia",
@@ -318,19 +317,19 @@
     },
     {
       "name": "Croatia",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Cyprus",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Czech Republic",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Denmark",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Dominica",
@@ -342,7 +341,7 @@
     },
     {
       "name": "Estonia",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Fiji",
@@ -350,11 +349,11 @@
     },
     {
       "name": "Finland",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "France",
-      "note": "90 days in a 180-day period for Metropolitan France, New Caledonia, Wallis and Futuna and French Polynesia\nVisa required for other French overseas departments and territories"
+      "note": "90 days within any 180 day period in Schengen Area,\nNew Caledonia, Wallis and Futuna and French Polynesia\nVisa required for other French overseas departments and territories"
     },
     {
       "name": "The Gambia",
@@ -362,11 +361,11 @@
     },
     {
       "name": "Germany",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Greece",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Haiti",
@@ -374,11 +373,11 @@
     },
     {
       "name": "Hungary",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Iceland",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Israel",
@@ -386,7 +385,7 @@
     },
     {
       "name": "Italy",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Kiribati",
@@ -398,23 +397,23 @@
     },
     {
       "name": "Latvia",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Liechtenstein",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Lithuania",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Luxembourg",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Malta",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Marshall Islands"
@@ -424,16 +423,15 @@
       "note": "180 days"
     },
     {
-      "name": "Monaco",
-      "note": "90 days in a 180-day period"
+      "name": "Monaco"
     },
     {
       "name": "Netherlands",
-      "note": "90 days in a 180-day period for European Netherlands\nVisa required for Dutch territories in the Caribbean"
+      "note": "90 days within any 180 day period in Schengen Area\nVisa required for Dutch territories in the Caribbean"
     },
     {
       "name": "Norway",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Palau"
@@ -452,15 +450,15 @@
     },
     {
       "name": "Poland",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Portugal",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Romania",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Saint Lucia",
@@ -475,47 +473,46 @@
       "note": "60 days"
     },
     {
-      "name": "San Marino",
-      "note": "90 days in a 180-day period"
+      "name": "San Marino"
     },
     {
-      "name": "Singapore"
+      "name": "Singapore",
+      "note": "30 days"
     },
     {
       "name": "Slovakia",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Slovenia",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Spain",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Sweden",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "Switzerland",
-      "note": "90 days in a 180-day period"
+      "note": "90 days within any 180 day period in Schengen Area"
     },
     {
       "name": "United Kingdom",
-      "note": "6 months\nVisa-free also for British overseas territories except Cayman Islands, Turks and Caicos Islands and Falkland Islands"
+      "note": "6 months\nVisa-free also for British overseas territories\nexcept Cayman Islands, Turks and Caicos Islands and Falkland Islands\n"
     },
     {
       "name": "United States",
-      "note": "Under the Compact of Free Association visa exemption applies to citizens by birth, former citizens of the Trust Territory of the Pacific Islands who were citizens in 1986, naturalized spouses, children and naturalized citizens who are residents for at least 5 years and does not apply to those who obtained passports through passport sale. This unlimited exemption applies for United States, Puerto Rico, Virgin Islands, Guam and Northern Mariana Islands.\nVisa-free up to 30 days for American Samoa"
+      "note": "Under the Compact of Free Association, visa exemption applies to citizens by birth,\nformer citizens of the Trust Territory of the Pacific Islands who were citizens in 1986,\nnaturalized spouses, children and naturalized citizens who are residents for at least 5 years,\nand does not apply to those who obtained passports through passport sale.\nThis unlimited exemption applies for United States, Puerto Rico, Virgin Islands,\nGuam and Northern Mariana Islands.\nVisa-free up to 30 days for American Samoa\n"
     },
     {
       "name": "Vanuatu",
       "note": "90 days"
     },
     {
-      "name": "Vatican City",
-      "note": "90 days in a 180-day period"
+      "name": "Vatican City"
     },
     {
       "name": "Micronesia",

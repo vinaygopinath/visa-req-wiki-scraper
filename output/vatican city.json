@@ -83,8 +83,7 @@
       "name": "Iraq"
     },
     {
-      "name": "Jamaica",
-      "note": "Negotiations to abolish visa requirements are currently in progress"
+      "name": "Jamaica"
     },
     {
       "name": "Japan"
@@ -221,7 +220,7 @@
   "not-required": [
     {
       "name": "Albania",
-      "note": "90 days maximum stay"
+      "note": "90 days"
     },
     {
       "name": "Andorra"
@@ -239,7 +238,7 @@
     },
     {
       "name": "Austria",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "The Bahamas",
@@ -247,7 +246,7 @@
     },
     {
       "name": "Belgium",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Bolivia"
@@ -266,7 +265,7 @@
     },
     {
       "name": "Bulgaria",
-      "note": "90 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Canada",
@@ -286,19 +285,19 @@
     },
     {
       "name": "Croatia",
-      "note": "90 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Cyprus",
-      "note": "90 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Czech Republic",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Denmark",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Dominica",
@@ -318,18 +317,18 @@
     },
     {
       "name": "Estonia",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Fiji"
     },
     {
       "name": "Finland",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "France",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "The Gambia",
@@ -337,15 +336,15 @@
     },
     {
       "name": "Georgia (country)",
-      "note": "90 days within 180 days"
+      "note": "365 days"
     },
     {
       "name": "Germany",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Greece",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Grenada",
@@ -365,11 +364,11 @@
     },
     {
       "name": "Hungary",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Iceland",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Indonesia",
@@ -385,7 +384,7 @@
     },
     {
       "name": "Italy",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Kenya",
@@ -401,19 +400,19 @@
     },
     {
       "name": "Latvia",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Liechtenstein",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Lithuania",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Luxembourg",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Republic of Macedonia",
@@ -425,7 +424,7 @@
     },
     {
       "name": "Malta",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Mauritius",
@@ -452,7 +451,7 @@
     },
     {
       "name": "Netherlands",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "New Zealand",
@@ -464,7 +463,7 @@
     },
     {
       "name": "Norway",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Panama",
@@ -480,15 +479,15 @@
     },
     {
       "name": "Poland",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Portugal",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Romania",
-      "note": "90 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Saint Vincent and the Grenadines",
@@ -507,15 +506,15 @@
     },
     {
       "name": "Slovakia",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Slovenia",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Spain",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Swaziland",
@@ -523,11 +522,11 @@
     },
     {
       "name": "Sweden",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Switzerland",
-      "note": "90 days"
+      "note": "90 days within any 180 day period in Schengen area"
     },
     {
       "name": "Tunisia",
@@ -678,7 +677,7 @@
     },
     {
       "name": "Somalia",
-      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival.\n"
+      "note": "30 days, provided an invitation letter issued by the sponsor has been submitted to the Airport Immigration Department at least 2 days before arrival."
     },
     {
       "name": "Tajikistan",

@@ -273,10 +273,6 @@
       "name": "Netherlands"
     },
     {
-      "name": "New Zealand",
-      "note": "Visa free if having a current Australian permanent residence visa or a current Australian resident return visa"
-    },
-    {
       "name": "Nicaragua"
     },
     {
@@ -392,7 +388,7 @@
     },
     {
       "name": "United Arab Emirates",
-      "note": "Visa free for passports for public affairs. A 96-hour transit visa can be obtained on arrival when holding onward tickets to a third country. In September 2016 the UAE Government adopted a decision to grant visa on arrival access to citizens of China."
+      "note": "Visa free for passports for public affairs. A 96-hour transit visa can be obtained on arrival when holding onward tickets to a third country. In September 2016 the UAE Government adopted a decision to grant visa on arrival access to citizens of China, but the exact date of the new visa regulations has not been announced."
     },
     {
       "name": "United Kingdom",
@@ -426,7 +422,7 @@
   "not-required": [
     {
       "name": "Antigua and Barbuda",
-      "note": "30 days, since November 18, 2014"
+      "note": "30 days"
     },
     {
       "name": "The Bahamas",
@@ -532,6 +528,10 @@
     {
       "name": "Myanmar",
       "note": "28 days. eVisa holders must arrive via Yangon, Nay Pyi Taw or Mandalay airports. Visa on arrival is available for any countries foreigners if departing from Guangzhou by Myanmar Airways."
+    },
+    {
+      "name": "New Zealand",
+      "note": "Visa free if having a current Australian permanent residence visa or a current Australian resident return visa. eVisa eligible if \"you are outside New Zealand and are from a visa waiver country or from China and are applying for a student, visitor or work visa\".\n.\n"
     },
     {
       "name": "Rwanda",
@@ -693,7 +693,7 @@
     },
     {
       "name": "Ukraine",
-      "note": "15 days, available at Boryspil International Airport from 20 June to 30 September 2016."
+      "note": "15 days for business or tourist purposes, available at Boryspil International Airport and Odessa International Airport."
     }
   ],
   "refused": [],

@@ -89,8 +89,7 @@
       "note": "Visa on arrival when travelling on business valid for 30 days. Conditions apply. Visa on arrival when travelling as part of a group through a designated tour operator."
     },
     {
-      "name": "Rwanda",
-      "note": "Negotiations to abolish visa requirements are currently in progress"
+      "name": "Rwanda"
     },
     {
       "name": "São Tomé and Príncipe",
@@ -170,9 +169,6 @@
     {
       "name": "Bulgaria",
       "note": "90 days within 180 days"
-    },
-    {
-      "name": "Cape Verde"
     },
     {
       "name": "Chile",
@@ -402,7 +398,7 @@
     },
     {
       "name": "Peru",
-      "note": "up to 183 days"
+      "note": "183 days"
     },
     {
       "name": "Philippines",
@@ -422,7 +418,7 @@
     },
     {
       "name": "Russia",
-      "note": "60 days"
+      "note": "60 days, for a maximum total stay of 90 days within any 180 day period."
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -502,6 +498,10 @@
     {
       "name": "Ukraine",
       "note": "90 days within 180 days"
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "1 month"
     },
     {
       "name": "United Kingdom",
@@ -597,6 +597,9 @@
     {
       "name": "Cambodia",
       "note": "30 days"
+    },
+    {
+      "name": "Cape Verde"
     },
     {
       "name": "Comoros"
@@ -709,10 +712,6 @@
     {
       "name": "Uganda",
       "note": "3 months. May apply online."
-    },
-    {
-      "name": "United Arab Emirates",
-      "note": "1 month"
     },
     {
       "name": "Zambia",

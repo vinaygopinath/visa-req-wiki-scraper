@@ -284,10 +284,6 @@
       "name": "Romania"
     },
     {
-      "name": "Russia",
-      "note": "90 days within 180 days from 3 October 2016."
-    },
-    {
       "name": "Rwanda"
     },
     {
@@ -433,7 +429,8 @@
       "note": "30 days"
     },
     {
-      "name": "Republic of Ireland"
+      "name": "Republic of Ireland",
+      "note": "90 days"
     },
     {
       "name": "Jamaica",
@@ -462,6 +459,10 @@
     {
       "name": "Philippines",
       "note": "30 days"
+    },
+    {
+      "name": "Russia",
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Saint Kitts and Nevis",

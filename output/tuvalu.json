@@ -260,9 +260,6 @@
       "name": "Uzbekistan"
     },
     {
-      "name": "Vatican City"
-    },
-    {
       "name": "Venezuela"
     },
     {
@@ -274,8 +271,7 @@
   ],
   "not-required": [
     {
-      "name": "Andorra",
-      "note": "90 days within 180 days"
+      "name": "Andorra"
     },
     {
       "name": "Antigua and Barbuda",
@@ -283,7 +279,7 @@
     },
     {
       "name": "Austria",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "The Bahamas",
@@ -294,7 +290,7 @@
     },
     {
       "name": "Belgium",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Belize"
@@ -305,7 +301,7 @@
     },
     {
       "name": "Bulgaria",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Costa Rica",
@@ -313,19 +309,19 @@
     },
     {
       "name": "Croatia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Cyprus",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Czech Republic",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Denmark",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Dominica",
@@ -341,7 +337,7 @@
     },
     {
       "name": "Estonia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Fiji",
@@ -349,11 +345,11 @@
     },
     {
       "name": "Finland",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "France",
-      "note": "90 days within 180 days. Also visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
+      "note": "90 days within any 180 day period in Shengen Area. Also visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
     },
     {
       "name": "The Gambia",
@@ -361,11 +357,11 @@
     },
     {
       "name": "Germany",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Greece",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Grenada",
@@ -377,11 +373,11 @@
     },
     {
       "name": "Hungary",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Iceland",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Indonesia",
@@ -392,7 +388,7 @@
     },
     {
       "name": "Italy",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Jamaica"
@@ -411,19 +407,19 @@
     },
     {
       "name": "Latvia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Liechtenstein",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Lithuania",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Luxembourg",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Malawi"
@@ -434,7 +430,7 @@
     },
     {
       "name": "Malta",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Mauritius",
@@ -445,12 +441,11 @@
       "note": "30 days"
     },
     {
-      "name": "Monaco",
-      "note": "90 days within 180 days"
+      "name": "Monaco"
     },
     {
       "name": "Netherlands",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Nicaragua",
@@ -458,7 +453,7 @@
     },
     {
       "name": "Norway",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Panama",
@@ -474,15 +469,15 @@
     },
     {
       "name": "Poland",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Portugal",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Romania",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Saint Kitts and Nevis"
@@ -500,30 +495,31 @@
       "note": "60 days"
     },
     {
-      "name": "San Marino",
-      "note": "90 days within 180 days"
+      "name": "San Marino"
     },
     {
-      "name": "Singapore"
+      "name": "Singapore",
+      "note": "30 days"
     },
     {
       "name": "Slovakia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Slovenia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
-      "name": "Spain"
+      "name": "Spain",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Sweden",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Switzerland",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Tanzania",
@@ -539,6 +535,9 @@
     {
       "name": "Vanuatu",
       "note": "90 days"
+    },
+    {
+      "name": "Vatican City"
     },
     {
       "name": "Zambia",

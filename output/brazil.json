@@ -17,7 +17,7 @@
     },
     {
       "name": "Belarus",
-      "note": "Visas are issued on arrival at the Minsk International Airport\nif the support documents were submitted not later than 3 business days before expected date of arrival. Visa-free agreement signed, not yet ratified."
+      "note": "Visas are issued on arrival at the Minsk International Airport\nif the support documents were submitted not later than 3 business days before expected date of arrival. Visa-free agreement signed, ratified by Belarus on October 5, 2016, entry into force pending."
     },
     {
       "name": "Benin"
@@ -160,8 +160,7 @@
       "note": "90 days"
     },
     {
-      "name": "Andorra",
-      "note": "90 days"
+      "name": "Andorra"
     },
     {
       "name": "Antigua and Barbuda",
@@ -209,7 +208,7 @@
     },
     {
       "name": "Bulgaria",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Chile",
@@ -225,11 +224,11 @@
     },
     {
       "name": "Croatia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Cyprus",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Czech Republic",
@@ -333,7 +332,7 @@
     },
     {
       "name": "Kazakhstan",
-      "note": "30 days per year"
+      "note": "30 days within any year period"
     },
     {
       "name": "South Korea",
@@ -380,12 +379,11 @@
       "note": "30 days"
     },
     {
-      "name": "Monaco",
-      "note": "90 days"
+      "name": "Monaco"
     },
     {
       "name": "Mongolia",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Montenegro",
@@ -441,11 +439,11 @@
     },
     {
       "name": "Romania",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Russia",
-      "note": "90 days within 180 days for tourism purposes"
+      "note": "90 days within any 180 day period for tourism purposes"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -460,8 +458,7 @@
       "note": "90 days"
     },
     {
-      "name": "San Marino",
-      "note": "90 days"
+      "name": "San Marino"
     },
     {
       "name": "São Tomé and Príncipe",
@@ -529,7 +526,7 @@
     },
     {
       "name": "Ukraine",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "United Kingdom",

@@ -4,10 +4,12 @@
       "name": "Afghanistan"
     },
     {
-      "name": "Algeria"
+      "name": "Algeria",
+      "note": "Visa can be obtained on arrival"
     },
     {
-      "name": "Angola"
+      "name": "Angola",
+      "note": "Pre-arranged visa can be obtained on arrival"
     },
     {
       "name": "Azerbaijan",
@@ -18,7 +20,8 @@
       "note": "Visa are also issued on arrival at the Minsk International Airport\nif the support documents were submitted by inviting organization/person not later than 3 business days before expected date of arrival."
     },
     {
-      "name": "Benin"
+      "name": "Benin",
+      "note": "Pre-approved visa can be obtained on arrival"
     },
     {
       "name": "Bhutan",
@@ -320,7 +323,7 @@
     },
     {
       "name": "Jamaica",
-      "note": "30 days"
+      "note": "180 days"
     },
     {
       "name": "Japan",
@@ -555,7 +558,7 @@
   "evisa": [
     {
       "name": "Australia",
-      "note": "90 days on each visit in 12-month period if granted."
+      "note": "90 days on each visit in 12-month period is granted."
     },
     {
       "name": "Myanmar",

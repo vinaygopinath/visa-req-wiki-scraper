@@ -10,16 +10,10 @@
       "name": "Algeria"
     },
     {
-      "name": "Andorra"
-    },
-    {
       "name": "Angola"
     },
     {
       "name": "Argentina"
-    },
-    {
-      "name": "Austria"
     },
     {
       "name": "Azerbaijan"
@@ -29,9 +23,6 @@
     },
     {
       "name": "Belarus"
-    },
-    {
-      "name": "Belgium"
     },
     {
       "name": "Benin"
@@ -47,9 +38,6 @@
     },
     {
       "name": "Brunei"
-    },
-    {
-      "name": "Bulgaria"
     },
     {
       "name": "Burkina Faso"
@@ -82,19 +70,7 @@
       "name": "Ivory Coast"
     },
     {
-      "name": "Croatia"
-    },
-    {
       "name": "Cuba"
-    },
-    {
-      "name": "Cyprus"
-    },
-    {
-      "name": "Czech Republic"
-    },
-    {
-      "name": "Denmark"
     },
     {
       "name": "Equatorial Guinea"
@@ -103,29 +79,13 @@
       "name": "Eritrea"
     },
     {
-      "name": "Estonia"
-    },
-    {
       "name": "Ethiopia"
-    },
-    {
-      "name": "Finland"
-    },
-    {
-      "name": "France",
-      "note": "Visa-free for New Caledonia, Wallis and Futuna and French Polynesia."
     },
     {
       "name": "Gabon"
     },
     {
-      "name": "Germany"
-    },
-    {
       "name": "Ghana"
-    },
-    {
-      "name": "Greece"
     },
     {
       "name": "Guinea"
@@ -134,19 +94,10 @@
       "name": "Guyana"
     },
     {
-      "name": "Hungary"
-    },
-    {
-      "name": "Iceland"
-    },
-    {
       "name": "Iraq"
     },
     {
       "name": "Israel"
-    },
-    {
-      "name": "Italy"
     },
     {
       "name": "Japan"
@@ -164,9 +115,6 @@
       "name": "Kyrgyzstan"
     },
     {
-      "name": "Latvia"
-    },
-    {
       "name": "Lebanon"
     },
     {
@@ -176,31 +124,16 @@
       "name": "Libya"
     },
     {
-      "name": "Liechtenstein"
-    },
-    {
-      "name": "Lithuania"
-    },
-    {
-      "name": "Luxembourg"
-    },
-    {
       "name": "Republic of Macedonia"
     },
     {
       "name": "Mali"
     },
     {
-      "name": "Malta"
-    },
-    {
       "name": "Mexico"
     },
     {
       "name": "Moldova"
-    },
-    {
-      "name": "Monaco"
     },
     {
       "name": "Mongolia"
@@ -215,9 +148,6 @@
       "name": "Namibia"
     },
     {
-      "name": "Netherlands"
-    },
-    {
       "name": "New Zealand",
       "note": "Transit visa is not required."
     },
@@ -226,9 +156,6 @@
     },
     {
       "name": "Nigeria"
-    },
-    {
-      "name": "Norway"
     },
     {
       "name": "Oman"
@@ -240,16 +167,11 @@
       "name": "Paraguay"
     },
     {
-      "name": "Poland"
-    },
-    {
-      "name": "Portugal"
-    },
-    {
       "name": "Qatar"
     },
     {
-      "name": "Romania"
+      "name": "Romania",
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Russia"
@@ -257,9 +179,6 @@
     {
       "name": "Rwanda",
       "note": "Visa is obtained online."
-    },
-    {
-      "name": "San Marino"
     },
     {
       "name": "São Tomé and Príncipe",
@@ -275,12 +194,6 @@
       "name": "Sierra Leone"
     },
     {
-      "name": "Slovakia"
-    },
-    {
-      "name": "Slovenia"
-    },
-    {
       "name": "Somalia",
       "note": "30 days visa on arrival, provided an invitation letter issued by the sponsor has been submitted\nto the Airport Immigration Department at least 2 days before arrival."
     },
@@ -291,19 +204,10 @@
       "name": "South Sudan"
     },
     {
-      "name": "Spain"
-    },
-    {
       "name": "Sudan"
     },
     {
       "name": "Suriname"
-    },
-    {
-      "name": "Sweden"
-    },
-    {
-      "name": "Switzerland"
     },
     {
       "name": "Syria"
@@ -339,9 +243,6 @@
       "name": "Uzbekistan"
     },
     {
-      "name": "Vatican City"
-    },
-    {
       "name": "Venezuela"
     },
     {
@@ -353,8 +254,15 @@
   ],
   "not-required": [
     {
+      "name": "Andorra"
+    },
+    {
       "name": "Antigua and Barbuda",
       "note": "1 month"
+    },
+    {
+      "name": "Austria",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "The Bahamas",
@@ -364,11 +272,19 @@
       "name": "Barbados"
     },
     {
+      "name": "Belgium",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Belize"
     },
     {
       "name": "Botswana",
       "note": "3 months"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Canada",
@@ -383,6 +299,22 @@
       "note": "30 days"
     },
     {
+      "name": "Croatia",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Cyprus",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Denmark",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Dominica",
       "note": "6 months"
     },
@@ -395,12 +327,32 @@
       "note": "90 days"
     },
     {
+      "name": "Estonia",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Fiji",
       "note": "4 months"
     },
     {
+      "name": "Finland",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "France",
+      "note": "90 days within any 180 day period in Shengen Area\nVisa-free for New Caledonia, Wallis and Futuna and French Polynesia."
+    },
+    {
       "name": "The Gambia",
       "note": "90 days"
+    },
+    {
+      "name": "Germany",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Greece",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Grenada",
@@ -419,11 +371,23 @@
       "note": "90 days"
     },
     {
+      "name": "Hungary",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Iceland",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Indonesia",
       "note": "30 days"
     },
     {
       "name": "Republic of Ireland"
+    },
+    {
+      "name": "Italy",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Jamaica"
@@ -441,12 +405,32 @@
       "note": "30 days"
     },
     {
+      "name": "Latvia",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Lesotho",
       "note": "90 days"
     },
     {
+      "name": "Liechtenstein",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Lithuania",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Malaysia",
       "note": "30 days"
+    },
+    {
+      "name": "Malta",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Mauritius",
@@ -457,8 +441,19 @@
       "note": "30 days"
     },
     {
+      "name": "Monaco"
+    },
+    {
+      "name": "Netherlands",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
       "name": "Nicaragua",
       "note": "90 days"
+    },
+    {
+      "name": "Norway",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Panama",
@@ -471,6 +466,14 @@
     {
       "name": "Philippines",
       "note": "30 days"
+    },
+    {
+      "name": "Poland",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Portugal",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Saint Kitts and Nevis"
@@ -488,11 +491,35 @@
       "note": "60 days"
     },
     {
-      "name": "Singapore"
+      "name": "San Marino"
+    },
+    {
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Slovakia",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Slovenia",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Spain",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Swaziland",
       "note": "30 days"
+    },
+    {
+      "name": "Sweden",
+      "note": "90 days within any 180 day period in Shengen Area"
+    },
+    {
+      "name": "Switzerland",
+      "note": "90 days within any 180 day period in Shengen Area"
     },
     {
       "name": "Trinidad and Tobago"
@@ -508,6 +535,9 @@
     {
       "name": "Vanuatu",
       "note": "90 days"
+    },
+    {
+      "name": "Vatican City"
     },
     {
       "name": "Zambia",

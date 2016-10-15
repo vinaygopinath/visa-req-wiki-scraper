@@ -31,6 +31,9 @@
       "name": "Bahrain"
     },
     {
+      "name": "Bangladesh"
+    },
+    {
       "name": "Barbados"
     },
     {
@@ -41,6 +44,9 @@
     },
     {
       "name": "Belize"
+    },
+    {
+      "name": "Benin"
     },
     {
       "name": "Bhutan"
@@ -65,9 +71,6 @@
     },
     {
       "name": "Burundi"
-    },
-    {
-      "name": "Cambodia"
     },
     {
       "name": "Cameroon"
@@ -228,9 +231,6 @@
     },
     {
       "name": "Latvia"
-    },
-    {
-      "name": "Lebanon"
     },
     {
       "name": "Lesotho"
@@ -464,10 +464,6 @@
       "note": "90 days"
     },
     {
-      "name": "Benin",
-      "note": "90 days"
-    },
-    {
       "name": "Dominica",
       "note": "21 days"
     },
@@ -481,7 +477,7 @@
     },
     {
       "name": "Malaysia",
-      "note": "30 days"
+      "note": "14 days"
     },
     {
       "name": "Mauritania"
@@ -496,7 +492,7 @@
     },
     {
       "name": "Tunisia",
-      "note": "90 days"
+      "note": "3 months"
     },
     {
       "name": "Libya",
@@ -534,21 +530,23 @@
   ],
   "on-arrival": [
     {
-      "name": "Bangladesh",
-      "note": "30 days"
+      "name": "Burkina Faso",
+      "note": "1 month"
     },
     {
-      "name": "Burkina Faso",
-      "note": "1 month for fee"
+      "name": "Cambodia",
+      "note": "30 days"
     },
     {
       "name": "Cape Verde"
     },
     {
-      "name": "Comoros"
+      "name": "Comoros",
+      "note": "45 days"
     },
     {
-      "name": "Djibouti"
+      "name": "Djibouti",
+      "note": "1 month"
     },
     {
       "name": "Ghana",
@@ -559,11 +557,16 @@
       "note": "90 days"
     },
     {
-      "name": "Indonesia"
+      "name": "Indonesia",
+      "note": "30 days"
     },
     {
       "name": "Iran",
       "note": "30 days"
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month"
     },
     {
       "name": "Madagascar",

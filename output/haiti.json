@@ -23,6 +23,10 @@
       "name": "Azerbaijan"
     },
     {
+      "name": "The Bahamas",
+      "note": "3 months"
+    },
+    {
       "name": "Bahrain"
     },
     {
@@ -451,10 +455,6 @@
     {
       "name": "Argentina",
       "note": "90 days"
-    },
-    {
-      "name": "The Bahamas",
-      "note": "3 months"
     },
     {
       "name": "Chile",

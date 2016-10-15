@@ -127,7 +127,7 @@
   "not-required": [
     {
       "name": "Albania",
-      "note": "90 days"
+      "note": "90 days. May enter with a National ID card "
     },
     {
       "name": "Andorra"
@@ -187,6 +187,10 @@
     {
       "name": "Cambodia",
       "note": "30 days"
+    },
+    {
+      "name": "Canada",
+      "note": "6 months; eTA required if arriving by air from November 9, 2016."
     },
     {
       "name": "Cape Verde",
@@ -317,7 +321,7 @@
     },
     {
       "name": "Jamaica",
-      "note": "30 days"
+      "note": "6 months "
     },
     {
       "name": "Japan",
@@ -692,7 +696,7 @@
     },
     {
       "name": "Palau",
-      "note": "30 days"
+      "note": "30 days; a visa is issued free of charge upon arrival at any port of entries."
     },
     {
       "name": "Papua New Guinea",
@@ -748,11 +752,5 @@
     }
   ],
   "refused": [],
-  "unknown": [
-    {
-      "name": "Canada",
-      "note": "6 months; eTA required if arriving by air from September 29, 2016.",
-      "visa": "Visa not requireed[51]"
-    }
-  ]
+  "unknown": []
 }

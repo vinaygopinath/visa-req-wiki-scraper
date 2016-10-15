@@ -144,7 +144,8 @@
       "name": "Nauru"
     },
     {
-      "name": "New Zealand"
+      "name": "New Zealand",
+      "note": "Visa waiver for 3 months from 21 Nov 2016."
     },
     {
       "name": "Niger"
@@ -470,7 +471,7 @@
     },
     {
       "name": "Russia",
-      "note": "30 days"
+      "note": "30 days, for a maximum total stay of 90 days within any 180 day period."
     },
     {
       "name": "Saint Kitts and Nevis",

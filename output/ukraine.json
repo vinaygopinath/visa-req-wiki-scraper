@@ -28,14 +28,14 @@
     },
     {
       "name": "Belize",
-      "note": "visa on arrival for those holding a valid US visa or Schengen visa"
+      "note": "Visa on arrival for those holding a valid US visa or Schengen visa"
     },
     {
       "name": "Benin"
     },
     {
       "name": "Bhutan",
-      "note": "e-visa available"
+      "note": "If a visa clearance is obtained, it can be picked up on arrival."
     },
     {
       "name": "Botswana"
@@ -65,7 +65,7 @@
     },
     {
       "name": "Colombia",
-      "note": "e-visa available"
+      "note": "May apply online."
     },
     {
       "name": "Republic of the Congo"
@@ -75,7 +75,7 @@
     },
     {
       "name": "Costa Rica",
-      "note": "visa is not required for those holding a valid visa for the US, EU States, Japan or Canada"
+      "note": "Visa is not required for those holding a valid visa for the US, EU States, Japan or Canada"
     },
     {
       "name": "Croatia"
@@ -106,7 +106,7 @@
     },
     {
       "name": "Ethiopia",
-      "note": "visa on arrival is available for individuals holding a letter of invitation"
+      "note": "Visa on arrival is available for individuals holding a letter of invitation"
     },
     {
       "name": "Finland"
@@ -115,15 +115,14 @@
       "name": "France"
     },
     {
-      "name": "The Gambia",
-      "note": "tourist visa on arrival for those traveling on a charter flight"
+      "name": "The Gambia"
     },
     {
       "name": "Germany"
     },
     {
       "name": "Ghana",
-      "note": "pre-arranged visa on arrival"
+      "note": "Pre-arranged visa on arrival"
     },
     {
       "name": "Greece"
@@ -241,8 +240,7 @@
       "name": "Portugal"
     },
     {
-      "name": "Qatar",
-      "note": "E-visa is available."
+      "name": "Qatar"
     },
     {
       "name": "Romania"
@@ -257,10 +255,6 @@
       "name": "Sierra Leone"
     },
     {
-      "name": "Singapore",
-      "note": "E-visa option available. Some provisions for 96 hours visa-free transit."
-    },
-    {
       "name": "Slovakia"
     },
     {
@@ -268,7 +262,7 @@
     },
     {
       "name": "Solomon Islands",
-      "note": "pre-arranged visa on arrival available"
+      "note": "Pre-arranged visa on arrival available"
     },
     {
       "name": "South Africa"
@@ -284,7 +278,7 @@
     },
     {
       "name": "Suriname",
-      "note": "pre-arranged visa on arrival is available for max. stays of 2 months"
+      "note": "Pre-arranged visa on arrival is available for max. stays of 2 months"
     },
     {
       "name": "Sweden"
@@ -307,8 +301,7 @@
       "name": "Turkmenistan"
     },
     {
-      "name": "United Arab Emirates",
-      "note": "e-visa is available"
+      "name": "United Arab Emirates"
     },
     {
       "name": "United Kingdom"
@@ -326,8 +319,7 @@
       "name": "Venezuela"
     },
     {
-      "name": "Vietnam",
-      "note": "e-visa is available"
+      "name": "Vietnam"
     },
     {
       "name": "Yemen"
@@ -359,7 +351,7 @@
     },
     {
       "name": "Belarus",
-      "note": "The internal passport (booklets only) is accepted for border crossing. 90 days within a 180-day period"
+      "note": "90 days within any 180 day period. The internal passport (booklets only) is accepted for border crossing."
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -367,7 +359,7 @@
     },
     {
       "name": "Brazil",
-      "note": "90 days every 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Brunei",
@@ -375,7 +367,7 @@
     },
     {
       "name": "Chile",
-      "note": "90 days. The 90/180 day rule applies."
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Dominica",
@@ -412,10 +404,6 @@
     {
       "name": "Honduras",
       "note": "3 months"
-    },
-    {
-      "name": "Hong Kong",
-      "note": "14 Days"
     },
     {
       "name": "Indonesia",
@@ -487,7 +475,7 @@
     },
     {
       "name": "Russia",
-      "note": "90 days within 180 days. Use of internal passport allowed as of April 2016."
+      "note": "90 days within any 180 day period, use of internal passport allowed"
     },
     {
       "name": "Saint Vincent and the Grenadines",
@@ -549,7 +537,7 @@
     },
     {
       "name": "Kenya",
-      "note": "3 months; visa on arrival until 1 September 2015"
+      "note": "3 months"
     },
     {
       "name": "Myanmar",
@@ -560,10 +548,15 @@
       "note": "90 days"
     },
     {
-      "name": "Saint Kitts and Nevis"
+      "name": "Saint Kitts and Nevis",
+      "note": "A reciprocal visa waiver has been signed for stays of 90 days. Needs to come into effect yet."
     },
     {
       "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Singapore",
+      "note": "Some provisions for 96 hours visa-free transit."
     },
     {
       "name": "Sri Lanka",
@@ -605,7 +598,7 @@
     },
     {
       "name": "Iran",
-      "note": "30 days Can be extended for additional 15 days."
+      "note": "30 days. Can be extended for additional 15 days."
     },
     {
       "name": "Jordan"

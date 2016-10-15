@@ -30,9 +30,6 @@
       "name": "Canada"
     },
     {
-      "name": "Cape Verde"
-    },
-    {
       "name": "Central African Republic"
     },
     {
@@ -626,6 +623,10 @@
     {
       "name": "Bolivia",
       "note": "90 days"
+    },
+    {
+      "name": "Cape Verde",
+      "note": "Eur 25"
     },
     {
       "name": "Comoros",

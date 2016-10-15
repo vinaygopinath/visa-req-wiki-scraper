@@ -293,7 +293,7 @@
     },
     {
       "name": "Argentina",
-      "note": "90 days within 180 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Armenia"
@@ -313,6 +313,10 @@
     {
       "name": "Belarus",
       "note": "Freedom of movement. Use of internal passport allowed."
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Bosnia and Herzegovina",
@@ -614,10 +618,6 @@
       "note": "30 days"
     },
     {
-      "name": "Bolivia",
-      "note": "90 days. Visa not required from 3 Oct 2016."
-    },
-    {
       "name": "Burundi",
       "note": "3 months"
     },
@@ -636,7 +636,8 @@
       "name": "Djibouti"
     },
     {
-      "name": "Egypt"
+      "name": "Egypt",
+      "note": "Visa not required for tourists arriving at Sharm El Sheik (SSH), Saint Catherine (SKV) or Taba (TCP) airports and remaining in the Sinai resorts for a maximum stay of 15 days."
     },
     {
       "name": "Ethiopia"

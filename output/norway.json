@@ -384,7 +384,7 @@
     },
     {
       "name": "Federated States of Micronesia",
-      "note": "30 days"
+      "note": "90 days"
     },
     {
       "name": "Moldova",
@@ -510,6 +510,10 @@
     {
       "name": "Thailand",
       "note": "30 days"
+    },
+    {
+      "name": "East Timor",
+      "note": "90 days in any 180-days"
     },
     {
       "name": "Tonga",
@@ -714,10 +718,6 @@
     },
     {
       "name": "Tanzania"
-    },
-    {
-      "name": "East Timor",
-      "note": "30 days"
     },
     {
       "name": "Togo",

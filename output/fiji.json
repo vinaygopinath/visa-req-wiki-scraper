@@ -29,7 +29,8 @@
       "note": "14 days"
     },
     {
-      "name": "Belarus"
+      "name": "Belarus",
+      "note": "Visa can be obtained on arrival"
     },
     {
       "name": "Belgium"
@@ -71,7 +72,8 @@
       "name": "Central African Republic"
     },
     {
-      "name": "Chad"
+      "name": "Chad",
+      "note": "Pre-arranged visa can be obtained on arrival"
     },
     {
       "name": "Republic of the Congo"
@@ -126,7 +128,8 @@
       "name": "Germany"
     },
     {
-      "name": "Ghana"
+      "name": "Ghana",
+      "note": "Dual Nationality Card issued"
     },
     {
       "name": "Greece"
@@ -138,7 +141,8 @@
       "name": "Guinea"
     },
     {
-      "name": "Guyana"
+      "name": "Guyana",
+      "note": "Visa can be obtained on arrival"
     },
     {
       "name": "Hungary"
@@ -328,7 +332,8 @@
       "name": "Turkey"
     },
     {
-      "name": "Turkmenistan"
+      "name": "Turkmenistan",
+      "note": "Visa can be obtained on arrival for a maximum of 10 days"
     },
     {
       "name": "Ukraine"
@@ -480,7 +485,7 @@
     },
     {
       "name": "Russia",
-      "note": "90 days"
+      "note": "90 days within any 180 day period"
     },
     {
       "name": "Saint Kitts and Nevis"
