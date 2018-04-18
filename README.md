@@ -13,7 +13,7 @@ Scrapes the visa requirements for citizens of all countries and creates arrays o
 
 ### Example
 
-Scraping the [Visa requirements for Polish citizens](https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens) Wikipedia page creates `output/poland.json` with the JSON in the following format. (Countries that have a visa note available on Wikipedia may have a "note" property)
+Scraping the [Visa requirements for Polish citizens](https://en.wikipedia.org/wiki/Visa_requirements_for_Polish_citizens) Wikipedia page creates `dist/output/poland.json` with the JSON in the following format. (Countries that have a visa note available on Wikipedia may have a "note" property)
 
 ```json
   {
@@ -67,7 +67,7 @@ Scraping the [Visa requirements for Polish citizens](https://en.wikipedia.org/wi
 ## Build
 
 ```shell
-node index.js
+npm run scrape
 ```
 
 ## Licence
