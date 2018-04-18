@@ -13,12 +13,12 @@
   "private": true,
   "dependencies": {
     "bluebird": "^3.5.1",
-    "nightmare": "^2.10.0"
+    "nightmare": "^3.0.1"
   },
   "devDependencies": {
     "@types/bluebird": "^3.5.20",
-    "@types/nightmare": "^2.10.2",
+    "@types/nightmare": "^2.10.3",
     "tslint": "^5.9.1",
-    "typescript": "^2.7.2"
+    "typescript": "^2.8.1"
   }
 }
