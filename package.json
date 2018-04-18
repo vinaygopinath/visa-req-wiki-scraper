@@ -4,13 +4,21 @@
   "description": "Wikipedia scraper for Nomad Couple website's data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prescrape": "rm -r dist && tsc",
+    "tslint": "tslint -c tslint.json -p tsconfig.json",
+    "scrape": "node dist/index.js"
   },
   "author": "Vinay Gopinath <vinay@vinaygopinath.me>",
   "license": "MIT",
-  "private": "true",
+  "private": true,
   "dependencies": {
-    "bluebird": "^3.4.1",
-    "nightmare": "^2.5.2"
+    "bluebird": "^3.5.1",
+    "nightmare": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.20",
+    "@types/nightmare": "^2.10.2",
+    "tslint": "^5.9.1",
+    "typescript": "^2.7.2"
   }
 }
