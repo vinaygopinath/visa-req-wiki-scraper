@@ -4,7 +4,7 @@
   "description": "Wikipedia scraper for Nomad Couple website's data",
   "main": "index.js",
   "scripts": {
-    "prescrape": "rm -r dist && tsc",
+    "prescrape": "rm -rf dist && tsc",
     "tslint": "tslint -c tslint.json -p tsconfig.json",
     "scrape": "node dist/index.js",
     "install": "npm run scrape"
