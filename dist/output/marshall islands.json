@@ -146,9 +146,6 @@
       "name": "Mali"
     },
     {
-      "name": "Moldova"
-    },
-    {
       "name": "Mongolia"
     },
     {
@@ -413,6 +410,10 @@
     },
     {
       "name": "Federated States of Micronesia"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
     },
     {
       "name": "Monaco"

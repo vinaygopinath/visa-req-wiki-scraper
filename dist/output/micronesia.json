@@ -155,9 +155,6 @@
       "name": "Mali"
     },
     {
-      "name": "Moldova"
-    },
-    {
       "name": "Mongolia"
     },
     {
@@ -403,6 +400,10 @@
     {
       "name": "Mexico",
       "note": "180 days"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
     },
     {
       "name": "Monaco"

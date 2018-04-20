@@ -79,9 +79,6 @@
       "name": "Mali"
     },
     {
-      "name": "Moldova"
-    },
-    {
       "name": "Namibia"
     },
     {
@@ -364,6 +361,10 @@
     {
       "name": "Federated States of Micronesia",
       "note": "30 days"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
     },
     {
       "name": "Monaco"
