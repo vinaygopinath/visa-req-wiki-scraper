@@ -1,0 +1,687 @@
+{
+  "required": [
+    {
+      "name": "Afghanistan"
+    },
+    {
+      "name": "Algeria"
+    },
+    {
+      "name": "Angola"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Bahrain"
+    },
+    {
+      "name": "Belize"
+    },
+    {
+      "name": "Bhutan"
+    },
+    {
+      "name": "Botswana"
+    },
+    {
+      "name": "Brunei"
+    },
+    {
+      "name": "Burkina Faso"
+    },
+    {
+      "name": "Burundi"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Central African Republic"
+    },
+    {
+      "name": "Chad"
+    },
+    {
+      "name": "China"
+    },
+    {
+      "name": "Republic of the Congo"
+    },
+    {
+      "name": "Democratic Republic of the Congo"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Cuba"
+    },
+    {
+      "name": "Dominican Republic"
+    },
+    {
+      "name": "El Salvador"
+    },
+    {
+      "name": "Equatorial Guinea"
+    },
+    {
+      "name": "Eritrea"
+    },
+    {
+      "name": "Ethiopia"
+    },
+    {
+      "name": "Fiji"
+    },
+    {
+      "name": "The Gambia"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Guatemala"
+    },
+    {
+      "name": "Guinea"
+    },
+    {
+      "name": "Guyana"
+    },
+    {
+      "name": "Honduras"
+    },
+    {
+      "name": "Iraq"
+    },
+    {
+      "name": "Republic of Ireland"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Kiribati"
+    },
+    {
+      "name": "North Korea"
+    },
+    {
+      "name": "South Korea"
+    },
+    {
+      "name": "Liberia"
+    },
+    {
+      "name": "Libya"
+    },
+    {
+      "name": "Republic of Macedonia"
+    },
+    {
+      "name": "Mali"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Mongolia"
+    },
+    {
+      "name": "Montenegro"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Namibia"
+    },
+    {
+      "name": "Nauru"
+    },
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Niger"
+    },
+    {
+      "name": "Nigeria"
+    },
+    {
+      "name": "Oman"
+    },
+    {
+      "name": "Pakistan"
+    },
+    {
+      "name": "Papua New Guinea"
+    },
+    {
+      "name": "Paraguay"
+    },
+    {
+      "name": "Peru"
+    },
+    {
+      "name": "Philippines"
+    },
+    {
+      "name": "Russia"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Sierra Leone"
+    },
+    {
+      "name": "Solomon Islands"
+    },
+    {
+      "name": "South Africa"
+    },
+    {
+      "name": "South Sudan"
+    },
+    {
+      "name": "Sudan"
+    },
+    {
+      "name": "Suriname"
+    },
+    {
+      "name": "Swaziland"
+    },
+    {
+      "name": "Syria"
+    },
+    {
+      "name": "Tanzania"
+    },
+    {
+      "name": "Thailand"
+    },
+    {
+      "name": "Tonga"
+    },
+    {
+      "name": "Trinidad and Tobago"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "Turkmenistan"
+    },
+    {
+      "name": "United Arab Emirates"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Vanuatu"
+    },
+    {
+      "name": "Venezuela"
+    },
+    {
+      "name": "Vietnam"
+    },
+    {
+      "name": "Yemen"
+    }
+  ],
+  "notRequired": [
+    {
+      "name": "Albania",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Andorra"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "note": "180 days"
+    },
+    {
+      "name": "Argentina",
+      "note": "90 days"
+    },
+    {
+      "name": "Armenia",
+      "note": "180 days"
+    },
+    {
+      "name": "Austria",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Azerbaijan",
+      "note": "90 days"
+    },
+    {
+      "name": "The Bahamas",
+      "note": "90 days"
+    },
+    {
+      "name": "Barbados",
+      "note": "28 days"
+    },
+    {
+      "name": "Belarus",
+      "note": "90 days within any 360 day period"
+    },
+    {
+      "name": "Belgium",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "note": "90 days within any 6 months period"
+    },
+    {
+      "name": "Brazil",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Bulgaria",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Chile",
+      "note": "90 days"
+    },
+    {
+      "name": "Colombia",
+      "note": "90 days"
+    },
+    {
+      "name": "Croatia",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Cyprus",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Czech Republic",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Denmark",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Dominica",
+      "note": "21 days"
+    },
+    {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
+      "name": "Estonia",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Finland",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "France",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Germany",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Greece",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Grenada",
+      "note": "3 months"
+    },
+    {
+      "name": "Haiti",
+      "note": "3 months"
+    },
+    {
+      "name": "Hungary",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Iceland",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Iran",
+      "note": "45 days"
+    },
+    {
+      "name": "Israel",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Italy",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Kazakhstan",
+      "note": "90 days"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "note": "90 days"
+    },
+    {
+      "name": "Latvia",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Liechtenstein",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Lithuania",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Luxembourg",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Malaysia",
+      "note": "30 days"
+    },
+    {
+      "name": "Malta",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Mauritius",
+      "note": "90 days"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Moldova",
+      "note": "90 days"
+    },
+    {
+      "name": "Monaco"
+    },
+    {
+      "name": "Netherlands",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Norway",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Panama",
+      "note": "180 days"
+    },
+    {
+      "name": "Poland",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Portugal",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Romania",
+      "note": "90 days within any 180 day period"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "note": "1 month"
+    },
+    {
+      "name": "San Marino"
+    },
+    {
+      "name": "Serbia",
+      "note": "30 days"
+    },
+    {
+      "name": "Slovakia",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Slovenia",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Spain",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Sweden",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Switzerland",
+      "note": "90 days within any 180 day period in the Schengen Area"
+    },
+    {
+      "name": "Tajikistan",
+      "note": "Unlimited"
+    },
+    {
+      "name": "Turkey",
+      "note": "90 days"
+    },
+    {
+      "name": "Ukraine"
+    },
+    {
+      "name": "Uruguay",
+      "note": "90 days"
+    },
+    {
+      "name": "Uzbekistan",
+      "note": "90 days"
+    },
+    {
+      "name": "Vatican City"
+    },
+    {
+      "name": "Georgia",
+      "note": "home"
+    }
+  ],
+  "evisa": [
+    {
+      "name": "Ivory Coast"
+    },
+    {
+      "name": "Djibouti",
+      "note": "31 days"
+    },
+    {
+      "name": "Gabon"
+    },
+    {
+      "name": "India",
+      "note": "60 days"
+    },
+    {
+      "name": "Lesotho"
+    },
+    {
+      "name": "Myanmar",
+      "note": "28 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis"
+    },
+    {
+      "name": "São Tomé and Príncipe"
+    },
+    {
+      "name": "Singapore"
+    },
+    {
+      "name": "Zimbabwe"
+    }
+  ],
+  "onArrival": [
+    {
+      "name": "Bangladesh",
+      "note": "30 days"
+    },
+    {
+      "name": "Benin",
+      "note": "8 days"
+    },
+    {
+      "name": "Bolivia",
+      "note": "90 days"
+    },
+    {
+      "name": "Cambodia",
+      "note": "30 days"
+    },
+    {
+      "name": "Cape Verde"
+    },
+    {
+      "name": "Comoros"
+    },
+    {
+      "name": "Egypt"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "note": "90 days"
+    },
+    {
+      "name": "Jamaica"
+    },
+    {
+      "name": "Jordan",
+      "note": "3 months"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
+    },
+    {
+      "name": "Kuwait",
+      "note": "3 months"
+    },
+    {
+      "name": "Laos",
+      "note": "30 days"
+    },
+    {
+      "name": "Lebanon",
+      "note": "1 month"
+    },
+    {
+      "name": "Madagascar",
+      "note": "90 days"
+    },
+    {
+      "name": "Malawi"
+    },
+    {
+      "name": "Maldives",
+      "note": "30 days"
+    },
+    {
+      "name": "Marshall Islands",
+      "note": "90 days"
+    },
+    {
+      "name": "Mauritania"
+    },
+    {
+      "name": "Mozambique",
+      "note": "30 days"
+    },
+    {
+      "name": "Nepal",
+      "note": "90 days"
+    },
+    {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
+      "name": "Palau",
+      "note": "30 days"
+    },
+    {
+      "name": "Qatar",
+      "note": "30 days"
+    },
+    {
+      "name": "Rwanda",
+      "note": "30 days"
+    },
+    {
+      "name": "Samoa",
+      "note": "60 days"
+    },
+    {
+      "name": "Seychelles",
+      "note": "3 months"
+    },
+    {
+      "name": "Somalia"
+    },
+    {
+      "name": "Sri Lanka",
+      "note": "30 days"
+    },
+    {
+      "name": "East Timor",
+      "note": "30 days"
+    },
+    {
+      "name": "Togo",
+      "note": "7 days"
+    },
+    {
+      "name": "Tuvalu",
+      "note": "1 month"
+    },
+    {
+      "name": "Uganda"
+    },
+    {
+      "name": "Zambia",
+      "note": "90 days"
+    }
+  ],
+  "refused": [],
+  "unknown": []
+}

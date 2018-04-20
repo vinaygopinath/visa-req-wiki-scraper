@@ -1,4 +1,5 @@
 node_modules
 reference
 dist
+!dist/output
 **/*.js
