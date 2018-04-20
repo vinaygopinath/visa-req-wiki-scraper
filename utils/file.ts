@@ -1,8 +1,8 @@
-import * as Promise from 'bluebird';
+const BluebirdPromise = require('bluebird'); // tslint:disable-line
 import * as path from 'path';
 import { CountryData } from '../models/country-data';
-const writeFileAsync: (countryFilePath: string, countryDataStr: string) => Promise<void> = Promise.promisify(require('fs').writeFile);
-const mkdirAsync: (folderName: string) => Promise<void> = Promise.promisify(require('fs').mkdir);
+const writeFileAsync: (countryFilePath: string, countryDataStr: string) => Promise<void> = BluebirdPromise.promisify(require('fs').writeFile);
+const mkdirAsync: (folderName: string) => Promise<void> = BluebirdPromise.promisify(require('fs').mkdir);
 
 export class FileUtil {
 
