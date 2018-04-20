@@ -1,6 +1,6 @@
-import * as BluebirdPromise from 'bluebird';
+const BluebirdPromise = require('bluebird'); // tslint:disable-line
 const process = require('process');
-const readFile: (filename: string, encoding: string) => BluebirdPromise<string> = BluebirdPromise.promisify(require('fs').readFile);
+const readFile: (filename: string, encoding: string) => Promise<string> = BluebirdPromise.promisify(require('fs').readFile);
 import { CountryInput } from './models/country-input';
 import { CountryOutput } from './models/country-output';
 import { FileUtil } from './utils/file';
