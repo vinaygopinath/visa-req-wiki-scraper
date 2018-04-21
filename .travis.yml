@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "lts/*"
+script:
+  - npm run scrape
+after_success:
+  - .travis/push.sh
