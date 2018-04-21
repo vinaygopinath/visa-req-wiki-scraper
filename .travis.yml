@@ -1,7 +1,10 @@
 language: node_js
 node_js:
   - "lts/*"
+before_script:
+  - npm install -g typescript
+  - tsc
 script:
-  - npm run scrape
+  - node dist/index.js
 after_success:
-  - .travis-push.sh
+  - sh .travis-push.sh
