@@ -4,4 +4,4 @@ node_js:
 script:
   - npm run scrape
 after_success:
-  - .travis/push.sh
+  - .travis-push.sh
