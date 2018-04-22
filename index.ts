@@ -7,11 +7,6 @@ import { FileUtil } from './utils/file';
 import { VisaRequirement, WikiUtil } from './utils/wiki';
 
 /**
- * Enforce a delay (in milliseconds) after a country Wiki page is scraped.
- * This can be used to space apart the requests made to the Wikipedia server.
- */
-const SCRAPE_DELAY = 50;
-/**
  * The number of Electron/Nightmare instances that should
  * run simultaneously. This is equivalent to the number of Wiki pages
  * that are simultaneously scraped.
@@ -56,10 +51,7 @@ const CONCURRENT_SCRAPE_INSTANCES = 5;
     console.info(`TOTAL: ${total}`);
     countryData[WikiUtil.camelCaseVisaRequirement(VisaRequirement.NOT_REQUIRED)].push(new CountryOutput(country.name, null, 'home'));
 
-    return FileUtil.writeToFile(country.name, countryData)
-      .then(
-        () => BluebirdPromise.delay(SCRAPE_DELAY)
-      );
+    return FileUtil.writeToFile(country.name, countryData);
   }, { concurrency: CONCURRENT_SCRAPE_INSTANCES })
     .then(
       () => {

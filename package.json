@@ -6,8 +6,7 @@
   "scripts": {
     "prescrape": "rm -rf dist && tsc",
     "tslint": "tslint -c tslint.json -p tsconfig.json",
-    "scrape": "node dist/index.js",
-    "install": "npm run scrape"
+    "scrape": "node dist/index.js"
   },
   "author": "Vinay Gopinath <vinay@vinaygopinath.me>",
   "license": "MIT",
