@@ -7,9 +7,11 @@ setup_git() {
 }
 
 commit_country_json_files() {
+  git checkout master
   dateAndMonth=`date "+%b %Y"`
+  git status
   git add -f dist/output/*.json
-  git commit --message "Travis build: $dateAndMonth ($TRAVIS_BUILD_NUMBER)"
+  git commit --message "Travis update: $dateAndMonth (Build $TRAVIS_BUILD_NUMBER)"
 }
 
 upload_files() {
@@ -22,5 +24,8 @@ setup_git
 commit_country_json_files
 
 if [ $? -eq 0 ]; then
+  echo "A new commit with changed country JSON files exists. Uploading to GitHub"
   upload_files
+else
+  echo "No changes in country JSON files. Nothing to do"
 fi
