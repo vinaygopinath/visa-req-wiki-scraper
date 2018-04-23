@@ -15,12 +15,5 @@ before_script:
   - tsc
 script:
   - node dist/index.js
-deploy:
-  provider: pages
-  skip-cleanup: true
-  target-branch: master
-  github-token: $GH_TOKEN
-  keep-history: true
-  verbose: true
-  on:
-    branch: master
+after_success:
+  - sh .travis-push.sh

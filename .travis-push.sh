@@ -11,12 +11,13 @@ commit_country_json_files() {
   dateAndMonth=`date "+%b %Y"`
   git status
   git add -f dist/output/*.json
-  git commit --message "Travis update: $dateAndMonth (Build $TRAVIS_BUILD_NUMBER)"
+  git commit -m "Travis update: $dateAndMonth (Build $TRAVIS_BUILD_NUMBER)" -m "[skip ci]"
 }
 
 upload_files() {
-  git remote add origin https://${GH_TOKEN}@github.com/vinaygopinath/visa-req-wiki-scraper.git > /dev/null 2>&1
-  git push --quiet
+  git remote rm origin
+  git remote add origin https://vinaygopinath:${GH_TOKEN}@github.com/vinaygopinath/visa-req-wiki-scraper.git > /dev/null 2>&1
+  git push origin master --quiet
 }
 
 setup_git
