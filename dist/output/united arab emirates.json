@@ -163,7 +163,7 @@
     },
     {
       "name": "Armenia",
-      "note": "180 days within any year period"
+      "note": "180 days"
     },
     {
       "name": "Austria",
@@ -245,7 +245,8 @@
       "note": "21 days"
     },
     {
-      "name": "Dominican Republic"
+      "name": "Dominican Republic",
+      "note": "90 days"
     },
     {
       "name": "Ecuador",
@@ -316,7 +317,8 @@
       "note": "30 days"
     },
     {
-      "name": "Republic of Ireland"
+      "name": "Republic of Ireland",
+      "note": "90 days"
     },
     {
       "name": "Italy",
@@ -394,7 +396,8 @@
       "note": "90 days"
     },
     {
-      "name": "Monaco"
+      "name": "Monaco",
+      "note": "90 days within any 180 day period in the Schengen Area"
     },
     {
       "name": "Montenegro",
@@ -506,7 +509,8 @@
       "note": "90 days within any 180 day period in the Schengen Area"
     },
     {
-      "name": "Sudan"
+      "name": "Sudan",
+      "note": "3 months"
     },
     {
       "name": "Swaziland",
@@ -595,10 +599,12 @@
       "note": "30 days"
     },
     {
-      "name": "Cape Verde"
+      "name": "Cape Verde",
+      "note": "3 months"
     },
     {
-      "name": "Comoros"
+      "name": "Comoros",
+      "note": "45 days"
     },
     {
       "name": "Gabon"
@@ -631,7 +637,8 @@
       "note": "90 days"
     },
     {
-      "name": "Malawi"
+      "name": "Malawi",
+      "note": "30 days"
     },
     {
       "name": "Maldives",
@@ -665,7 +672,8 @@
       "note": "60 days"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka",
@@ -676,7 +684,8 @@
       "note": "45 days"
     },
     {
-      "name": "Tanzania"
+      "name": "Tanzania",
+      "note": "3 months"
     },
     {
       "name": "East Timor",
@@ -695,7 +704,8 @@
       "note": "1 month"
     },
     {
-      "name": "Uganda"
+      "name": "Uganda",
+      "note": "3 months"
     },
     {
       "name": "Yemen",
