@@ -17,7 +17,7 @@ commit_country_json_files() {
 upload_files() {
   git remote rm origin
   git remote add origin https://vinaygopinath:${GH_TOKEN}@github.com/vinaygopinath/visa-req-wiki-scraper.git > /dev/null 2>&1
-  git push origin master --quiet
+  git push origin master --quiet > /dev/null 2>&1
 }
 
 setup_git

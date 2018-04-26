@@ -22,6 +22,9 @@
       "name": "Armenia"
     },
     {
+      "name": "Australia"
+    },
+    {
       "name": "Austria"
     },
     {
@@ -49,9 +52,6 @@
       "name": "Bhutan"
     },
     {
-      "name": "Bolivia"
-    },
-    {
       "name": "Bosnia and Herzegovina"
     },
     {
@@ -65,6 +65,9 @@
     },
     {
       "name": "Bulgaria"
+    },
+    {
+      "name": "Burkina Faso"
     },
     {
       "name": "Burundi"
@@ -118,9 +121,6 @@
       "name": "Dominican Republic"
     },
     {
-      "name": "Ecuador"
-    },
-    {
       "name": "Egypt"
     },
     {
@@ -157,6 +157,9 @@
       "name": "Germany"
     },
     {
+      "name": "Ghana"
+    },
+    {
       "name": "Greece"
     },
     {
@@ -181,15 +184,6 @@
       "name": "Iceland"
     },
     {
-      "name": "India"
-    },
-    {
-      "name": "Indonesia"
-    },
-    {
-      "name": "Iran"
-    },
-    {
       "name": "Iraq"
     },
     {
@@ -206,9 +200,6 @@
     },
     {
       "name": "Japan"
-    },
-    {
-      "name": "Jordan"
     },
     {
       "name": "Kazakhstan"
@@ -232,9 +223,6 @@
       "name": "Latvia"
     },
     {
-      "name": "Lebanon"
-    },
-    {
       "name": "Liberia"
     },
     {
@@ -254,9 +242,6 @@
     },
     {
       "name": "Malawi"
-    },
-    {
-      "name": "Mali"
     },
     {
       "name": "Malta"
@@ -301,13 +286,10 @@
       "name": "Netherlands"
     },
     {
-      "name": "Nicaragua"
+      "name": "New Zealand"
     },
     {
       "name": "Niger"
-    },
-    {
-      "name": "Nigeria"
     },
     {
       "name": "Norway"
@@ -346,9 +328,6 @@
       "name": "Russia"
     },
     {
-      "name": "Saint Lucia"
-    },
-    {
       "name": "San Marino"
     },
     {
@@ -362,9 +341,6 @@
     },
     {
       "name": "Sierra Leone"
-    },
-    {
-      "name": "Singapore"
     },
     {
       "name": "Slovakia"
@@ -389,9 +365,6 @@
     },
     {
       "name": "Suriname"
-    },
-    {
-      "name": "Swaziland"
     },
     {
       "name": "Sweden"
@@ -451,9 +424,6 @@
       "name": "Vatican City"
     },
     {
-      "name": "Venezuela"
-    },
-    {
       "name": "Vietnam"
     },
     {
@@ -462,7 +432,7 @@
   ],
   "notRequired": [
     {
-      "name": "Benin",
+      "name": "Bolivia",
       "note": "90 days"
     },
     {
@@ -470,8 +440,23 @@
       "note": "21 days"
     },
     {
+      "name": "Ecuador",
+      "note": "90 days"
+    },
+    {
       "name": "Haiti",
       "note": "3 months"
+    },
+    {
+      "name": "Indonesia",
+      "note": "30 days"
+    },
+    {
+      "name": "Iran",
+      "note": "30 days"
+    },
+    {
+      "name": "Jordan"
     },
     {
       "name": "Malaysia",
@@ -482,11 +467,27 @@
       "note": "30 days"
     },
     {
+      "name": "Nicaragua",
+      "note": "90 days"
+    },
+    {
       "name": "Saint Vincent and the Grenadines",
       "note": "1 month"
     },
     {
-      "name": "Somalia",
+      "name": "Singapore",
+      "note": "30 days"
+    },
+    {
+      "name": "Swaziland",
+      "note": "30 days"
+    },
+    {
+      "name": "Venezuela",
+      "note": "90 days"
+    },
+    {
+      "name": "Palestine",
       "note": "home"
     }
   ],
@@ -495,20 +496,26 @@
       "name": "Antigua and Barbuda"
     },
     {
+      "name": "Benin"
+    },
+    {
       "name": "Ivory Coast"
     },
     {
-      "name": "Djibouti",
-      "note": "31 days"
+      "name": "Gabon"
     },
     {
-      "name": "Gabon"
+      "name": "India",
+      "note": "60 days"
     },
     {
       "name": "Kyrgyzstan"
     },
     {
       "name": "Lesotho"
+    },
+    {
+      "name": "Nigeria"
     },
     {
       "name": "Qatar"
@@ -520,19 +527,16 @@
       "name": "São Tomé and Príncipe"
     },
     {
-      "name": "Zambia"
+      "name": "Sri Lanka"
     },
     {
-      "name": "Zimbabwe"
+      "name": "Zambia"
     }
   ],
   "onArrival": [
     {
-      "name": "Bangladesh"
-    },
-    {
-      "name": "Burkina Faso",
-      "note": "1 month"
+      "name": "Bangladesh",
+      "note": "30 days"
     },
     {
       "name": "Cambodia",
@@ -542,11 +546,11 @@
       "name": "Cape Verde"
     },
     {
-      "name": "Comoros"
+      "name": "Comoros",
+      "note": "45 days"
     },
     {
-      "name": "Ghana",
-      "note": "30 days"
+      "name": "Djibouti"
     },
     {
       "name": "Guinea-Bissau",
@@ -555,10 +559,6 @@
     {
       "name": "Laos",
       "note": "30 days"
-    },
-    {
-      "name": "Madagascar",
-      "note": "90 days"
     },
     {
       "name": "Maldives",
@@ -576,8 +576,11 @@
       "note": "30 days"
     },
     {
-      "name": "Rwanda",
-      "note": "30 days"
+      "name": "Rwanda"
+    },
+    {
+      "name": "Saint Lucia",
+      "note": "6 weeks"
     },
     {
       "name": "Samoa",
@@ -588,16 +591,14 @@
       "note": "3 months"
     },
     {
-      "name": "Sri Lanka",
-      "note": "30 days"
+      "name": "Somalia"
     },
     {
       "name": "East Timor",
       "note": "30 days"
     },
     {
-      "name": "Togo",
-      "note": "7 days"
+      "name": "Togo"
     },
     {
       "name": "Tuvalu",
@@ -605,14 +606,17 @@
     },
     {
       "name": "Uganda"
+    },
+    {
+      "name": "Zimbabwe"
     }
   ],
   "refused": [
     {
-      "name": "Australia"
+      "name": "Lebanon"
     },
     {
-      "name": "New Zealand"
+      "name": "Madagascar"
     }
   ],
   "unknown": []
