@@ -353,82 +353,6 @@
     },
     {
       "name": "South Korea"
-    },
-    {
-      "name": "South Sudan"
-    },
-    {
-      "name": "Spain"
-    },
-    {
-      "name": "Sudan"
-    },
-    {
-      "name": "Suriname"
-    },
-    {
-      "name": "Swaziland"
-    },
-    {
-      "name": "Sweden"
-    },
-    {
-      "name": "Switzerland"
-    },
-    {
-      "name": "Syria"
-    },
-    {
-      "name": "Tanzania",
-      "note": "\n\nNegotiations to abolish visa requirements are currently in progress\n\n"
-    },
-    {
-      "name": "Thailand"
-    },
-    {
-      "name": "Tonga"
-    },
-    {
-      "name": "Trinidad and Tobago"
-    },
-    {
-      "name": "Tunisia"
-    },
-    {
-      "name": "Turkmenistan"
-    },
-    {
-      "name": "Ukraine"
-    },
-    {
-      "name": "United Arab Emirates"
-    },
-    {
-      "name": "United Kingdom"
-    },
-    {
-      "name": "United States"
-    },
-    {
-      "name": "Uruguay"
-    },
-    {
-      "name": "Uzbekistan"
-    },
-    {
-      "name": "Vanuatu"
-    },
-    {
-      "name": "Vatican City"
-    },
-    {
-      "name": "Venezuela"
-    },
-    {
-      "name": "Vietnam"
-    },
-    {
-      "name": "Yemen"
     }
   ],
   "notRequired": [
@@ -467,10 +391,6 @@
     {
       "name": "Federated States of Micronesia",
       "note": "30 days"
-    },
-    {
-      "name": "Turkey",
-      "note": "90 days within 180 days"
     },
     {
       "name": "Lebanon",
@@ -514,12 +434,6 @@
     },
     {
       "name": "São Tomé and Príncipe"
-    },
-    {
-      "name": "Zambia"
-    },
-    {
-      "name": "Zimbabwe"
     }
   ],
   "onArrival": [
@@ -602,30 +516,6 @@
     {
       "name": "Somalia",
       "note": "30 days"
-    },
-    {
-      "name": "Sri Lanka",
-      "note": "30 days"
-    },
-    {
-      "name": "Tajikistan",
-      "note": "45 days within 90 days"
-    },
-    {
-      "name": "East Timor",
-      "note": "30 days"
-    },
-    {
-      "name": "Togo",
-      "note": "7 days"
-    },
-    {
-      "name": "Tuvalu",
-      "note": "1 month"
-    },
-    {
-      "name": "Uganda",
-      "note": "3 months or 6 months"
     }
   ],
   "refused": [],
