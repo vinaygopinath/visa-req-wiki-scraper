@@ -28,9 +28,6 @@
       "name": "Austria"
     },
     {
-      "name": "Azerbaijan"
-    },
-    {
       "name": "The Bahamas"
     },
     {
@@ -484,6 +481,9 @@
   "evisa": [
     {
       "name": "Antigua and Barbuda"
+    },
+    {
+      "name": "Azerbaijan"
     },
     {
       "name": "Gabon"

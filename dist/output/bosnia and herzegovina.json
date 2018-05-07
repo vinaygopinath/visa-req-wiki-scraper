@@ -52,9 +52,6 @@
       "name": "Chad"
     },
     {
-      "name": "China"
-    },
-    {
       "name": "Republic of the Congo"
     },
     {
@@ -285,6 +282,10 @@
     },
     {
       "name": "Chile",
+      "note": "90 days"
+    },
+    {
+      "name": "China",
       "note": "90 days"
     },
     {

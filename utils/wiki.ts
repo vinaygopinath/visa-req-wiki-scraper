@@ -154,11 +154,15 @@ export class WikiUtil {
             if (rawCountry.note) {
               countryOutput.note = WikiUtil.removeBrackets(rawCountry.note);
             }
-            const visaRequirement = WikiUtil.getVisaRequirement(rawCountry.visa);
-            if (visaRequirement === VisaRequirement.UNKNOWN) {
-              countryOutput.visa = rawCountry.visa;
+            try {
+              const visaRequirement = WikiUtil.getVisaRequirement(rawCountry.visa);
+              if (visaRequirement === VisaRequirement.UNKNOWN) {
+                countryOutput.visa = rawCountry.visa;
+              }
+              countryData[WikiUtil.camelCaseVisaRequirement(visaRequirement)].push(countryOutput);
+            } catch (err) {
+              console.warn(`Invalid visa requirement for ${rawCountry.name}: "${rawCountry.visa}"`);
             }
-            countryData[WikiUtil.camelCaseVisaRequirement(visaRequirement)].push(countryOutput);
             resolve(countryData);
           }
         }, (err: Error) => {

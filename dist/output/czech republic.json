@@ -425,6 +425,10 @@
       "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
+      "name": "Qatar",
+      "note": "90 days"
+    },
+    {
       "name": "Romania",
       "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
@@ -700,10 +704,6 @@
     {
       "name": "Papua New Guinea",
       "note": "60 days"
-    },
-    {
-      "name": "Qatar",
-      "note": "90 days"
     },
     {
       "name": "Rwanda",

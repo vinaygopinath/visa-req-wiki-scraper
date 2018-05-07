@@ -196,6 +196,9 @@
       "name": "Jamaica"
     },
     {
+      "name": "Japan"
+    },
+    {
       "name": "Kazakhstan"
     },
     {
@@ -616,10 +619,6 @@
       "name": "Uganda"
     }
   ],
-  "refused": [
-    {
-      "name": "Japan"
-    }
-  ],
+  "refused": [],
   "unknown": []
 }

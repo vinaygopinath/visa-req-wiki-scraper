@@ -292,9 +292,6 @@
       "name": "Norway"
     },
     {
-      "name": "Oman"
-    },
-    {
       "name": "Pakistan"
     },
     {
@@ -498,6 +495,10 @@
     },
     {
       "name": "Nigeria"
+    },
+    {
+      "name": "Oman",
+      "note": "30 days"
     },
     {
       "name": "Qatar"

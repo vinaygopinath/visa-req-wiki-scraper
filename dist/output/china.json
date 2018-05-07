@@ -31,9 +31,6 @@
       "name": "Bhutan"
     },
     {
-      "name": "Bosnia and Herzegovina"
-    },
-    {
       "name": "Botswana"
     },
     {
@@ -232,9 +229,6 @@
       "name": "Norway"
     },
     {
-      "name": "Oman"
-    },
-    {
       "name": "Pakistan"
     },
     {
@@ -361,6 +355,10 @@
       "note": "30 days"
     },
     {
+      "name": "Bosnia and Herzegovina",
+      "note": "90 days"
+    },
+    {
       "name": "Dominica",
       "note": "21 days"
     },
@@ -406,6 +404,10 @@
     {
       "name": "Morocco",
       "note": "90 days"
+    },
+    {
+      "name": "Qatar",
+      "note": "30 days"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -480,6 +482,10 @@
     {
       "name": "Myanmar",
       "note": "28 days"
+    },
+    {
+      "name": "Oman",
+      "note": "30 days"
     },
     {
       "name": "Singapore"
@@ -591,10 +597,6 @@
     },
     {
       "name": "Palau",
-      "note": "30 days"
-    },
-    {
-      "name": "Qatar",
       "note": "30 days"
     },
     {

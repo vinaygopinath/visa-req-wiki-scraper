@@ -128,6 +128,10 @@
     "demonym": "Cape_Verdean"
   },
   {
+    "name": "Central African Republic",
+    "demonym": "Central_African_Republic"
+  },
+  {
     "name": "Chad",
     "demonym": "Chadian"
   },
@@ -208,6 +212,10 @@
     "demonym": "El_Salvador"
   },
   {
+    "name": "Equatorial Guinea",
+    "demonym": "Equatorial_Guinean"
+  },
+  {
     "name": "Eritrea",
     "demonym": "Eritrean"
   },
@@ -266,6 +274,10 @@
   {
     "name": "Guinea",
     "demonym": "Guinean"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "demonym": "Guinea-Bissauan"
   },
   {
     "name": "Guyana",
@@ -586,6 +598,10 @@
   {
     "name": "San Marino",
     "demonym": "San_Marino"
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "demonym": "Santomean"
   },
   {
     "name": "Saudi Arabia",
