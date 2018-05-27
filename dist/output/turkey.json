@@ -297,7 +297,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within any 6-month period"
+      "note": "90 days"
     },
     {
       "name": "Botswana",
@@ -501,7 +501,7 @@
     },
     {
       "name": "Ukraine",
-      "note": "90 days within any 180-day period"
+      "note": "90 days"
     },
     {
       "name": "Uruguay",
@@ -567,7 +567,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Cambodia",
@@ -640,7 +640,8 @@
       "note": "3 months"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka",

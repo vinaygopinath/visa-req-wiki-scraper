@@ -10,6 +10,10 @@
       "name": "Andorra"
     },
     {
+      "name": "Angola",
+      "note": "30 days"
+    },
+    {
       "name": "Australia"
     },
     {
@@ -526,10 +530,6 @@
   ],
   "evisa": [
     {
-      "name": "Angola",
-      "note": "30 days"
-    },
-    {
       "name": "Ivory Coast",
       "note": "3 months"
     },
@@ -553,7 +553,8 @@
       "note": "28 days"
     },
     {
-      "name": "Oman"
+      "name": "Oman",
+      "note": "30 days"
     },
     {
       "name": "Singapore"
@@ -570,7 +571,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Cambodia",

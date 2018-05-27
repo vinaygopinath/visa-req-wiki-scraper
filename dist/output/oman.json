@@ -353,7 +353,8 @@
       "note": "3 months"
     },
     {
-      "name": "Bahrain"
+      "name": "Bahrain",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Belarus",
@@ -361,7 +362,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Botswana",
@@ -404,7 +405,8 @@
       "note": "30 days"
     },
     {
-      "name": "Kuwait"
+      "name": "Kuwait",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Lebanon",
@@ -435,18 +437,20 @@
       "note": "30 days"
     },
     {
-      "name": "Qatar"
+      "name": "Qatar",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Saint Vincent and the Grenadines",
       "note": "1 month"
     },
     {
-      "name": "Saudi Arabia"
+      "name": "Saudi Arabia",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Serbia",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Singapore",
@@ -461,7 +465,8 @@
       "note": "3 months"
     },
     {
-      "name": "United Arab Emirates"
+      "name": "United Arab Emirates",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Vanuatu",
@@ -519,7 +524,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",

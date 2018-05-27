@@ -456,7 +456,7 @@
     },
     {
       "name": "Russia",
-      "note": "90 days within any 180-day period"
+      "note": "90 days"
     },
     {
       "name": "Saint Kitts and Nevis"
@@ -543,7 +543,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",
@@ -625,7 +625,8 @@
       "name": "Solomon Islands"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka"

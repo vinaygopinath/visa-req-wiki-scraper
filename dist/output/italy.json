@@ -77,8 +77,7 @@
       "name": "Pakistan"
     },
     {
-      "name": "Russia",
-      "note": "72-hours visa free visit when entering by regular ferry via port of St. Petersburg, provided that a passenger spends the night on-board or in accommodation specifically approved by the travel agency."
+      "name": "Russia"
     },
     {
       "name": "Saudi Arabia"
@@ -126,7 +125,8 @@
       "note": "180 days"
     },
     {
-      "name": "Austria"
+      "name": "Austria",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "The Bahamas",
@@ -141,7 +141,8 @@
       "note": "5 days"
     },
     {
-      "name": "Belgium"
+      "name": "Belgium",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Belize",
@@ -153,7 +154,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Botswana",
@@ -161,14 +162,15 @@
     },
     {
       "name": "Brazil",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Brunei",
       "note": "90 days"
     },
     {
-      "name": "Bulgaria"
+      "name": "Bulgaria",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Canada",
@@ -187,20 +189,24 @@
       "note": "90 days"
     },
     {
-      "name": "Croatia"
+      "name": "Croatia",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Cyprus"
+      "name": "Cyprus",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Czech Republic"
+      "name": "Czech Republic",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Denmark"
+      "name": "Denmark",
+      "note": "\n\nFreedom of movement (DK)\nID card valid\n\n"
     },
     {
       "name": "Dominica",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Dominican Republic",
@@ -215,17 +221,20 @@
       "note": "3 months"
     },
     {
-      "name": "Estonia"
+      "name": "Estonia",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Fiji",
       "note": "4 months"
     },
     {
-      "name": "Finland"
+      "name": "Finland",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "France"
+      "name": "France",
+      "note": "\n\nFreedom of movement (in Regions of France)\nID card valid\n\n"
     },
     {
       "name": "The Gambia",
@@ -236,10 +245,12 @@
       "note": "1 year"
     },
     {
-      "name": "Germany"
+      "name": "Germany",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Greece"
+      "name": "Greece",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Grenada",
@@ -262,17 +273,20 @@
       "note": "3 months"
     },
     {
-      "name": "Hungary"
+      "name": "Hungary",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Iceland"
+      "name": "Iceland",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Indonesia",
       "note": "30 days"
     },
     {
-      "name": "Republic of Ireland"
+      "name": "Republic of Ireland",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Israel",
@@ -292,7 +306,7 @@
     },
     {
       "name": "Kiribati",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "South Korea",
@@ -303,19 +317,23 @@
       "note": "60 days"
     },
     {
-      "name": "Latvia"
+      "name": "Latvia",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Lesotho"
     },
     {
-      "name": "Liechtenstein"
+      "name": "Liechtenstein",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Lithuania"
+      "name": "Lithuania",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Luxembourg"
+      "name": "Luxembourg",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Republic of Macedonia",
@@ -326,11 +344,12 @@
       "note": "3 months"
     },
     {
-      "name": "Malta"
+      "name": "Malta",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Marshall Islands",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Mauritius",
@@ -342,11 +361,11 @@
     },
     {
       "name": "Federated States of Micronesia",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Moldova",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Monaco"
@@ -361,10 +380,11 @@
     },
     {
       "name": "Namibia",
-      "note": "3 months within a calendar year"
+      "note": "3 months"
     },
     {
-      "name": "Netherlands"
+      "name": "Netherlands",
+      "note": "\n\nFreedom of movement (European Netherlands)\nID card valid\n\n"
     },
     {
       "name": "New Zealand",
@@ -375,11 +395,12 @@
       "note": "90 days"
     },
     {
-      "name": "Norway"
+      "name": "Norway",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Palau",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Panama",
@@ -391,20 +412,23 @@
     },
     {
       "name": "Peru",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Philippines",
       "note": "30 days"
     },
     {
-      "name": "Poland"
+      "name": "Poland",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Portugal"
+      "name": "Portugal",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Romania"
+      "name": "Romania",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -412,15 +436,15 @@
     },
     {
       "name": "Saint Lucia",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Saint Vincent and the Grenadines",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Samoa",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "San Marino"
@@ -434,8 +458,7 @@
       "note": "90 days"
     },
     {
-      "name": "Serbia",
-      "note": "90 days within any 6 month period"
+      "name": "Serbia"
     },
     {
       "name": "Seychelles",
@@ -446,31 +469,36 @@
       "note": "90 days"
     },
     {
-      "name": "Slovakia"
+      "name": "Slovakia",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Slovenia"
+      "name": "Slovenia",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Solomon Islands",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "South Africa",
       "note": "90 days"
     },
     {
-      "name": "Spain"
+      "name": "Spain",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Swaziland",
       "note": "30 days"
     },
     {
-      "name": "Sweden"
+      "name": "Sweden",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
-      "name": "Switzerland"
+      "name": "Switzerland",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Thailand",
@@ -478,15 +506,15 @@
     },
     {
       "name": "East Timor",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Tonga",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Trinidad and Tobago",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Tunisia",
@@ -498,18 +526,19 @@
     },
     {
       "name": "Tuvalu",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Ukraine",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "United Arab Emirates",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
-      "name": "United Kingdom"
+      "name": "United Kingdom",
+      "note": "\n\nFreedom of movement (in Constituent countries)\nID card valid\n\n"
     },
     {
       "name": "United States",
@@ -521,7 +550,7 @@
     },
     {
       "name": "Vanuatu",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Vatican City"
@@ -584,7 +613,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Burkina Faso",

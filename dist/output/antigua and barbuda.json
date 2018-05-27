@@ -558,9 +558,6 @@
       "note": "14 days"
     },
     {
-      "name": "Benin"
-    },
-    {
       "name": "Ivory Coast",
       "note": "3 months"
     },
@@ -608,6 +605,10 @@
     },
     {
       "name": "Bangladesh"
+    },
+    {
+      "name": "Benin",
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",

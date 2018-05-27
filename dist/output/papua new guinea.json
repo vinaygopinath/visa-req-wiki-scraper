@@ -419,7 +419,7 @@
     },
     {
       "name": "Israel",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Jamaica"
@@ -527,7 +527,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",
@@ -609,7 +609,8 @@
       "name": "Solomon Islands"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka"

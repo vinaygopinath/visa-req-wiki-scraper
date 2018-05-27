@@ -321,7 +321,8 @@
       "note": "3 months"
     },
     {
-      "name": "Bahrain"
+      "name": "Bahrain",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Belarus",
@@ -329,7 +330,7 @@
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Botswana",
@@ -419,7 +420,8 @@
       "note": "90 days"
     },
     {
-      "name": "Oman"
+      "name": "Oman",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Panama",
@@ -430,7 +432,8 @@
       "note": "30 days"
     },
     {
-      "name": "Qatar"
+      "name": "Qatar",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -449,11 +452,12 @@
       "note": "15 days"
     },
     {
-      "name": "Saudi Arabia"
+      "name": "Saudi Arabia",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Serbia",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Singapore",
@@ -479,7 +483,8 @@
       "note": "3 months"
     },
     {
-      "name": "United Arab Emirates"
+      "name": "United Arab Emirates",
+      "note": "\n\nFreedom of movement\nID card valid\n\n"
     },
     {
       "name": "Vanuatu",
@@ -528,7 +533,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",

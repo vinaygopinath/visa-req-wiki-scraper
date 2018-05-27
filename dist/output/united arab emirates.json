@@ -136,9 +136,6 @@
       "name": "United States"
     },
     {
-      "name": "Uruguay"
-    },
-    {
       "name": "Uzbekistan"
     },
     {
@@ -167,14 +164,15 @@
     },
     {
       "name": "Austria",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "The Bahamas",
       "note": "3 months"
     },
     {
-      "name": "Bahrain"
+      "name": "Bahrain",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Belarus",
@@ -182,11 +180,11 @@
     },
     {
       "name": "Belgium",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Botswana",
@@ -198,7 +196,7 @@
     },
     {
       "name": "Bulgaria",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Burkina Faso",
@@ -226,19 +224,19 @@
     },
     {
       "name": "Croatia",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Cyprus",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Czech Republic",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Denmark",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Dominica",
@@ -262,7 +260,7 @@
     },
     {
       "name": "Estonia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Fiji",
@@ -270,11 +268,11 @@
     },
     {
       "name": "Finland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "France",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "The Gambia",
@@ -286,11 +284,11 @@
     },
     {
       "name": "Germany",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Greece",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Grenada",
@@ -306,11 +304,11 @@
     },
     {
       "name": "Hungary",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Iceland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Indonesia",
@@ -322,7 +320,7 @@
     },
     {
       "name": "Italy",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Japan",
@@ -341,7 +339,8 @@
       "note": "30 days"
     },
     {
-      "name": "Kuwait"
+      "name": "Kuwait",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Kyrgyzstan",
@@ -349,7 +348,7 @@
     },
     {
       "name": "Latvia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Lebanon",
@@ -357,15 +356,15 @@
     },
     {
       "name": "Liechtenstein",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Lithuania",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Luxembourg",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Republic of Macedonia",
@@ -381,7 +380,7 @@
     },
     {
       "name": "Malta",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Mauritius",
@@ -396,8 +395,7 @@
       "note": "90 days"
     },
     {
-      "name": "Monaco",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "name": "Monaco"
     },
     {
       "name": "Montenegro",
@@ -413,7 +411,7 @@
     },
     {
       "name": "Netherlands",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "New Zealand",
@@ -425,10 +423,11 @@
     },
     {
       "name": "Norway",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
-      "name": "Oman"
+      "name": "Oman",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Panama",
@@ -440,15 +439,15 @@
     },
     {
       "name": "Poland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Portugal",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Romania",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Rwanda",
@@ -474,7 +473,8 @@
       "note": "15 days"
     },
     {
-      "name": "Saudi Arabia"
+      "name": "Saudi Arabia",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Senegal",
@@ -494,11 +494,11 @@
     },
     {
       "name": "Slovakia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Slovenia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Solomon Islands",
@@ -506,7 +506,7 @@
     },
     {
       "name": "Spain",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Sudan",
@@ -518,11 +518,11 @@
     },
     {
       "name": "Sweden",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Switzerland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Thailand",
@@ -535,6 +535,10 @@
     {
       "name": "Ukraine",
       "note": "90 days"
+    },
+    {
+      "name": "Uruguay",
+      "note": "3 months"
     },
     {
       "name": "Vanuatu",
@@ -588,7 +592,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",
@@ -672,8 +676,7 @@
       "note": "60 days"
     },
     {
-      "name": "Somalia",
-      "note": "30 days"
+      "name": "Somalia"
     },
     {
       "name": "Sri Lanka",

@@ -447,6 +447,10 @@
       "note": "30 days"
     },
     {
+      "name": "Qatar",
+      "note": "90 days"
+    },
+    {
       "name": "Singapore",
       "note": "30 days"
     },
@@ -484,9 +488,6 @@
       "name": "Lesotho"
     },
     {
-      "name": "Qatar"
-    },
-    {
       "name": "Tajikistan",
       "note": "45 days"
     },
@@ -508,7 +509,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",

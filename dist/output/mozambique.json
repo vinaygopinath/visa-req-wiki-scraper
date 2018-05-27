@@ -445,10 +445,6 @@
       "note": "180 days"
     },
     {
-      "name": "Kenya",
-      "note": "3 months"
-    },
-    {
       "name": "Lesotho",
       "note": "90 days"
     },
@@ -573,6 +569,10 @@
     {
       "name": "Iran",
       "note": "30 days"
+    },
+    {
+      "name": "Kenya",
+      "note": "3 months"
     },
     {
       "name": "Laos",

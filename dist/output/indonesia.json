@@ -49,9 +49,6 @@
       "name": "Botswana"
     },
     {
-      "name": "Brazil"
-    },
-    {
       "name": "Bulgaria"
     },
     {
@@ -355,6 +352,10 @@
       "note": "5 days"
     },
     {
+      "name": "Brazil",
+      "note": "30 days"
+    },
+    {
       "name": "Brunei",
       "note": "14 days"
     },
@@ -469,12 +470,8 @@
       "note": "30 days"
     },
     {
-      "name": "Antigua and Barbuda",
-      "note": "30 days"
-    },
-    {
       "name": "Bahrain",
-      "note": "14 days"
+      "note": "30 days"
     },
     {
       "name": "Ivory Coast"
@@ -517,6 +514,10 @@
   ],
   "onArrival": [
     {
+      "name": "Antigua and Barbuda",
+      "note": "30 days"
+    },
+    {
       "name": "Armenia",
       "note": "120 days"
     },
@@ -525,7 +526,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Cape Verde"

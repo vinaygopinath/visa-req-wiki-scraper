@@ -524,10 +524,11 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
-      "name": "Bolivia"
+      "name": "Bolivia",
+      "note": "30 days"
     },
     {
       "name": "Cambodia",
@@ -591,7 +592,8 @@
       "note": "3 months"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka",

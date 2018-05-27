@@ -357,7 +357,7 @@
     },
     {
       "name": "Argentina",
-      "note": "90 days within any year period"
+      "note": "90 days"
     },
     {
       "name": "Armenia"
@@ -371,7 +371,7 @@
     },
     {
       "name": "Brazil",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Cuba",
@@ -399,7 +399,7 @@
     },
     {
       "name": "Israel",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Kazakhstan",
@@ -420,7 +420,8 @@
       "note": "30 days"
     },
     {
-      "name": "Moldova"
+      "name": "Moldova",
+      "note": "90 days"
     },
     {
       "name": "Mongolia",
@@ -447,7 +448,8 @@
       "note": "183 days"
     },
     {
-      "name": "Russia"
+      "name": "Russia",
+      "note": "\n\nFreedom of movement\n\n"
     },
     {
       "name": "Saint Vincent and the Grenadines",
@@ -520,7 +522,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",
@@ -613,7 +615,8 @@
       "note": "3 months"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka",

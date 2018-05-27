@@ -215,7 +215,7 @@
     },
     {
       "name": "Denmark",
-      "note": "\n\nFreedom of movement\nID card valid\n\n"
+      "note": "\n\nFreedom of movement (DK)\n\n\nID card valid\n"
     },
     {
       "name": "Dominica",
@@ -247,7 +247,7 @@
     },
     {
       "name": "France",
-      "note": "\n\nFreedom of movement\nID card valid\n\n"
+      "note": "\n\nFreedom of movement (in Regions of France)\nID card valid\n\n"
     },
     {
       "name": "The Gambia",
@@ -386,7 +386,7 @@
     },
     {
       "name": "Netherlands",
-      "note": "\n\nFreedom of movement\nID card valid\n\n"
+      "note": "\n\nFreedom of movement (European Netherlands)\nID card valid\n\n"
     },
     {
       "name": "New Zealand",
@@ -533,7 +533,7 @@
     },
     {
       "name": "United Kingdom",
-      "note": "\n\nFreedom of movement\nID card valid\n\n"
+      "note": "\n\nFreedom of movement (in Constituent countries)\nID card valid\n\n"
     },
     {
       "name": "Uruguay",
@@ -611,7 +611,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia"

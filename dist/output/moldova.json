@@ -175,9 +175,6 @@
       "name": "Philippines"
     },
     {
-      "name": "Saint Kitts and Nevis"
-    },
-    {
       "name": "Saint Lucia"
     },
     {
@@ -256,7 +253,7 @@
   "notRequired": [
     {
       "name": "Albania",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Andorra"
@@ -270,7 +267,7 @@
     },
     {
       "name": "Austria",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Azerbaijan"
@@ -288,34 +285,34 @@
     },
     {
       "name": "Belgium",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Bulgaria",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Chile"
     },
     {
       "name": "Croatia",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Cyprus",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Czech Republic",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Denmark",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Dominica",
@@ -327,15 +324,15 @@
     },
     {
       "name": "Estonia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Finland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "France",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Georgia (country)",
@@ -343,11 +340,11 @@
     },
     {
       "name": "Germany",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Greece",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Haiti",
@@ -355,11 +352,11 @@
     },
     {
       "name": "Hungary",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Iceland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Indonesia",
@@ -371,7 +368,7 @@
     },
     {
       "name": "Italy",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Fiji",
@@ -386,19 +383,19 @@
     },
     {
       "name": "Latvia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Liechtenstein",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Lithuania",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Luxembourg",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Republic of Macedonia",
@@ -410,7 +407,7 @@
     },
     {
       "name": "Malta",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Federated States of Micronesia",
@@ -421,7 +418,7 @@
     },
     {
       "name": "Montenegro",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Namibia",
@@ -429,11 +426,11 @@
     },
     {
       "name": "Netherlands",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Norway",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Panama",
@@ -445,19 +442,23 @@
     },
     {
       "name": "Poland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Portugal",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Romania",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
     },
     {
       "name": "Russia",
-      "note": "90 days within any 180 day period"
+      "note": "90 days"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "note": "90 days"
     },
     {
       "name": "Saint Vincent and the Grenadines",
@@ -468,27 +469,27 @@
     },
     {
       "name": "Serbia",
-      "note": "90 days within any 6 month period"
+      "note": "90 days"
     },
     {
       "name": "Slovakia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Slovenia",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Spain",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Sweden",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Switzerland",
-      "note": "90 days within any 180 day period in the Schengen Area"
+      "note": "90 days"
     },
     {
       "name": "Tajikistan"
@@ -499,7 +500,7 @@
     },
     {
       "name": "Turkey",
-      "note": "90 days "
+      "note": "90 days"
     },
     {
       "name": "Ukraine"
@@ -545,7 +546,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",
@@ -643,7 +644,8 @@
       "note": "3 months"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka",

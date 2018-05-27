@@ -361,7 +361,8 @@
       "note": "90 days"
     },
     {
-      "name": "Bahrain"
+      "name": "Bahrain",
+      "note": "\n\nFreedom of Movement\n\n"
     },
     {
       "name": "Belarus",
@@ -416,7 +417,8 @@
       "note": "30 days"
     },
     {
-      "name": "Kuwait"
+      "name": "Kuwait",
+      "note": "\n\nFreedom of Movement\n\n"
     },
     {
       "name": "Kyrgyzstan",
@@ -451,7 +453,8 @@
       "note": "90 days"
     },
     {
-      "name": "Oman"
+      "name": "Oman",
+      "note": "\n\nFreedom of Movement\n\n"
     },
     {
       "name": "Panama",
@@ -474,7 +477,8 @@
       "note": "90 days"
     },
     {
-      "name": "United Arab Emirates"
+      "name": "United Arab Emirates",
+      "note": "\n\nFreedom of Movement\n\n"
     },
     {
       "name": "Vanuatu",
@@ -522,7 +526,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",

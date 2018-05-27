@@ -417,7 +417,7 @@
     },
     {
       "name": "Republic of Ireland",
-      "note": "30 days within a 90 day period"
+      "note": "30 days"
     },
     {
       "name": "Israel",
@@ -545,7 +545,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Bolivia",
@@ -620,7 +620,8 @@
       "name": "Solomon Islands"
     },
     {
-      "name": "Somalia"
+      "name": "Somalia",
+      "note": "30 days"
     },
     {
       "name": "Sri Lanka"

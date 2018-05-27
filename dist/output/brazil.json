@@ -112,9 +112,6 @@
       "name": "Turkmenistan"
     },
     {
-      "name": "United Arab Emirates"
-    },
-    {
       "name": "United States"
     },
     {
@@ -517,6 +514,10 @@
       "note": "90 days"
     },
     {
+      "name": "United Arab Emirates",
+      "note": "90 days"
+    },
+    {
       "name": "United Kingdom",
       "note": "6 months"
     },
@@ -584,7 +585,7 @@
     },
     {
       "name": "Benin",
-      "note": "8 days"
+      "note": "30 days / 8 days"
     },
     {
       "name": "Burkina Faso",
