@@ -1,579 +1,638 @@
 {
   "required": [
     {
-      "name": "Afghanistan"
+      "name": "Afghanistan",
+      "note": "\n"
     },
     {
-      "name": "Argentina"
+      "name": "Argentina",
+      "note": "\n"
     },
     {
-      "name": "Armenia"
+      "name": "Armenia",
+      "note": "\n"
     },
     {
-      "name": "Australia"
+      "name": "Australia",
+      "note": "\n"
     },
     {
-      "name": "Bhutan"
+      "name": "Bhutan",
+      "note": "\n"
     },
     {
-      "name": "Brunei"
+      "name": "Brunei",
+      "note": "\n"
     },
     {
-      "name": "Burkina Faso"
+      "name": "Burkina Faso",
+      "note": "\n"
     },
     {
-      "name": "Burundi"
+      "name": "Burundi",
+      "note": "\n"
     },
     {
-      "name": "Cameroon"
+      "name": "Cameroon",
+      "note": "\n"
     },
     {
-      "name": "Canada"
+      "name": "Canada",
+      "note": "\n"
     },
     {
-      "name": "Central African Republic"
+      "name": "Central African Republic",
+      "note": "\n"
     },
     {
-      "name": "Chad"
+      "name": "Chad",
+      "note": "\n"
     },
     {
-      "name": "Chile"
+      "name": "Chile",
+      "note": "\n"
     },
     {
-      "name": "Colombia"
+      "name": "Colombia",
+      "note": "\n"
     },
     {
-      "name": "Republic of the Congo"
+      "name": "Republic of the Congo",
+      "note": "\n"
     },
     {
-      "name": "Democratic Republic of the Congo"
+      "name": "Democratic Republic of the Congo",
+      "note": "\n"
     },
     {
-      "name": "Cuba"
+      "name": "Cuba",
+      "note": "\n"
     },
     {
-      "name": "Egypt"
+      "name": "El Salvador",
+      "note": "\n"
     },
     {
-      "name": "El Salvador"
+      "name": "Equatorial Guinea",
+      "note": "\n"
     },
     {
-      "name": "Equatorial Guinea"
+      "name": "Eritrea",
+      "note": "\n"
     },
     {
-      "name": "Eritrea"
+      "name": "Guatemala",
+      "note": "\n"
     },
     {
-      "name": "Ethiopia"
+      "name": "Guinea",
+      "note": "\n"
     },
     {
-      "name": "Guatemala"
+      "name": "Guyana",
+      "note": "\n"
     },
     {
-      "name": "Guinea"
+      "name": "Honduras",
+      "note": "\n"
     },
     {
-      "name": "Guyana"
+      "name": "Iraq",
+      "note": "\n"
     },
     {
-      "name": "Honduras"
+      "name": "Israel",
+      "note": "\n"
     },
     {
-      "name": "Iraq"
+      "name": "Japan",
+      "note": "\n"
     },
     {
-      "name": "Israel"
+      "name": "Kazakhstan",
+      "note": "\n"
     },
     {
-      "name": "Japan"
+      "name": "North Korea",
+      "note": "\n"
     },
     {
-      "name": "Kazakhstan"
+      "name": "Kuwait",
+      "note": "\n"
     },
     {
-      "name": "North Korea"
+      "name": "Lebanon",
+      "note": "\n"
     },
     {
-      "name": "Kuwait"
+      "name": "Liberia",
+      "note": "\n"
     },
     {
-      "name": "Lebanon"
+      "name": "Libya",
+      "note": "\n"
     },
     {
-      "name": "Liberia"
+      "name": "Mali",
+      "note": "\n"
     },
     {
-      "name": "Libya"
+      "name": "Mexico",
+      "note": "\n"
     },
     {
-      "name": "Mali"
+      "name": "Mongolia",
+      "note": "\n"
     },
     {
-      "name": "Mexico"
+      "name": "Morocco",
+      "note": "\n"
     },
     {
-      "name": "Mongolia"
+      "name": "Myanmar",
+      "note": "\n"
     },
     {
-      "name": "Morocco"
+      "name": "Nauru",
+      "note": "\n"
     },
     {
-      "name": "Myanmar"
+      "name": "Niger",
+      "note": "\n"
     },
     {
-      "name": "Nauru"
+      "name": "Pakistan",
+      "note": "\n"
     },
     {
-      "name": "Niger"
+      "name": "Papua New Guinea",
+      "note": "\n"
     },
     {
-      "name": "Pakistan"
+      "name": "Paraguay",
+      "note": "\n"
     },
     {
-      "name": "Papua New Guinea"
+      "name": "Peru",
+      "note": "\n"
     },
     {
-      "name": "Paraguay"
+      "name": "São Tomé and Príncipe",
+      "note": "\n"
     },
     {
-      "name": "Peru"
+      "name": "Saudi Arabia",
+      "note": "\n"
     },
     {
-      "name": "São Tomé and Príncipe"
+      "name": "Sierra Leone",
+      "note": "\n"
     },
     {
-      "name": "Saudi Arabia"
+      "name": "Solomon Islands",
+      "note": "\n"
     },
     {
-      "name": "Sierra Leone"
+      "name": "South Sudan",
+      "note": "\n"
     },
     {
-      "name": "Solomon Islands"
+      "name": "Sudan",
+      "note": "\n"
     },
     {
-      "name": "South Sudan"
+      "name": "Syria",
+      "note": "\n"
     },
     {
-      "name": "Sudan"
+      "name": "Thailand",
+      "note": "\n"
     },
     {
-      "name": "Syria"
+      "name": "Turkmenistan",
+      "note": "\n"
     },
     {
-      "name": "Thailand"
+      "name": "United States",
+      "note": "\n"
     },
     {
-      "name": "Turkmenistan"
+      "name": "Venezuela",
+      "note": "\n"
     },
     {
-      "name": "United States"
+      "name": "Vietnam",
+      "note": "\n"
     },
     {
-      "name": "Uzbekistan"
-    },
-    {
-      "name": "Venezuela"
-    },
-    {
-      "name": "Vietnam"
-    },
-    {
-      "name": "Yemen"
+      "name": "Yemen",
+      "note": "\n"
     }
   ],
   "notRequired": [
     {
       "name": "Albania",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Algeria",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
-      "name": "Andorra"
+      "name": "Andorra",
+      "note": "\n"
     },
     {
       "name": "Angola",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Antigua and Barbuda",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Austria",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "The Bahamas",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Bangladesh",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Barbados",
-      "note": "6 months"
+      "note": "6 months\n"
     },
     {
       "name": "Belarus",
-      "note": "5 days"
+      "note": "30 days\n"
     },
     {
       "name": "Belgium",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
-      "name": "Belize"
+      "name": "Belize",
+      "note": "\n"
     },
     {
       "name": "Benin",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Bosnia and Herzegovina",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Botswana",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Brazil",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Bulgaria",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Cambodia",
-      "note": "14 days"
+      "note": "14 days\n"
     },
     {
       "name": "China",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Costa Rica",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Ivory Coast",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Croatia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Cyprus",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Czech Republic",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Denmark",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Dominica",
-      "note": "6 months"
+      "note": "6 months\n"
     },
     {
       "name": "Dominican Republic",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Ecuador",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Estonia",
-      "note": "3 months"
+      "note": "3 months\n"
+    },
+    {
+      "name": "Eswatini",
+      "note": "30 days\n"
     },
     {
       "name": "Fiji",
-      "note": "4 months"
+      "note": "4 months\n"
     },
     {
       "name": "Finland",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "France",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "The Gambia",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Georgia (country)",
-      "note": "1 year"
+      "note": "1 year\n"
     },
     {
       "name": "Germany",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Greece",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Grenada",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Haiti",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Hong Kong",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Hungary",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Iceland",
-      "note": "3 nonths"
+      "note": "3 months\n"
     },
     {
       "name": "Indonesia",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
-      "name": "Republic of Ireland"
+      "name": "Republic of Ireland",
+      "note": "\n"
     },
     {
       "name": "Italy",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
-      "name": "Jamaica"
+      "name": "Jamaica",
+      "note": "\n"
     },
     {
       "name": "Kenya",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Kiribati",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "South Korea",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Latvia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Lesotho",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Liechtenstein",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Lithuania",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Luxembourg",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Republic of Macedonia",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Malawi",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Malaysia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Malta",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Mauritius",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Federated States of Micronesia",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Moldova",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
-      "name": "Monaco"
+      "name": "Monaco",
+      "note": "\n"
     },
     {
       "name": "Montenegro",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Namibia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Netherlands",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "New Zealand",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Nigeria",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Norway",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Panama",
-      "note": "180 days"
+      "note": "180 days\n"
     },
     {
       "name": "Philippines",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Poland",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Portugal",
-      "note": "3 months"
+      "note": "3 months\n"
+    },
+    {
+      "name": "Qatar",
+      "note": "90 days\n"
     },
     {
       "name": "Romania",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Russia",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Rwanda",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Saint Kitts and Nevis",
-      "note": "6 months"
+      "note": "6 months\n"
     },
     {
       "name": "Saint Vincent and the Grenadines",
-      "note": "1 month"
+      "note": "1 month\n"
     },
     {
-      "name": "San Marino"
+      "name": "San Marino",
+      "note": "\n"
     },
     {
       "name": "Serbia",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Singapore",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Slovakia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Slovenia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "South Africa",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Spain",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Sri Lanka",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Suriname",
-      "note": "90 days"
-    },
-    {
-      "name": "Swaziland",
-      "note": "30 days"
+      "note": "90 days\n"
     },
     {
       "name": "Sweden",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Switzerland",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Tanzania",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Trinidad and Tobago",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Tunisia",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Turkey",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Uganda",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "United Arab Emirates",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "United Kingdom",
-      "note": "6 months"
+      "note": "6 months\n"
     },
     {
       "name": "Uruguay",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Vanuatu",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
-      "name": "Vatican City"
+      "name": "Vatican City",
+      "note": "\n"
     },
     {
       "name": "Zambia",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Zimbabwe",
-      "note": "3 months"
+      "note": "3 months\n"
     },
     {
       "name": "Seychelles",
@@ -583,135 +642,149 @@
   "evisa": [
     {
       "name": "Azerbaijan",
-      "note": "30 days"
+      "note": "30 days\n"
+    },
+    {
+      "name": "Bahrain",
+      "note": "14 days\n"
     },
     {
       "name": "Djibouti",
-      "note": "31 days"
+      "note": "31 days\n"
     },
     {
-      "name": "Gabon"
+      "name": "Gabon",
+      "note": "\n"
     },
     {
       "name": "India",
-      "note": "60 days"
+      "note": "60 days\n"
     },
     {
-      "name": "Kyrgyzstan"
+      "name": "Kyrgyzstan",
+      "note": "\n"
     },
     {
       "name": "Oman",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Tajikistan",
-      "note": "45 days"
+      "note": "45 days\n"
+    },
+    {
+      "name": "Ukraine",
+      "note": "30 days\n"
+    },
+    {
+      "name": "Uzbekistan",
+      "note": "30 days\n"
     }
   ],
   "onArrival": [
     {
-      "name": "Bahrain",
-      "note": "14 days"
-    },
-    {
       "name": "Bolivia",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
-      "name": "Cape Verde"
+      "name": "Cape Verde",
+      "note": "\n"
     },
     {
-      "name": "Comoros"
+      "name": "Comoros",
+      "note": "\n"
+    },
+    {
+      "name": "Egypt",
+      "note": "30 days\n"
+    },
+    {
+      "name": "Ethiopia",
+      "note": "up to 90 days\n"
     },
     {
       "name": "Ghana",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Guinea-Bissau",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Iran",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
-      "name": "Jordan"
+      "name": "Jordan",
+      "note": "\n"
     },
     {
       "name": "Laos",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Madagascar",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Maldives",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Marshall Islands",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
-      "name": "Mauritania"
+      "name": "Mauritania",
+      "note": "\n"
     },
     {
       "name": "Mozambique",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Nepal",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Nicaragua",
-      "note": "90 days"
+      "note": "90 days\n"
     },
     {
       "name": "Palau",
-      "note": "30 days"
-    },
-    {
-      "name": "Qatar",
-      "note": "90 days"
+      "note": "30 days\n"
     },
     {
       "name": "Saint Lucia",
-      "note": "6 weeks"
+      "note": "6 weeks\n"
     },
     {
       "name": "Samoa",
-      "note": "60 days"
+      "note": "60 days\n"
     },
     {
       "name": "Senegal",
-      "note": "3 months"
+      "note": "90 days\n"
     },
     {
       "name": "Somalia",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "East Timor",
-      "note": "30 days"
+      "note": "30 days\n"
     },
     {
       "name": "Togo",
-      "note": "7 days"
+      "note": "7 days\n"
     },
     {
       "name": "Tonga",
-      "note": "31 days"
+      "note": "31 days\n"
     },
     {
       "name": "Tuvalu",
-      "note": "1 month"
-    },
-    {
-      "name": "Ukraine",
-      "note": "15 days"
+      "note": "1 month\n"
     }
   ],
   "refused": [],
