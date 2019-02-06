@@ -13,13 +13,15 @@ export enum VisaRequirement {
 
 export class WikiUtil {
 
-  private static VISA_NOT_REQUIRED = ['visa not required', 'freedom of movement', 'notrequired', 'freedom of movement', 'reciprocity fee', 'visa is not required'];
+  private static VISA_NOT_REQUIRED = ['visa not required', 'freedom of movement', 'notrequired', 'freedom of movement', 'reciprocity fee', 'visa is not required', 'visa waiver program'];
   private static EVISA = ['evisa', 'etourist visa', 'electronic travel', 'evisitor', 'online visitor', 'electronic entry visa', 'electronic visa',
     'electronic visa waiver', 'electronic visitor e600 visa', 'electronic authorization', 'e600visa'];
-  private static VISA_ON_ARRIVAL = ['visa on arrival', 'visitor\'s permit on arrival', 'permit on arrival', 'tourist card on arrival', 'visa is granted on arrival'];
+  private static VISA_ON_ARRIVAL = ['visa on arrival', 'visitor\'s permit on arrival', 'permit on arrival', 'tourist card on arrival', 'visa is granted on arrival',
+  'visitor\'s permit is granted on arrival'];
   private static VISA_REFUSED = ['visa refused', 'admission refused', 'invalid passport', 'travel banned', 'travel restricted'];
   private static VISA_REQUIRED = ['visa required', 'tourist card required', 'visa de facto required', 'with home return permit only', 'admission partially refused / partially allowed',
-    'entry clearance required', 'special authorization required', 'visa is required', 'special provisions', 'visa for italy required', 'disputed', 'travel certificate required'];
+    'entry clearance required', 'special authorization required', 'visa is required', 'special provisions', 'visa for italy required', 'disputed', 'travel certificate required',
+    'particular visit regime'];
 
   // Uncommon terms to be checked when all other matches fail
   // Checking these terms after others reduces the likelihood of false positives
