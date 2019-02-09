@@ -1,6 +1,6 @@
 # Visa Requirements Wikipedia Scraper
 
-Scrapes the visa requirements for citizens of all countries and creates arrays of countries for each visa type. This data is used by Nomad Couple - htttps://nomadcouple.vinaygopinath.me
+Scrapes the visa requirements for citizens of all countries and creates arrays of countries for each visa type. This data is used by Nomad Couple - https://nomadcouple.vinaygopinath.me
 
 ### Visa types
 
