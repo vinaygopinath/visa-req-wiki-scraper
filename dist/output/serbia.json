@@ -253,10 +253,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -439,10 +435,6 @@
       "note": "90 days\n"
     },
     {
-      "name": "Republic of Macedonia",
-      "note": "60 days\n"
-    },
-    {
       "name": "Malta",
       "note": "90 days\n"
     },
@@ -469,6 +461,10 @@
     {
       "name": "Netherlands",
       "note": "90 days\n"
+    },
+    {
+      "name": "North Macedonia",
+      "note": "60 days\n"
     },
     {
       "name": "Norway",
@@ -635,6 +631,10 @@
     {
       "name": "Tajikistan",
       "note": "45 days\n"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days\n"
     }
   ],
   "onArrival": [

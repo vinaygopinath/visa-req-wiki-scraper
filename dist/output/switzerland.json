@@ -137,10 +137,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -391,10 +387,6 @@
       "note": "\nFreedom of movement\n"
     },
     {
-      "name": "Republic of Macedonia",
-      "note": "90 days\n"
-    },
-    {
       "name": "Malaysia",
       "note": "3 months\n"
     },
@@ -444,6 +436,10 @@
     },
     {
       "name": "Nicaragua",
+      "note": "90 days\n"
+    },
+    {
+      "name": "North Macedonia",
       "note": "90 days\n"
     },
     {
@@ -646,6 +642,10 @@
     },
     {
       "name": "Oman",
+      "note": "30 days\n"
+    },
+    {
+      "name": "Vietnam",
       "note": "30 days\n"
     }
   ],

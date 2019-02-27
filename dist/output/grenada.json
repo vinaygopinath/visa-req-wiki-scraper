@@ -241,10 +241,6 @@
       "note": "\n"
     },
     {
-      "name": "United Arab Emirates",
-      "note": "\n"
-    },
-    {
       "name": "United States",
       "note": "\n"
     },
@@ -781,6 +777,10 @@
     {
       "name": "Tuvalu",
       "note": "1 month\n"
+    },
+    {
+      "name": "United Arab Emirates",
+      "note": "90 days\n"
     }
   ],
   "refused": [],

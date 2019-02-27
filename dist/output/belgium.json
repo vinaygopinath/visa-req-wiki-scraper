@@ -133,10 +133,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -651,6 +647,10 @@
     {
       "name": "Turkey",
       "note": "3 months\n"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days\n"
     }
   ],
   "onArrival": [

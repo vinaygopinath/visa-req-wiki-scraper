@@ -13,11 +13,27 @@
       "note": "\n"
     },
     {
+      "name": "Andorra",
+      "note": "\n"
+    },
+    {
+      "name": "Argentina",
+      "note": "\n"
+    },
+    {
+      "name": "Australia",
+      "note": "\n"
+    },
+    {
       "name": "Austria",
       "note": "\n"
     },
     {
       "name": "Belgium",
+      "note": "\n"
+    },
+    {
+      "name": "Belize",
       "note": "\n"
     },
     {
@@ -61,6 +77,14 @@
       "note": "\n"
     },
     {
+      "name": "Chile",
+      "note": "\n"
+    },
+    {
+      "name": "Colombia",
+      "note": "\n"
+    },
+    {
       "name": "Republic of the Congo",
       "note": "\n"
     },
@@ -69,7 +93,19 @@
       "note": "\n"
     },
     {
+      "name": "Costa Rica",
+      "note": "\n"
+    },
+    {
+      "name": "Croatia",
+      "note": "\n"
+    },
+    {
       "name": "Cuba",
+      "note": "\n"
+    },
+    {
+      "name": "Cyprus",
       "note": "\n"
     },
     {
@@ -78,6 +114,14 @@
     },
     {
       "name": "Denmark",
+      "note": "\n"
+    },
+    {
+      "name": "Dominican Republic",
+      "note": "\n"
+    },
+    {
+      "name": "El Salvador",
       "note": "\n"
     },
     {
@@ -113,11 +157,19 @@
       "note": "\n"
     },
     {
+      "name": "Guatemala",
+      "note": "\n"
+    },
+    {
       "name": "Guinea",
       "note": "\n"
     },
     {
       "name": "Guyana",
+      "note": "\n"
+    },
+    {
+      "name": "Honduras",
       "note": "\n"
     },
     {
@@ -133,6 +185,10 @@
       "note": "\n"
     },
     {
+      "name": "Republic of Ireland",
+      "note": "\n"
+    },
+    {
       "name": "Israel",
       "note": "\n"
     },
@@ -141,11 +197,23 @@
       "note": "\n"
     },
     {
+      "name": "Japan",
+      "note": "\n"
+    },
+    {
       "name": "Kazakhstan",
       "note": "\n"
     },
     {
       "name": "Kiribati",
+      "note": "\n"
+    },
+    {
+      "name": "North Korea",
+      "note": "\n"
+    },
+    {
+      "name": "South Korea",
       "note": "\n"
     },
     {
@@ -189,11 +257,19 @@
       "note": "\n"
     },
     {
+      "name": "Mexico",
+      "note": "\n"
+    },
+    {
       "name": "Monaco",
       "note": "\n"
     },
     {
       "name": "Mongolia",
+      "note": "\n"
+    },
+    {
+      "name": "Montenegro",
       "note": "\n"
     },
     {
@@ -209,6 +285,10 @@
       "note": "\n"
     },
     {
+      "name": "New Zealand",
+      "note": "\n"
+    },
+    {
       "name": "Nicaragua",
       "note": "\n"
     },
@@ -217,7 +297,19 @@
       "note": "\n"
     },
     {
+      "name": "North Macedonia",
+      "note": "\n"
+    },
+    {
       "name": "Norway",
+      "note": "\n"
+    },
+    {
+      "name": "Pakistan",
+      "note": "\n"
+    },
+    {
+      "name": "Panama",
       "note": "\n"
     },
     {
@@ -229,11 +321,27 @@
       "note": "\n"
     },
     {
+      "name": "Peru",
+      "note": "\n"
+    },
+    {
+      "name": "Philippines",
+      "note": "\n"
+    },
+    {
       "name": "Poland",
       "note": "\n"
     },
     {
       "name": "Portugal",
+      "note": "\n"
+    },
+    {
+      "name": "Romania",
+      "note": "\n"
+    },
+    {
+      "name": "Russia",
       "note": "\n"
     },
     {
@@ -297,11 +405,27 @@
       "note": "\n"
     },
     {
+      "name": "United Kingdom",
+      "note": "\n"
+    },
+    {
       "name": "United States",
       "note": "\n"
     },
     {
+      "name": "Uruguay",
+      "note": "\n"
+    },
+    {
+      "name": "Vatican City",
+      "note": "\n"
+    },
+    {
       "name": "Venezuela",
+      "note": "\n"
+    },
+    {
+      "name": "Vietnam",
       "note": "\n"
     },
     {
@@ -310,10 +434,6 @@
     }
   ],
   "notRequired": [
-    {
-      "name": "Andorra",
-      "note": "\n"
-    },
     {
       "name": "Antigua and Barbuda",
       "note": "30 days\n"
@@ -331,48 +451,16 @@
       "note": "30 days\n"
     },
     {
-      "name": "Belize",
-      "note": "\n"
-    },
-    {
       "name": "Bosnia and Herzegovina",
       "note": "90 days\n"
-    },
-    {
-      "name": "Chile",
-      "note": "\n"
-    },
-    {
-      "name": "Colombia",
-      "note": "\n"
-    },
-    {
-      "name": "Costa Rica",
-      "note": "\n"
-    },
-    {
-      "name": "Croatia",
-      "note": "\n"
-    },
-    {
-      "name": "Cyprus",
-      "note": "\n"
     },
     {
       "name": "Dominica",
       "note": "21 days\n"
     },
     {
-      "name": "Dominican Republic",
-      "note": "\n"
-    },
-    {
       "name": "Ecuador",
       "note": "90 days\n"
-    },
-    {
-      "name": "El Salvador",
-      "note": "\n"
     },
     {
       "name": "Equatorial Guinea",
@@ -391,92 +479,32 @@
       "note": "30 days\n"
     },
     {
-      "name": "Guatemala",
-      "note": "\n"
-    },
-    {
       "name": "Haiti",
       "note": "3 months\n"
-    },
-    {
-      "name": "Honduras",
-      "note": "\n"
     },
     {
       "name": "Indonesia",
       "note": "30 days\n"
     },
     {
-      "name": "Republic of Ireland",
-      "note": "\n"
-    },
-    {
       "name": "Jamaica",
       "note": "30 days\n"
-    },
-    {
-      "name": "Japan",
-      "note": "\n"
-    },
-    {
-      "name": "North Korea",
-      "note": "\n"
-    },
-    {
-      "name": "South Korea",
-      "note": "\n"
-    },
-    {
-      "name": "Republic of Macedonia",
-      "note": "\n"
     },
     {
       "name": "Mauritius",
       "note": "90 days\n"
     },
     {
-      "name": "Mexico",
-      "note": "\n"
-    },
-    {
       "name": "Federated States of Micronesia",
       "note": "30 days\n"
-    },
-    {
-      "name": "Montenegro",
-      "note": "\n"
     },
     {
       "name": "Morocco",
       "note": "90 days\n"
     },
     {
-      "name": "Pakistan",
-      "note": "\n"
-    },
-    {
-      "name": "Panama",
-      "note": "\n"
-    },
-    {
-      "name": "Peru",
-      "note": "\n"
-    },
-    {
-      "name": "Philippines",
-      "note": "\n"
-    },
-    {
       "name": "Qatar",
       "note": "30 days\n"
-    },
-    {
-      "name": "Romania",
-      "note": "\n"
-    },
-    {
-      "name": "Russia",
-      "note": "\n"
     },
     {
       "name": "Saint Kitts and Nevis",
@@ -511,20 +539,8 @@
       "note": "30 days\n"
     },
     {
-      "name": "United Kingdom",
-      "note": "\n"
-    },
-    {
-      "name": "Uruguay",
-      "note": "\n"
-    },
-    {
       "name": "Vanuatu",
       "note": "30 days\n"
-    },
-    {
-      "name": "Vatican City",
-      "note": "\n"
     },
     {
       "name": "China",
@@ -535,14 +551,6 @@
     {
       "name": "Angola",
       "note": "30 days\n"
-    },
-    {
-      "name": "Argentina",
-      "note": "\n"
-    },
-    {
-      "name": "Australia",
-      "note": "\n"
     },
     {
       "name": "Ivory Coast",
@@ -574,10 +582,6 @@
     },
     {
       "name": "Moldova",
-      "note": "\n"
-    },
-    {
-      "name": "New Zealand",
       "note": "\n"
     },
     {
@@ -772,10 +776,6 @@
     },
     {
       "name": "Uganda",
-      "note": "\n"
-    },
-    {
-      "name": "Vietnam",
       "note": "\n"
     },
     {

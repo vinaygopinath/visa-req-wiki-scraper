@@ -153,10 +153,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -627,6 +623,10 @@
     {
       "name": "Tajikistan",
       "note": "45 days\n"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days\n"
     }
   ],
   "onArrival": [

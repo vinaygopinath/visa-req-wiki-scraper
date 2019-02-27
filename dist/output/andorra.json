@@ -193,10 +193,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -257,6 +253,10 @@
     {
       "name": "Canada",
       "note": "6 months\n"
+    },
+    {
+      "name": "Cape Verde",
+      "note": "30 days\n"
     },
     {
       "name": "Chile",
@@ -399,10 +399,6 @@
       "note": "90 days\n"
     },
     {
-      "name": "Republic of Macedonia",
-      "note": "90 days\n"
-    },
-    {
       "name": "Malaysia",
       "note": "30 days\n"
     },
@@ -452,6 +448,10 @@
     },
     {
       "name": "Norway",
+      "note": "90 days\n"
+    },
+    {
+      "name": "North Macedonia",
       "note": "90 days\n"
     },
     {
@@ -611,6 +611,10 @@
     {
       "name": "Saint Kitts and Nevis",
       "note": "\n"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days\n"
     }
   ],
   "onArrival": [
@@ -629,10 +633,6 @@
     {
       "name": "Cambodia",
       "note": "30 days\n"
-    },
-    {
-      "name": "Cape Verde",
-      "note": "\n"
     },
     {
       "name": "Comoros",

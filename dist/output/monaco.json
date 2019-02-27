@@ -165,10 +165,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -237,6 +233,10 @@
     {
       "name": "Canada",
       "note": "6 months\n"
+    },
+    {
+      "name": "Cape Verde",
+      "note": "30 days\n"
     },
     {
       "name": "Chile",
@@ -627,6 +627,10 @@
     {
       "name": "Oman",
       "note": "30 days\n"
+    },
+    {
+      "name": "Vietnam",
+      "note": "30 days\n"
     }
   ],
   "onArrival": [
@@ -645,10 +649,6 @@
     {
       "name": "Cambodia",
       "note": "30 days\n"
-    },
-    {
-      "name": "Cape Verde",
-      "note": "\n"
     },
     {
       "name": "Comoros",

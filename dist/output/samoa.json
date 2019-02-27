@@ -141,6 +141,10 @@
       "note": "\n"
     },
     {
+      "name": "Israel",
+      "note": "\n"
+    },
+    {
       "name": "Japan",
       "note": "\n"
     },
@@ -281,10 +285,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -420,10 +420,6 @@
     },
     {
       "name": "Republic of Ireland",
-      "note": "\n"
-    },
-    {
-      "name": "Israel",
       "note": "\n"
     },
     {
@@ -642,6 +638,10 @@
     },
     {
       "name": "Uzbekistan",
+      "note": "30 days\n"
+    },
+    {
+      "name": "Vietnam",
       "note": "30 days\n"
     }
   ],

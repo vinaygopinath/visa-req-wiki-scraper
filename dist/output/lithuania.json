@@ -149,10 +149,6 @@
       "note": "\n"
     },
     {
-      "name": "Vietnam",
-      "note": "\n"
-    },
-    {
       "name": "Yemen",
       "note": "\n"
     }
@@ -646,6 +642,10 @@
     },
     {
       "name": "Oman",
+      "note": "30 days\n"
+    },
+    {
+      "name": "Vietnam",
       "note": "30 days\n"
     }
   ],
