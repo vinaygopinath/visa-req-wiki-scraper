@@ -97,10 +97,6 @@
       "note": "\n"
     },
     {
-      "name": "Pakistan",
-      "note": "\n"
-    },
-    {
       "name": "Papua New Guinea",
       "note": "\n"
     },
@@ -567,6 +563,10 @@
       "note": "3 months\n"
     },
     {
+      "name": "Uzbekistan",
+      "note": "30 days\n"
+    },
+    {
       "name": "Vanuatu",
       "note": "90 days\n"
     },
@@ -611,10 +611,6 @@
     {
       "name": "United Kingdom",
       "note": "6 months\n"
-    },
-    {
-      "name": "Uzbekistan",
-      "note": "30 days\n"
     },
     {
       "name": "Vietnam",
@@ -713,6 +709,10 @@
     {
       "name": "Nepal",
       "note": "90 days\n"
+    },
+    {
+      "name": "Pakistan",
+      "note": "30 days\n"
     },
     {
       "name": "Palau",

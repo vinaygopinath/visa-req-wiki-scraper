@@ -187,6 +187,10 @@
       "note": "90 days\n"
     },
     {
+      "name": "Armenia",
+      "note": "180 days\n"
+    },
+    {
       "name": "Austria",
       "note": "90 days\n"
     },
@@ -654,10 +658,6 @@
     }
   ],
   "onArrival": [
-    {
-      "name": "Armenia",
-      "note": "120 days\n"
-    },
     {
       "name": "Azerbaijan",
       "note": "\n"

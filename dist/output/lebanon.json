@@ -576,7 +576,7 @@
     },
     {
       "name": "Egypt",
-      "note": "90 days\n"
+      "note": "90 days within 180 days\n"
     },
     {
       "name": "Georgia (country)",
@@ -666,7 +666,7 @@
     },
     {
       "name": "Uzbekistan",
-      "note": "30 days\n"
+      "note": "30 days per trip\n"
     },
     {
       "name": "Zambia",
@@ -688,7 +688,7 @@
     },
     {
       "name": "Bolivia",
-      "note": "90 days per trip\n"
+      "note": "90 days within 180 days\n"
     },
     {
       "name": "Cambodia",
@@ -696,7 +696,7 @@
     },
     {
       "name": "Cape Verde",
-      "note": "90 days per trip\n"
+      "note": "90 days within 180 days\n"
     },
     {
       "name": "Comoros",
@@ -708,7 +708,7 @@
     },
     {
       "name": "Guinea-Bissau",
-      "note": "90 days per trip\n"
+      "note": "90 days within 180 days\n"
     },
     {
       "name": "Iraq",
@@ -716,7 +716,7 @@
     },
     {
       "name": "Madagascar",
-      "note": "90 days per trip\n"
+      "note": "90 days within 180 days\n"
     },
     {
       "name": "Maldives",
@@ -752,7 +752,7 @@
     },
     {
       "name": "Seychelles",
-      "note": "3 months per trip\n"
+      "note": "3 months within 6 months\n"
     },
     {
       "name": "Somalia",

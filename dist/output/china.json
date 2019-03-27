@@ -5,10 +5,6 @@
       "note": "\n"
     },
     {
-      "name": "Albania",
-      "note": "\n"
-    },
-    {
       "name": "Algeria",
       "note": "\n"
     },
@@ -434,6 +430,10 @@
     }
   ],
   "notRequired": [
+    {
+      "name": "Albania",
+      "note": "\n"
+    },
     {
       "name": "Antigua and Barbuda",
       "note": "30 days\n"

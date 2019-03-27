@@ -217,10 +217,6 @@
       "note": "\n"
     },
     {
-      "name": "Uzbekistan",
-      "note": "\n"
-    },
-    {
       "name": "Vietnam",
       "note": "\n"
     },
@@ -662,6 +658,10 @@
     },
     {
       "name": "Ukraine",
+      "note": "30 days\n"
+    },
+    {
+      "name": "Uzbekistan",
       "note": "30 days\n"
     }
   ],
